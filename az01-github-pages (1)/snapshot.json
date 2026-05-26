@@ -1,0 +1,1091 @@
+{
+  "source": "static-export",
+  "dataAsOf": "2026-05-25",
+  "updatedAt": "2026-05-25T22:41:43.086Z",
+  "exportedAt": "2026-05-25T23:19:57.151Z",
+  "data": {
+    "DISTRICT": {
+      "id": "az-01",
+      "districtNumber": "AZ-01",
+      "districtName": "Arizona Congressional District 1",
+      "state": "Arizona",
+      "counties": [
+        "Maricopa County"
+      ],
+      "majorPlaces": [
+        "Scottsdale",
+        "Paradise Valley",
+        "Cave Creek",
+        "Fountain Hills",
+        "North Phoenix"
+      ],
+      "cycleYear": 2026,
+      "population": 794611,
+      "registeredVoters": 522350,
+      "partyRegistration": [
+        {
+          "label": "Republican",
+          "count": 209400,
+          "pct": 40.1
+        },
+        {
+          "label": "Other / Independent",
+          "count": 187700,
+          "pct": 35.9
+        },
+        {
+          "label": "Democratic",
+          "count": 119600,
+          "pct": 22.9
+        },
+        {
+          "label": "Libertarian",
+          "count": 5650,
+          "pct": 1.1
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — AZ-01",
+        "winner": {
+          "name": "Sample Incumbent (R)",
+          "pct": 49.6,
+          "votes": 213540
+        },
+        "runnerUp": {
+          "name": "Sample Challenger (D)",
+          "pct": 49,
+          "votes": 211010
+        },
+        "turnoutPct": 70.4
+      }
+    },
+    "SOURCES": {
+      "src-maricopa-recorder": {
+        "id": "src-maricopa-recorder",
+        "name": "Maricopa County Recorder",
+        "short": "Recorder",
+        "url": "https://recorder.maricopa.gov/",
+        "publisher": "Maricopa County Recorder's Office",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-01-12",
+        "lastVerified": "2026-05-17",
+        "confidence": "high"
+      },
+      "src-maricopa-recorder-news": {
+        "id": "src-maricopa-recorder-news",
+        "name": "Maricopa Recorder News",
+        "short": "Recorder News",
+        "url": "https://recorder.maricopa.gov/news.html",
+        "publisher": "Maricopa County Recorder's Office",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-01-12",
+        "lastVerified": "2026-05-17",
+        "confidence": "high"
+      },
+      "src-maricopa-register": {
+        "id": "src-maricopa-register",
+        "name": "Maricopa: Register to Vote",
+        "short": "Register",
+        "url": "https://elections.maricopa.gov/voter-registration/register-to-vote.html",
+        "publisher": "Maricopa County Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-01-12",
+        "lastVerified": "2026-05-17",
+        "confidence": "high"
+      },
+      "src-maricopa-where": {
+        "id": "src-maricopa-where",
+        "name": "Maricopa: Where to Vote",
+        "short": "Where to Vote",
+        "url": "https://elections.maricopa.gov/voting/where-to-vote.html",
+        "publisher": "Maricopa County Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-01-10",
+        "lastVerified": "2026-05-17",
+        "confidence": "high"
+      },
+      "src-maricopa-id": {
+        "id": "src-maricopa-id",
+        "name": "Maricopa: ID at the Polls",
+        "short": "ID Rules",
+        "url": "https://elections.maricopa.gov/voting/id-at-the-polls.html",
+        "publisher": "Maricopa County Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-01-10",
+        "lastVerified": "2026-05-17",
+        "confidence": "high"
+      },
+      "src-maricopa-dash": {
+        "id": "src-maricopa-dash",
+        "name": "Maricopa Voter Dashboard",
+        "short": "Voter Dashboard",
+        "url": "https://elections.maricopa.gov/voting/voter-dashboard-login",
+        "publisher": "Maricopa County Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-01-12",
+        "lastVerified": "2026-05-17",
+        "confidence": "high"
+      },
+      "src-az-sos": {
+        "id": "src-az-sos",
+        "name": "Arizona Secretary of State — Elections",
+        "short": "AZ SOS",
+        "url": "https://azsos.gov/elections",
+        "publisher": "Arizona Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-01-12",
+        "lastVerified": "2026-05-17",
+        "confidence": "high"
+      },
+      "src-az-irc-maps": {
+        "id": "src-az-irc-maps",
+        "name": "Arizona IRC Maps",
+        "short": "AZ IRC",
+        "url": "https://irc.az.gov/maps",
+        "publisher": "Arizona Independent Redistricting Commission",
+        "sourceType": "official-district",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2025-12-20",
+        "lastVerified": "2025-12-20",
+        "confidence": "high"
+      },
+      "src-az-statutes": {
+        "id": "src-az-statutes",
+        "name": "Arizona Revised Statutes",
+        "short": "ARS",
+        "url": "https://www.azleg.gov/ARStitle/",
+        "publisher": "Arizona Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-01-08",
+        "lastVerified": "2026-05-17",
+        "confidence": "high"
+      },
+      "src-az-hb2022-law": {
+        "id": "src-az-hb2022-law",
+        "name": "Arizona Laws 2026, Chapter 1 — HB2022",
+        "short": "HB2022 Law",
+        "url": "https://www.azleg.gov/legtext/57leg/2R/laws/0001.pdf",
+        "publisher": "Arizona Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-05-17",
+        "lastVerified": "2026-05-25",
+        "confidence": "high"
+      },
+      "src-az-clean": {
+        "id": "src-az-clean",
+        "name": "Arizona Clean Elections",
+        "short": "AZ Clean Elections",
+        "url": "https://www.azcleanelections.gov/",
+        "publisher": "Arizona Citizens Clean Elections Commission",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-01-10",
+        "lastVerified": "2026-05-25",
+        "confidence": "high"
+      },
+      "src-az-clean-tracking": {
+        "id": "src-az-clean-tracking",
+        "name": "AZ Clean Elections — Ballot Tracking",
+        "short": "AZ Ballot Tracking",
+        "url": "https://www.azcleanelections.gov/election-and-ballot-tracking",
+        "publisher": "Arizona Citizens Clean Elections Commission",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-01-10",
+        "lastVerified": "2026-05-25",
+        "confidence": "high"
+      },
+      "src-az-clean-counting": {
+        "id": "src-az-clean-counting",
+        "name": "AZ Clean Elections — How Votes Are Counted",
+        "short": "AZ Vote Counting",
+        "url": "https://www.azcleanelections.gov/election-security/how-votes-are-counted",
+        "publisher": "Arizona Citizens Clean Elections Commission",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-01-10",
+        "lastVerified": "2026-05-25",
+        "confidence": "high"
+      },
+      "src-eir-cure": {
+        "id": "src-eir-cure",
+        "name": "Election Innovation Research — Mail Ballot Cure",
+        "short": "EIR Cure",
+        "url": "https://electioninnovation.org/research/mail-ballot-cure/",
+        "publisher": "Election Innovation Research",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-01-05",
+        "lastVerified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "src-ballotpedia": {
+        "id": "src-ballotpedia",
+        "name": "Ballotpedia — Arizona Election Calendar",
+        "short": "Ballotpedia AZ",
+        "url": "https://ballotpedia.org/Arizona_election_calendar",
+        "publisher": "Ballotpedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 7,
+        "dateAccessed": "2026-01-09",
+        "lastVerified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "src-ballotready": {
+        "id": "src-ballotready",
+        "name": "BallotReady — Arizona",
+        "short": "BallotReady AZ",
+        "url": "https://www.ballotready.org/us/arizona",
+        "publisher": "BallotReady",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-01-09",
+        "lastVerified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "src-votesafe": {
+        "id": "src-votesafe",
+        "name": "VoteSafe Arizona",
+        "short": "VoteSafe AZ",
+        "url": "https://votesafe.org/az/voting",
+        "publisher": "VoteSafe",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-01-04",
+        "lastVerified": "2026-01-04",
+        "confidence": "medium"
+      },
+      "src-voteorg": {
+        "id": "src-voteorg",
+        "name": "Vote.org — Arizona",
+        "short": "Vote.org AZ",
+        "url": "https://www.vote.org/arizona/",
+        "publisher": "Vote.org",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-01-09",
+        "lastVerified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "src-votebeat-az": {
+        "id": "src-votebeat-az",
+        "name": "Votebeat Arizona",
+        "short": "Votebeat AZ",
+        "url": "https://www.votebeat.org/arizona/",
+        "publisher": "Votebeat",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-01-12",
+        "lastVerified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "src-az-republic": {
+        "id": "src-az-republic",
+        "name": "Arizona Republic",
+        "short": "AZ Republic",
+        "url": "https://www.azcentral.com/",
+        "publisher": "The Arizona Republic",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-01-12",
+        "lastVerified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "src-recordreporter": {
+        "id": "src-recordreporter",
+        "name": "Arizona Record Reporter — Public Notices",
+        "short": "Record Reporter",
+        "url": "https://www.recordreporter.com/home.cfm?ref=publicnotices&disp=2",
+        "publisher": "Arizona Record Reporter",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-01-10",
+        "lastVerified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "src-knau": {
+        "id": "src-knau",
+        "name": "KNAU",
+        "short": "KNAU",
+        "url": "https://www.knau.org/",
+        "publisher": "KNAU Arizona Public Radio",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-01-11",
+        "lastVerified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "src-orovalley-2026": {
+        "id": "src-orovalley-2026",
+        "name": "Oro Valley — 2026 Election Deadlines",
+        "short": "Oro Valley 2026",
+        "url": "https://www.orovalleyaz.gov/Government/News/New-Arizona-law-moves-up-2026-election-deadlines-in-Oro-Valley",
+        "publisher": "Town of Oro Valley",
+        "sourceType": "official-state",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-01-06",
+        "lastVerified": "2026-05-25",
+        "confidence": "low",
+        "notes": "Contextual; verify against AZ SOS before relying on it."
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "ev-primary-reg-deadline",
+        "electionType": "primary",
+        "milestone": "Voter registration deadline",
+        "date": "2026-06-22",
+        "significance": "Last day to register to vote in the July 21 AZ primary.",
+        "governingAuthority": "Arizona SOS / Maricopa Recorder",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-az-sos",
+          "src-maricopa-register"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-17",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-primary-early-start",
+        "electionType": "primary",
+        "milestone": "Early voting begins",
+        "date": "2026-06-24",
+        "significance": "Mail ballots delivered; in-person early voting opens 27 days before the July 21 primary.",
+        "governingAuthority": "Maricopa County Elections",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-maricopa-where",
+          "src-az-sos"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-17",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-primary-mail-request",
+        "electionType": "primary",
+        "milestone": "Mail-ballot request deadline",
+        "date": "2026-07-10",
+        "significance": "Last day to request a mail ballot for the July 21 primary.",
+        "governingAuthority": "Arizona SOS",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-az-sos",
+          "src-az-clean"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-17",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-primary-early-end",
+        "electionType": "primary",
+        "milestone": "Early voting ends",
+        "date": "2026-07-17",
+        "significance": "Final day of in-person early voting before primary day.",
+        "governingAuthority": "Maricopa County Elections",
+        "sourceIds": [
+          "src-maricopa-where"
+        ],
+        "confidence": "medium",
+        "lastVerified": "2026-05-17",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-primary-day",
+        "electionType": "primary",
+        "milestone": "Primary election day",
+        "date": "2026-07-21",
+        "significance": "Arizona statewide primary moved from Aug. 4 to July 21 by HB2022.",
+        "governingAuthority": "Arizona SOS",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-az-sos"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-17",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-primary-receipt",
+        "electionType": "primary",
+        "milestone": "Ballot receipt deadline",
+        "date": "2026-07-21",
+        "significance": "Mail ballots must be received by 7:00 PM local time.",
+        "governingAuthority": "Arizona SOS",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-az-sos",
+          "src-az-statutes"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-17",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-primary-cure",
+        "electionType": "primary",
+        "milestone": "Signature cure deadline",
+        "date": "2026-07-26",
+        "significance": "Five-calendar-day signature cure window for the federal-office primary; county implementation details still need monitoring.",
+        "governingAuthority": "Maricopa Recorder",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-eir-cure",
+          "src-maricopa-recorder"
+        ],
+        "confidence": "medium",
+        "lastVerified": "2026-05-17",
+        "status": "estimated"
+      },
+      {
+        "id": "ev-general-reg-deadline",
+        "electionType": "general",
+        "milestone": "Voter registration deadline",
+        "date": "2026-10-05",
+        "significance": "Last day to register to vote in the November general election.",
+        "governingAuthority": "Arizona SOS / Maricopa Recorder",
+        "sourceIds": [
+          "src-az-sos",
+          "src-maricopa-register"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-01-12",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-general-early-start",
+        "electionType": "general",
+        "milestone": "Early voting begins",
+        "date": "2026-10-07",
+        "significance": "Mail ballots delivered; in-person early voting opens.",
+        "governingAuthority": "Maricopa County Elections",
+        "sourceIds": [
+          "src-maricopa-where"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-01-12",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-general-mail-request",
+        "electionType": "general",
+        "milestone": "Mail-ballot request deadline",
+        "date": "2026-10-23",
+        "significance": "Last day to request a mail ballot for the general.",
+        "governingAuthority": "Arizona SOS",
+        "sourceIds": [
+          "src-az-sos"
+        ],
+        "confidence": "medium",
+        "lastVerified": "2026-01-10",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-general-early-end",
+        "electionType": "general",
+        "milestone": "Early voting ends",
+        "date": "2026-10-30",
+        "significance": "Final day of in-person early voting.",
+        "governingAuthority": "Maricopa County Elections",
+        "sourceIds": [
+          "src-maricopa-where"
+        ],
+        "confidence": "medium",
+        "lastVerified": "2026-01-10",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-general-day",
+        "electionType": "general",
+        "milestone": "General election day",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election.",
+        "governingAuthority": "Federal / Arizona SOS",
+        "sourceIds": [
+          "src-az-sos",
+          "src-ballotpedia"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-01-12",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-general-receipt",
+        "electionType": "general",
+        "milestone": "Ballot receipt deadline",
+        "date": "2026-11-03",
+        "significance": "Mail ballots must be received by 7:00 PM local time.",
+        "governingAuthority": "Arizona SOS",
+        "sourceIds": [
+          "src-az-sos",
+          "src-az-statutes"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-01-12",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-general-cure",
+        "electionType": "general",
+        "milestone": "Signature cure deadline",
+        "date": "2026-11-08",
+        "significance": "Voters may cure signature issues; under conflict review.",
+        "governingAuthority": "Maricopa Recorder",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-eir-cure",
+          "src-maricopa-recorder"
+        ],
+        "confidence": "medium",
+        "lastVerified": "2026-05-17",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-registration",
+        "topic": "Registration requirements",
+        "currentRule": "Online, mail, or in-person registration. Must be a U.S. citizen, AZ resident, 18+ by election day.",
+        "status": "active",
+        "whyItMatters": "Determines who can cast a ballot in AZ-01.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-az-sos",
+          "src-maricopa-register"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-01-12",
+        "detail": "Registration must be received 29 days before the election. Voters can register online if they have an AZ driver license or state ID."
+      },
+      {
+        "id": "rule-poc",
+        "topic": "Proof of citizenship",
+        "currentRule": "Documentary proof of citizenship required to vote a full ballot in state and local races.",
+        "status": "watch",
+        "whyItMatters": "Federal-only voters who lack documentary proof receive a restricted federal-only ballot.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-az-statutes",
+          "src-az-sos"
+        ],
+        "confidence": "medium",
+        "lastVerified": "2026-01-08",
+        "needsReview": true,
+        "detail": "Sample placeholder text. Confirm exact statutory references and current litigation status before public release."
+      },
+      {
+        "id": "rule-id",
+        "topic": "Voter ID at the polls",
+        "currentRule": "Photo ID or two non-photo IDs with name and address. Out-of-precinct voters cast a provisional ballot.",
+        "status": "active",
+        "whyItMatters": "Affects in-person eligibility and provisional ballot handling.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-maricopa-id",
+          "src-az-sos"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-01-10"
+      },
+      {
+        "id": "rule-vbm",
+        "topic": "Vote by mail",
+        "currentRule": "Open vote-by-mail. Any registered voter may request a mail ballot for a single election.",
+        "status": "active",
+        "whyItMatters": "Most Maricopa voters cast their ballot by mail.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-az-sos",
+          "src-az-clean-tracking"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-01-10"
+      },
+      {
+        "id": "rule-aevl",
+        "topic": "Active Early Voting List",
+        "currentRule": "Voters may join the AEVL to automatically receive a mail ballot for every eligible election.",
+        "status": "active",
+        "whyItMatters": "Primary mechanism for recurring mail ballots in AZ.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-az-sos"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-01-10"
+      },
+      {
+        "id": "rule-early",
+        "topic": "Early voting rules",
+        "currentRule": "In-person early voting begins 27 days before election day at Maricopa vote centers.",
+        "status": "active",
+        "whyItMatters": "Reduces election-day crowding and provides alternative locations.",
+        "governingLevel": "countywide",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-maricopa-where"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-01-10"
+      },
+      {
+        "id": "rule-locations",
+        "topic": "Voting location changes",
+        "currentRule": "Maricopa uses vote centers; any voter may use any open center on election day.",
+        "status": "active",
+        "whyItMatters": "Removes precinct-only restrictions for in-person voting.",
+        "governingLevel": "countywide",
+        "sourceIds": [
+          "src-maricopa-where"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-01-10"
+      },
+      {
+        "id": "rule-boundaries",
+        "topic": "District boundary",
+        "currentRule": "AZ-01 boundary set by the 2021 Independent Redistricting Commission map for the 2022-2030 cycle.",
+        "status": "active",
+        "whyItMatters": "Determines who is a constituent of AZ-01.",
+        "governingLevel": "district",
+        "sourceIds": [
+          "src-az-irc-maps"
+        ],
+        "confidence": "high",
+        "lastVerified": "2025-12-20"
+      },
+      {
+        "id": "rule-primary-calendar",
+        "topic": "2026 primary calendar",
+        "currentRule": "July 21, 2026 is the controlling primary election date for AZ-01 voter-facing deadlines. Any Aug. 4, 2026 references from older sources are superseded and may remain visible only as stale-source warnings or historical audit notes.",
+        "status": "active",
+        "whyItMatters": "Prevents stale Aug. 4 references from driving registration, early voting, mail-ballot request, or ballot-receipt deadlines.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-az-sos"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-17",
+        "detail": "User resolution recorded May 17, 2026: keep Aug. 4 visible only when clearly labeled superseded; use July 21 for all deadline calculations and public-facing cards."
+      },
+      {
+        "id": "rule-mail-request",
+        "topic": "Mail-ballot request rules",
+        "currentRule": "Mail ballot requests are due 11 days before election day; for the 2026 primary, that date is July 10.",
+        "status": "active",
+        "whyItMatters": "Late requests are rejected; voter must use in-person early voting or election-day voting.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-az-sos",
+          "src-az-clean"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-17"
+      },
+      {
+        "id": "rule-return",
+        "topic": "Ballot return rules",
+        "currentRule": "Mail ballots must be received (not postmarked) by 7:00 PM on election day.",
+        "status": "active",
+        "whyItMatters": "Most-common ballot rejection reason is late receipt.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-az-sos",
+          "src-az-statutes"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-17"
+      },
+      {
+        "id": "rule-rejection",
+        "topic": "Ballot rejection",
+        "currentRule": "Common rejection causes: late receipt, missing signature, signature mismatch, voter not registered at address.",
+        "status": "active",
+        "whyItMatters": "Affects whether a returned ballot is counted.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-az-clean-counting"
+        ],
+        "confidence": "medium",
+        "lastVerified": "2026-01-10"
+      },
+      {
+        "id": "rule-cure",
+        "topic": "Ballot curing",
+        "currentRule": "For 2026 federal-office elections, voters may cure signature issues during a five-calendar-day post-election window; monitor county implementation details.",
+        "status": "watch",
+        "whyItMatters": "Curing window directly determines whether a ballot is counted.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-az-statutes",
+          "src-eir-cure"
+        ],
+        "confidence": "medium",
+        "lastVerified": "2026-05-17",
+        "needsReview": true,
+        "detail": "HB2022 confirms the 2026 federal-office cure window uses calendar days; retain as watch until Maricopa publishes district/election-specific implementation guidance."
+      },
+      {
+        "id": "rule-canvass",
+        "topic": "Canvass rules",
+        "currentRule": "County canvass within 20 days; statewide canvass certifies official results.",
+        "status": "active",
+        "whyItMatters": "Determines when results become official.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-az-statutes",
+          "src-az-clean-counting"
+        ],
+        "confidence": "medium",
+        "lastVerified": "2026-01-08"
+      },
+      {
+        "id": "rule-recount",
+        "topic": "Recount rules",
+        "currentRule": "Automatic recount triggered when margin is at or below the statutory threshold.",
+        "status": "active",
+        "whyItMatters": "Determines whether a recount runs and on what timeline.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-az-statutes"
+        ],
+        "confidence": "medium",
+        "lastVerified": "2026-01-08"
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-register",
+        "label": "Register to vote",
+        "description": "Online registration for Arizona voters with an AZ driver license or ID.",
+        "url": "https://servicearizona.com/voterRegistration",
+        "governingAuthority": "Arizona SOS",
+        "sourceType": "official-state",
+        "sourceId": "src-az-sos",
+        "lastVerified": "2026-01-12"
+      },
+      {
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Maricopa County vote-center locations and hours.",
+        "url": "https://elections.maricopa.gov/voting/where-to-vote.html",
+        "governingAuthority": "Maricopa County Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-maricopa-where",
+        "lastVerified": "2026-01-10"
+      },
+      {
+        "id": "res-status",
+        "label": "Check registration status",
+        "description": "Confirm registration, polling place, and party affiliation.",
+        "url": "https://my.arizona.vote/WhereToVote.aspx",
+        "governingAuthority": "Arizona SOS",
+        "sourceType": "official-state",
+        "sourceId": "src-az-sos",
+        "lastVerified": "2026-01-12"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Track mail-ballot status from request to acceptance.",
+        "url": "https://www.azcleanelections.gov/election-and-ballot-tracking",
+        "governingAuthority": "AZ Clean Elections",
+        "sourceType": "civic-nonprofit",
+        "sourceId": "src-az-clean-tracking",
+        "lastVerified": "2026-01-10"
+      },
+      {
+        "id": "res-verify",
+        "label": "Verify ballot was counted",
+        "description": "After the election, confirm whether your mail ballot was accepted and counted.",
+        "url": "https://www.azcleanelections.gov/election-and-ballot-tracking",
+        "governingAuthority": "AZ Clean Elections",
+        "sourceType": "civic-nonprofit",
+        "sourceId": "src-az-clean-tracking",
+        "lastVerified": "2026-01-10"
+      },
+      {
+        "id": "res-dashboard",
+        "label": "Maricopa voter dashboard",
+        "description": "Personalized voter dashboard with ballot, district, and registration info.",
+        "url": "https://elections.maricopa.gov/voting/voter-dashboard-login",
+        "governingAuthority": "Maricopa County Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-maricopa-dash",
+        "lastVerified": "2026-01-12"
+      },
+      {
+        "id": "res-canvass",
+        "label": "Canvass information",
+        "description": "How and when Arizona counties certify election results.",
+        "url": "https://www.azcleanelections.gov/election-security/how-votes-are-counted",
+        "governingAuthority": "AZ Clean Elections",
+        "sourceType": "civic-nonprofit",
+        "sourceId": "src-az-clean-counting",
+        "lastVerified": "2026-01-10"
+      },
+      {
+        "id": "res-recount",
+        "label": "Recount information",
+        "description": "When automatic recounts trigger under Arizona law.",
+        "url": "https://www.azleg.gov/ARStitle/",
+        "governingAuthority": "Arizona Legislature",
+        "sourceType": "statutory",
+        "sourceId": "src-az-statutes",
+        "lastVerified": "2026-01-08"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-001",
+        "title": "Arizona 2026 primary date moved earlier",
+        "fieldChanged": "Primary election calendar",
+        "oldValue": "Aug. 4, 2026 primary with July deadlines",
+        "newValue": "July 21, 2026 primary; registration June 22; early voting June 24; mail-ballot request July 10",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-az-sos"
+        ],
+        "detectedAt": "2026-05-17T20:42:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "ready_for_public_review"
+      },
+      {
+        "id": "upd-002",
+        "title": "Mail-ballot request deadline reset to July 10",
+        "fieldChanged": "Primary mail-ballot request deadline",
+        "oldValue": "July 24, 2026",
+        "newValue": "July 10, 2026",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-az-clean"
+        ],
+        "detectedAt": "2026-05-17T19:20:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-003",
+        "title": "Primary signature cure window marked watch",
+        "fieldChanged": "Primary signature cure deadline",
+        "oldValue": "Not yet confirmed",
+        "newValue": "July 26, 2026, based on five-calendar-day 2026 federal-office cure rule",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-eir-cure",
+          "src-maricopa-recorder"
+        ],
+        "detectedAt": "2026-05-16T18:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "needs_review"
+      },
+      {
+        "id": "upd-004",
+        "title": "Early voting window moved to June 24–July 17",
+        "fieldChanged": "Primary early voting window",
+        "oldValue": "July 8–July 31, 2026",
+        "newValue": "June 24–July 17, 2026",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-az-sos"
+        ],
+        "detectedAt": "2026-05-16T16:15:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "ready_for_public_review"
+      },
+      {
+        "id": "upd-005",
+        "title": "Aug. 4 references labeled superseded",
+        "fieldChanged": "Primary calendar conflict resolution",
+        "oldValue": "Aug. 4 references remained in the human-review queue",
+        "newValue": "Keep Aug. 4 only as a superseded stale-source warning; July 21 controls voter-facing deadlines",
+        "sourceIds": [
+          "src-az-hb2022-law",
+          "src-az-sos"
+        ],
+        "detectedAt": "2026-05-17T23:50:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "public"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-001",
+        "factInQuestion": "Superseded Aug. 4 primary references",
+        "sourceAId": "src-az-hb2022-law",
+        "sourceAClaim": "Enacted HB2022 moves the 2026 primary to July 21, 2026.",
+        "sourceBId": "src-az-clean",
+        "sourceBClaim": "Some older AZ election-resource pages still present Aug. 4 cycle references or were built around the former calendar; those references are stale and superseded.",
+        "whyItMatters": "The controlling date drives registration, early voting, mail-ballot, and ballot receipt deadlines.",
+        "suggestedReviewAction": "Resolved: keep Aug. 4 visible only as a clearly labeled superseded stale-source warning or historical audit note. Do not use Aug. 4 for voter-facing deadline calculations; July 21, 2026 controls.",
+        "severity": "medium",
+        "status": "resolved",
+        "createdAt": "2026-05-17T20:50:00Z"
+      },
+      {
+        "id": "conf-002",
+        "factInQuestion": "Exact county implementation language for the 2026 signature-cure deadline",
+        "sourceAId": "src-az-hb2022-law",
+        "sourceAClaim": "For 2026 federal-office elections, the cure period is expressed as five calendar days.",
+        "sourceBId": "src-eir-cure",
+        "sourceBClaim": "Older national explainers may still describe Arizona cure windows as five business days.",
+        "whyItMatters": "The cure deadline affects whether signature-defect ballots are counted after the primary or general election.",
+        "suggestedReviewAction": "Use the enacted statute as controlling; keep cure deadline in Watch status until Maricopa posts election-specific cure instructions.",
+        "severity": "medium",
+        "status": "unresolved",
+        "createdAt": "2026-05-17T20:55:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-001",
+        "headline": "Judge strikes down rule requiring counties to aid voters who go to wrong polling place",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2026/05/02/pinal-county-adrian-fontes-ballots-precinct-voting-court-ruling/",
+        "publishedAt": "2026-05-02",
+        "relevanceSummary": "Required VoteBeat Policies coverage: a court ruling affects whether precinct-model counties must help voters cast the correct ballot after going to the wrong polling place.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-002",
+        "headline": "Federal judge dismisses DOJ lawsuit seeking Arizona voter data",
+        "sourceName": "KNAU / Associated Press",
+        "url": "https://www.knau.org/knau-and-arizona-news/2026-04-28/federal-judge-dismisses-doj-lawsuit-against-arizona-seeking-voter-data",
+        "publishedAt": "2026-04-28",
+        "relevanceSummary": "Federal court ruling affects whether Arizona must provide detailed statewide voter registration data to the Justice Department.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-003",
+        "headline": "Top Arizona officials urge counties to withhold voter data",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2026/03/11/kris-mayes-adrian-fontes-voter-rolls-fbi-dhs-doj-probe-2020-election/",
+        "publishedAt": "2026-03-11",
+        "relevanceSummary": "Arizona officials told counties not to provide voter-roll data in response to federal requests without legal review.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-004",
+        "headline": "Maricopa County recorder’s noncitizen-voter claim may be inflated",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2026/02/18/maricopa-county-justin-heap-137-noncitizens-registered-voter-rolls-save-dhs-database/",
+        "publishedAt": "2026-02-18",
+        "relevanceSummary": "Required VoteBeat voter-registration/rolls coverage: Maricopa’s recorder said a database check flagged 137 possible noncitizens, while experts and officials warned the data may be unreliable.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-005",
+        "headline": "Arizona primary moves from Aug. 4 to July 21 under new law",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2026/02/04/2026-primary-election-date-move-earlier-legislature-bill-kolodin-hobbs/",
+        "publishedAt": "2026-02-04",
+        "relevanceSummary": "Required VoteBeat election-law/policy coverage: the new law changes the 2026 primary calendar and affects registration, early voting, mail-ballot, and cure-window timing.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-006",
+        "headline": "Justice Department sues Arizona, Connecticut for access to voter lists",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2026/01/06/doj-sues-arizona-connecticut-unredacted-voter-rolls-adrian-fontes/",
+        "publishedAt": "2026-01-06",
+        "relevanceSummary": "Required VoteBeat Election Laws and Voter Registration & Rolls coverage: the federal lawsuit seeks unredacted voter-list data from Arizona and Connecticut.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-007",
+        "headline": "Pinal suspends registrations while Maricopa relaxes citizenship-error policy",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2025/10/22/pinal-maricopa-county-proof-of-citizenship-voter-registration/",
+        "publishedAt": "2025-10-22",
+        "relevanceSummary": "Required VoteBeat Voter Registration & Rolls coverage: county policies diverged for voters affected by Arizona’s proof-of-citizenship record-keeping error.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-008",
+        "headline": "Federal court blocks Arizona voter intimidation rule",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2025/09/17/election-procedures-manual-voter-intimidation-rule-blocked-by-court/",
+        "publishedAt": "2025-09-17",
+        "relevanceSummary": "Required VoteBeat Election Laws coverage: a federal appeals panel blocked a voter-intimidation rule in Arizona’s election procedures manual while allowing a certification-timeline rule to stand.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-009",
+        "headline": "Battle over Arizona election manual expands to citizenship checks and early voting",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2025/09/15/republicans-challenge-secretary-of-state-adrian-fontes-election-procedures-manual/",
+        "publishedAt": "2025-09-15",
+        "relevanceSummary": "Required VoteBeat Voter Registration & Rolls and policy coverage: lawmakers challenged draft manual instructions on citizenship checks, early voting, and ballot counting.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-010",
+        "headline": "Two Arizona counties to enforce limits on voters affected by state error",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2025/09/08/arizona-voters-may-still-lose-voting-rights-after-state-error/",
+        "publishedAt": "2025-09-08",
+        "relevanceSummary": "Required VoteBeat voter-registration/policy coverage: Maricopa and Pinal policies affect voters caught in Arizona’s citizenship-record error.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-05-25T22-41-41-647Z-az01",
+      "startedAt": "2026-05-25T22:41:41.647Z",
+      "completedAt": "2026-05-25T22:41:43.086Z",
+      "triggerType": "manual",
+      "sourcesChecked": 23,
+      "updatesCreated": 0,
+      "conflictsCreated": 1,
+      "errors": [],
+      "summary": "Checked 23 sources: 13 reachable, 10 browser-fallback queued, 0 errors. Date candidates found: 61. Source verification updated 2026-05-25."
+    },
+    "NEXT_REFRESH_AT": "2026-05-27T22:41:43.086Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-2026-w20",
+      "periodStart": "2026-05-11",
+      "periodEnd": "2026-05-17",
+      "sourcesChecked": 21,
+      "newUpdates": 5,
+      "conflictsCreated": 2,
+      "conflictsResolved": 1,
+      "deadlinesChanged": 5,
+      "rulesChanged": 3,
+      "newsItems": 10,
+      "needsReview": 3,
+      "sourceErrors": 0,
+      "summary": "Week of May 11–17, 2026: completed the AZ-01 real-data pass. HB2022 changed the 2026 primary calendar; the dashboard now treats July 21 as controlling, updates dependent deadlines, keeps Aug. 4 visible only as a superseded stale-source warning, keeps county cure-window implementation in the human-review queue, and applies the VoteBeat Arizona required-tag news rule, including the Policy/Policies tag family, with a 10-story newest-to-oldest cap.",
+      "generatedAt": "2026-05-17T23:56:00Z"
+    }
+  }
+}
