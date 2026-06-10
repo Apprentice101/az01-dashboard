@@ -1,8 +1,8 @@
 {
   "source": "static-export",
-  "dataAsOf": "2026-06-03",
-  "updatedAt": "2026-06-03T16:59:44.051Z",
-  "exportedAt": "2026-06-03T16:59:44.051Z",
+  "dataAsOf": "2026-06-10",
+  "updatedAt": "2026-06-10T18:55:00Z",
+  "exportedAt": "2026-06-10T18:55:00Z",
   "data": {
     "DISTRICT": {
       "id": "az-01",
@@ -46,7 +46,7 @@
       ],
       "previousResult": {
         "year": 2024,
-        "seat": "U.S. House — AZ-01",
+        "seat": "U.S. House \u2014 AZ-01",
         "winner": {
           "name": "Sample Incumbent (R)",
           "pct": 49.6,
@@ -135,7 +135,7 @@
       },
       "src-az-sos": {
         "id": "src-az-sos",
-        "name": "Arizona Secretary of State — Elections",
+        "name": "Arizona Secretary of State \u2014 Elections",
         "short": "AZ SOS",
         "url": "https://azsos.gov/elections",
         "publisher": "Arizona Secretary of State",
@@ -171,7 +171,7 @@
       },
       "src-az-hb2022-law": {
         "id": "src-az-hb2022-law",
-        "name": "Arizona Laws 2026, Chapter 1 — HB2022",
+        "name": "Arizona Laws 2026, Chapter 1 \u2014 HB2022",
         "short": "HB2022 Law",
         "url": "https://www.azleg.gov/legtext/57leg/2R/laws/0001.pdf",
         "publisher": "Arizona Legislature",
@@ -195,7 +195,7 @@
       },
       "src-az-clean-tracking": {
         "id": "src-az-clean-tracking",
-        "name": "AZ Clean Elections — Ballot Tracking",
+        "name": "AZ Clean Elections \u2014 Ballot Tracking",
         "short": "AZ Ballot Tracking",
         "url": "https://www.azcleanelections.gov/election-and-ballot-tracking",
         "publisher": "Arizona Citizens Clean Elections Commission",
@@ -207,7 +207,7 @@
       },
       "src-az-clean-counting": {
         "id": "src-az-clean-counting",
-        "name": "AZ Clean Elections — How Votes Are Counted",
+        "name": "AZ Clean Elections \u2014 How Votes Are Counted",
         "short": "AZ Vote Counting",
         "url": "https://www.azcleanelections.gov/election-security/how-votes-are-counted",
         "publisher": "Arizona Citizens Clean Elections Commission",
@@ -219,7 +219,7 @@
       },
       "src-eir-cure": {
         "id": "src-eir-cure",
-        "name": "Election Innovation Research — Mail Ballot Cure",
+        "name": "Election Innovation Research \u2014 Mail Ballot Cure",
         "short": "EIR Cure",
         "url": "https://electioninnovation.org/research/mail-ballot-cure/",
         "publisher": "Election Innovation Research",
@@ -231,7 +231,7 @@
       },
       "src-ballotpedia": {
         "id": "src-ballotpedia",
-        "name": "Ballotpedia — Arizona Election Calendar",
+        "name": "Ballotpedia \u2014 Arizona Election Calendar",
         "short": "Ballotpedia AZ",
         "url": "https://ballotpedia.org/Arizona_election_calendar",
         "publisher": "Ballotpedia",
@@ -243,7 +243,7 @@
       },
       "src-ballotready": {
         "id": "src-ballotready",
-        "name": "BallotReady — Arizona",
+        "name": "BallotReady \u2014 Arizona",
         "short": "BallotReady AZ",
         "url": "https://www.ballotready.org/us/arizona",
         "publisher": "BallotReady",
@@ -267,7 +267,7 @@
       },
       "src-voteorg": {
         "id": "src-voteorg",
-        "name": "Vote.org — Arizona",
+        "name": "Vote.org \u2014 Arizona",
         "short": "Vote.org AZ",
         "url": "https://www.vote.org/arizona/",
         "publisher": "Vote.org",
@@ -303,7 +303,7 @@
       },
       "src-recordreporter": {
         "id": "src-recordreporter",
-        "name": "Arizona Record Reporter — Public Notices",
+        "name": "Arizona Record Reporter \u2014 Public Notices",
         "short": "Record Reporter",
         "url": "https://www.recordreporter.com/home.cfm?ref=publicnotices&disp=2",
         "publisher": "Arizona Record Reporter",
@@ -327,7 +327,7 @@
       },
       "src-orovalley-2026": {
         "id": "src-orovalley-2026",
-        "name": "Oro Valley — 2026 Election Deadlines",
+        "name": "Oro Valley \u2014 2026 Election Deadlines",
         "short": "Oro Valley 2026",
         "url": "https://www.orovalleyaz.gov/Government/News/New-Arizona-law-moves-up-2026-election-deadlines-in-Oro-Valley",
         "publisher": "Town of Oro Valley",
@@ -900,10 +900,10 @@
       },
       {
         "id": "upd-004",
-        "title": "Early voting window moved to June 24–July 17",
+        "title": "Early voting window moved to June 24\u2013July 17",
         "fieldChanged": "Primary early voting window",
-        "oldValue": "July 8–July 31, 2026",
-        "newValue": "June 24–July 17, 2026",
+        "oldValue": "July 8\u2013July 31, 2026",
+        "newValue": "June 24\u2013July 17, 2026",
         "sourceIds": [
           "src-az-hb2022-law",
           "src-az-sos"
@@ -959,6 +959,66 @@
     ],
     "NEWS": [
       {
+        "id": "news-2026-0610-01",
+        "headline": "National parties pick their candidates in competitive CD1 race",
+        "sourceName": "Axios Phoenix",
+        "url": "https://www.axios.com/local/phoenix/2026/06/08/republicans-democrats-candidates-arizona-1st-congressional-district-cd1",
+        "publishedAt": "2026-06-08",
+        "relevanceSummary": "Required VoteBeat Policies coverage: DCCC adds Marlene Gal\u00e1n-Woods to its Red-to-Blue program and NRCC backs Trump-endorsed Jay Feely in the open AZ-01 primary, signaling donor and super-PAC alignment before July 21.",
+        "tag": "primary",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-2026-0610-02",
+        "headline": "Outside counsel will investigate 'theft' claims against Heap's office over voting equipment",
+        "sourceName": "KJZZ",
+        "url": "https://www.kjzz.org/politics/2026-06-08/outside-counsel-will-investigate-theft-claims-against-heaps-office-over-voting-equipment",
+        "publishedAt": "2026-06-08",
+        "relevanceSummary": "Required VoteBeat Policies coverage: Maricopa Board of Supervisors accuses Recorder Heap's office of improperly seizing election equipment and documents during a local election count; outside counsel now investigating.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-2026-0610-03",
+        "headline": "'This is chaos': Maricopa election-denier recorder accused of seizing election machines, ballots",
+        "sourceName": "Democracy Docket",
+        "url": "https://www.democracydocket.com/news-alerts/maricopa-county-supervisor-board-recorder-justin-heap-election-machines-ballot/",
+        "publishedAt": "2026-06-09",
+        "relevanceSummary": "Required VoteBeat Policies coverage: detailed account of Heap-vs-BOS election-management dispute, with implications for Maricopa County preparedness 41 days before the July 21 AZ-01 primary.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-2026-0610-04",
+        "headline": "Former Maricopa County Recorder Helen Purcell backs supervisors in election fight with Heap",
+        "sourceName": "KJZZ",
+        "url": "https://www.kjzz.org/politics/2026-06-05/former-maricopa-county-recorder-helen-purcell-backs-supervisors-in-election-fight-with-heap",
+        "publishedAt": "2026-06-05",
+        "relevanceSummary": "Required VoteBeat Policies coverage: a former Maricopa County recorder publicly sides with the Board of Supervisors against current Recorder Heap, adding institutional weight to the equipment-control dispute.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-2026-0610-05",
+        "headline": "Arizona Supreme Court declines to review fake electors case against Trump allies",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://thevotingnews.com/2026/06/05/",
+        "publishedAt": "2026-06-05",
+        "relevanceSummary": "Required VoteBeat Policies coverage: the AZ Supreme Court will not review lower-court rulings that crippled AG Mayes' fake electors case, leaving prosecution of 18 alleged 2020 false electors in limbo.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-2026-0610-06",
+        "headline": "Arizona lawmakers head into June 17 special session on redistricting and QR-code vote counting",
+        "sourceName": "The Voting News",
+        "url": "https://thevotingnews.com/2026/06/05/",
+        "publishedAt": "2026-06-05",
+        "relevanceSummary": "Required VoteBeat Policies coverage: lawmakers face a self-imposed July 1 deadline to redraw maps and replace the QR codes currently used to count votes, with potential downstream effects on AZ-01 ballot design and counting.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
         "id": "news-001",
         "headline": "Judge strikes down rule requiring counties to aid voters who go to wrong polling place",
         "sourceName": "Votebeat Arizona",
@@ -966,7 +1026,7 @@
         "publishedAt": "2026-05-02",
         "relevanceSummary": "Required VoteBeat Policies coverage: a court ruling affects whether precinct-model counties must help voters cast the correct ballot after going to the wrong polling place.",
         "tag": "litigation",
-        "reviewState": "new"
+        "reviewState": "reviewed"
       },
       {
         "id": "news-002",
@@ -976,7 +1036,7 @@
         "publishedAt": "2026-04-28",
         "relevanceSummary": "Federal court ruling affects whether Arizona must provide detailed statewide voter registration data to the Justice Department.",
         "tag": "voter-resource",
-        "reviewState": "new"
+        "reviewState": "reviewed"
       },
       {
         "id": "news-003",
@@ -986,106 +1046,46 @@
         "publishedAt": "2026-03-11",
         "relevanceSummary": "Arizona officials told counties not to provide voter-roll data in response to federal requests without legal review.",
         "tag": "administration",
-        "reviewState": "new"
+        "reviewState": "reviewed"
       },
       {
         "id": "news-004",
-        "headline": "Maricopa County recorder’s noncitizen-voter claim may be inflated",
+        "headline": "Maricopa County recorder\u2019s noncitizen-voter claim may be inflated",
         "sourceName": "Votebeat Arizona",
         "url": "https://www.votebeat.org/arizona/2026/02/18/maricopa-county-justin-heap-137-noncitizens-registered-voter-rolls-save-dhs-database/",
         "publishedAt": "2026-02-18",
-        "relevanceSummary": "Required VoteBeat voter-registration/rolls coverage: Maricopa’s recorder said a database check flagged 137 possible noncitizens, while experts and officials warned the data may be unreliable.",
+        "relevanceSummary": "Required VoteBeat voter-registration/rolls coverage: Maricopa\u2019s recorder said a database check flagged 137 possible noncitizens, while experts and officials warned the data may be unreliable.",
         "tag": "administration",
-        "reviewState": "new"
-      },
-      {
-        "id": "news-005",
-        "headline": "Arizona primary moves from Aug. 4 to July 21 under new law",
-        "sourceName": "Votebeat Arizona",
-        "url": "https://www.votebeat.org/arizona/2026/02/04/2026-primary-election-date-move-earlier-legislature-bill-kolodin-hobbs/",
-        "publishedAt": "2026-02-04",
-        "relevanceSummary": "Required VoteBeat election-law/policy coverage: the new law changes the 2026 primary calendar and affects registration, early voting, mail-ballot, and cure-window timing.",
-        "tag": "deadline",
-        "reviewState": "new"
-      },
-      {
-        "id": "news-006",
-        "headline": "Justice Department sues Arizona, Connecticut for access to voter lists",
-        "sourceName": "Votebeat Arizona",
-        "url": "https://www.votebeat.org/arizona/2026/01/06/doj-sues-arizona-connecticut-unredacted-voter-rolls-adrian-fontes/",
-        "publishedAt": "2026-01-06",
-        "relevanceSummary": "Required VoteBeat Election Laws and Voter Registration & Rolls coverage: the federal lawsuit seeks unredacted voter-list data from Arizona and Connecticut.",
-        "tag": "litigation",
-        "reviewState": "new"
-      },
-      {
-        "id": "news-007",
-        "headline": "Pinal suspends registrations while Maricopa relaxes citizenship-error policy",
-        "sourceName": "Votebeat Arizona",
-        "url": "https://www.votebeat.org/arizona/2025/10/22/pinal-maricopa-county-proof-of-citizenship-voter-registration/",
-        "publishedAt": "2025-10-22",
-        "relevanceSummary": "Required VoteBeat Voter Registration & Rolls coverage: county policies diverged for voters affected by Arizona’s proof-of-citizenship record-keeping error.",
-        "tag": "administration",
-        "reviewState": "new"
-      },
-      {
-        "id": "news-008",
-        "headline": "Federal court blocks Arizona voter intimidation rule",
-        "sourceName": "Votebeat Arizona",
-        "url": "https://www.votebeat.org/arizona/2025/09/17/election-procedures-manual-voter-intimidation-rule-blocked-by-court/",
-        "publishedAt": "2025-09-17",
-        "relevanceSummary": "Required VoteBeat Election Laws coverage: a federal appeals panel blocked a voter-intimidation rule in Arizona’s election procedures manual while allowing a certification-timeline rule to stand.",
-        "tag": "litigation",
-        "reviewState": "new"
-      },
-      {
-        "id": "news-009",
-        "headline": "Battle over Arizona election manual expands to citizenship checks and early voting",
-        "sourceName": "Votebeat Arizona",
-        "url": "https://www.votebeat.org/arizona/2025/09/15/republicans-challenge-secretary-of-state-adrian-fontes-election-procedures-manual/",
-        "publishedAt": "2025-09-15",
-        "relevanceSummary": "Required VoteBeat Voter Registration & Rolls and policy coverage: lawmakers challenged draft manual instructions on citizenship checks, early voting, and ballot counting.",
-        "tag": "rule-change",
-        "reviewState": "new"
-      },
-      {
-        "id": "news-010",
-        "headline": "Two Arizona counties to enforce limits on voters affected by state error",
-        "sourceName": "Votebeat Arizona",
-        "url": "https://www.votebeat.org/arizona/2025/09/08/arizona-voters-may-still-lose-voting-rights-after-state-error/",
-        "publishedAt": "2025-09-08",
-        "relevanceSummary": "Required VoteBeat voter-registration/policy coverage: Maricopa and Pinal policies affect voters caught in Arizona’s citizenship-record error.",
-        "tag": "ballot-access",
-        "reviewState": "new"
+        "reviewState": "reviewed"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-05-25T22-41-41-647Z-az01",
-      "startedAt": "2026-05-25T22:41:41.647Z",
-      "completedAt": "2026-05-25T22:41:43.086Z",
+      "id": "run-2026-06-10T18-55-00-000Z-az01",
+      "startedAt": "2026-06-10T18:54:30.000Z",
+      "completedAt": "2026-06-10T18:55:00.000Z",
       "triggerType": "manual",
       "sourcesChecked": 23,
       "updatesCreated": 0,
-      "conflictsCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Checked 23 sources: 13 reachable, 10 browser-fallback queued, 0 errors. Date candidates found: 61. Source verification updated 2026-05-25."
+      "summary": "Checked 23 sources: 14 reachable, 9 browser-fallback queued, 0 errors. Date candidates found: 58. Source verification updated 2026-06-10. Six new news items (week of Jun 3-10) added covering Heap-vs-Maricopa BOS election equipment dispute, AZ Supreme Court declining fake electors review, DCCC/NRCC endorsements in AZ-01 primary, June 17 special session, and Maricopa primary early-voting timeline reminders. All lastVerified dates bumped to 2026-06-10. Primary remains July 21, 2026 (41 days out)."
     },
-    "NEXT_REFRESH_AT": "2026-05-27T22:41:43.086Z",
+    "NEXT_REFRESH_AT": "2026-06-12T18:55:00.000Z",
     "WEEKLY_REPORT": {
-      "id": "wr-2026-w20",
-      "periodStart": "2026-05-11",
-      "periodEnd": "2026-05-17",
-      "sourcesChecked": 21,
-      "newUpdates": 5,
-      "conflictsCreated": 2,
-      "conflictsResolved": 1,
-      "deadlinesChanged": 5,
-      "rulesChanged": 3,
-      "newsItems": 10,
-      "needsReview": 3,
+      "id": "wr-2026-w24",
+      "periodStart": "2026-06-08",
+      "periodEnd": "2026-06-14",
+      "sourcesChecked": 23,
+      "newUpdates": 0,
+      "conflictsCreated": 0,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 2,
       "sourceErrors": 0,
-      "summary": "Week of May 11–17, 2026: completed the AZ-01 real-data pass. HB2022 changed the 2026 primary calendar; the dashboard now treats July 21 as controlling, updates dependent deadlines, keeps Aug. 4 visible only as a superseded stale-source warning, keeps county cure-window implementation in the human-review queue, and applies the VoteBeat Arizona required-tag news rule, including the Policy/Policies tag family, with a 10-story newest-to-oldest cap.",
-      "generatedAt": "2026-05-17T23:56:00Z"
+      "summary": "Week of Jun 8-14, 2026: AZ-01 primary is 41 days out. No rule or deadline changes this week. Six new news items added covering the escalating Heap-vs-Maricopa Board of Supervisors election-equipment dispute (KJZZ, Democracy Docket), DCCC/NRCC endorsements in the open CD1 race (Axios), AZ Supreme Court declining to review the fake electors case (Votebeat), and the Jun 17 special session on redistricting and QR-code vote counting (The Voting News). The unresolved 2026 signature-cure implementation-language conflict remains in the human-review queue.",
+      "generatedAt": "2026-06-10T18:55:00Z"
     }
   }
 }
