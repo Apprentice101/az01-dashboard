@@ -1,8 +1,9 @@
 {
-  "source": "static-export",
-  "dataAsOf": "2026-06-10",
-  "updatedAt": "2026-06-10T18:55:00Z",
-  "exportedAt": "2026-06-10T18:55:00Z",
+  "version": "1",
+  "dataAsOf": "2026-06-02",
+  "updatedAt": "2026-06-02T21:45:00Z",
+  "exportedAt": "2026-06-15T19:43:58.600Z",
+  "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
       "id": "az-01",
@@ -46,7 +47,7 @@
       ],
       "previousResult": {
         "year": 2024,
-        "seat": "U.S. House \u2014 AZ-01",
+        "seat": "U.S. House — AZ-01",
         "winner": {
           "name": "Sample Incumbent (R)",
           "pct": 49.6,
@@ -70,7 +71,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "confidence": "high"
       },
       "src-maricopa-recorder-news": {
@@ -82,7 +83,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "confidence": "high"
       },
       "src-maricopa-register": {
@@ -94,7 +95,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "confidence": "high"
       },
       "src-maricopa-where": {
@@ -106,7 +107,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -118,7 +119,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "confidence": "high"
       },
       "src-maricopa-dash": {
@@ -130,19 +131,19 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "confidence": "high"
       },
       "src-az-sos": {
         "id": "src-az-sos",
-        "name": "Arizona Secretary of State \u2014 Elections",
+        "name": "Arizona Secretary of State — Elections",
         "short": "AZ SOS",
         "url": "https://azsos.gov/elections",
         "publisher": "Arizona Secretary of State",
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -154,7 +155,7 @@
         "sourceType": "official-district",
         "hierarchyLevel": 4,
         "dateAccessed": "2025-12-20",
-        "lastVerified": "2025-12-20",
+        "lastVerified": "2026-05-26",
         "confidence": "high"
       },
       "src-az-statutes": {
@@ -166,19 +167,19 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
         "id": "src-az-hb2022-law",
-        "name": "Arizona Laws 2026, Chapter 1 \u2014 HB2022",
+        "name": "Arizona Laws 2026, Chapter 1 — HB2022",
         "short": "HB2022 Law",
         "url": "https://www.azleg.gov/legtext/57leg/2R/laws/0001.pdf",
         "publisher": "Arizona Legislature",
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-05-25",
+        "lastVerified": "2026-05-26",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -190,67 +191,67 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-05-25",
+        "lastVerified": "2026-05-26",
         "confidence": "high"
       },
       "src-az-clean-tracking": {
         "id": "src-az-clean-tracking",
-        "name": "AZ Clean Elections \u2014 Ballot Tracking",
+        "name": "AZ Clean Elections — Ballot Tracking",
         "short": "AZ Ballot Tracking",
         "url": "https://www.azcleanelections.gov/election-and-ballot-tracking",
         "publisher": "Arizona Citizens Clean Elections Commission",
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-05-25",
+        "lastVerified": "2026-05-26",
         "confidence": "high"
       },
       "src-az-clean-counting": {
         "id": "src-az-clean-counting",
-        "name": "AZ Clean Elections \u2014 How Votes Are Counted",
+        "name": "AZ Clean Elections — How Votes Are Counted",
         "short": "AZ Vote Counting",
         "url": "https://www.azcleanelections.gov/election-security/how-votes-are-counted",
         "publisher": "Arizona Citizens Clean Elections Commission",
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-05-25",
+        "lastVerified": "2026-05-26",
         "confidence": "high"
       },
       "src-eir-cure": {
         "id": "src-eir-cure",
-        "name": "Election Innovation Research \u2014 Mail Ballot Cure",
+        "name": "Election Innovation Research — Mail Ballot Cure",
         "short": "EIR Cure",
         "url": "https://electioninnovation.org/research/mail-ballot-cure/",
         "publisher": "Election Innovation Research",
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-05",
-        "lastVerified": "2026-05-25",
+        "lastVerified": "2026-05-26",
         "confidence": "medium"
       },
       "src-ballotpedia": {
         "id": "src-ballotpedia",
-        "name": "Ballotpedia \u2014 Arizona Election Calendar",
+        "name": "Ballotpedia — Arizona Election Calendar",
         "short": "Ballotpedia AZ",
         "url": "https://ballotpedia.org/Arizona_election_calendar",
         "publisher": "Ballotpedia",
         "sourceType": "secondary",
         "hierarchyLevel": 7,
         "dateAccessed": "2026-01-09",
-        "lastVerified": "2026-05-25",
+        "lastVerified": "2026-05-26",
         "confidence": "medium"
       },
       "src-ballotready": {
         "id": "src-ballotready",
-        "name": "BallotReady \u2014 Arizona",
+        "name": "BallotReady — Arizona",
         "short": "BallotReady AZ",
         "url": "https://www.ballotready.org/us/arizona",
         "publisher": "BallotReady",
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-09",
-        "lastVerified": "2026-05-25",
+        "lastVerified": "2026-05-26",
         "confidence": "medium"
       },
       "src-votesafe": {
@@ -262,19 +263,19 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-04",
-        "lastVerified": "2026-01-04",
+        "lastVerified": "2026-05-26",
         "confidence": "medium"
       },
       "src-voteorg": {
         "id": "src-voteorg",
-        "name": "Vote.org \u2014 Arizona",
+        "name": "Vote.org — Arizona",
         "short": "Vote.org AZ",
         "url": "https://www.vote.org/arizona/",
         "publisher": "Vote.org",
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-09",
-        "lastVerified": "2026-05-25",
+        "lastVerified": "2026-05-26",
         "confidence": "medium"
       },
       "src-votebeat-az": {
@@ -286,7 +287,7 @@
         "sourceType": "news",
         "hierarchyLevel": 6,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-25",
+        "lastVerified": "2026-05-26",
         "confidence": "medium"
       },
       "src-az-republic": {
@@ -298,19 +299,19 @@
         "sourceType": "news",
         "hierarchyLevel": 6,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-25",
+        "lastVerified": "2026-05-26",
         "confidence": "medium"
       },
       "src-recordreporter": {
         "id": "src-recordreporter",
-        "name": "Arizona Record Reporter \u2014 Public Notices",
+        "name": "Arizona Record Reporter — Public Notices",
         "short": "Record Reporter",
         "url": "https://www.recordreporter.com/home.cfm?ref=publicnotices&disp=2",
         "publisher": "Arizona Record Reporter",
         "sourceType": "news",
         "hierarchyLevel": 6,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-05-25",
+        "lastVerified": "2026-05-26",
         "confidence": "medium"
       },
       "src-knau": {
@@ -322,19 +323,19 @@
         "sourceType": "news",
         "hierarchyLevel": 6,
         "dateAccessed": "2026-01-11",
-        "lastVerified": "2026-05-25",
+        "lastVerified": "2026-05-26",
         "confidence": "medium"
       },
       "src-orovalley-2026": {
         "id": "src-orovalley-2026",
-        "name": "Oro Valley \u2014 2026 Election Deadlines",
+        "name": "Oro Valley — 2026 Election Deadlines",
         "short": "Oro Valley 2026",
         "url": "https://www.orovalleyaz.gov/Government/News/New-Arizona-law-moves-up-2026-election-deadlines-in-Oro-Valley",
         "publisher": "Town of Oro Valley",
         "sourceType": "official-state",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-06",
-        "lastVerified": "2026-05-25",
+        "lastVerified": "2026-05-26",
         "confidence": "low",
         "notes": "Contextual; verify against AZ SOS before relying on it."
       }
@@ -353,7 +354,7 @@
           "src-maricopa-register"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "status": "confirmed"
       },
       {
@@ -369,7 +370,7 @@
           "src-az-sos"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "status": "confirmed"
       },
       {
@@ -385,7 +386,7 @@
           "src-az-clean"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "status": "confirmed"
       },
       {
@@ -399,7 +400,7 @@
           "src-maricopa-where"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "status": "confirmed"
       },
       {
@@ -414,7 +415,7 @@
           "src-az-sos"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "status": "confirmed"
       },
       {
@@ -430,7 +431,7 @@
           "src-az-statutes"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "status": "confirmed"
       },
       {
@@ -446,7 +447,7 @@
           "src-maricopa-recorder"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "status": "estimated"
       },
       {
@@ -461,7 +462,7 @@
           "src-maricopa-register"
         ],
         "confidence": "high",
-        "lastVerified": "2026-01-12",
+        "lastVerified": "2026-05-26",
         "status": "confirmed"
       },
       {
@@ -475,7 +476,7 @@
           "src-maricopa-where"
         ],
         "confidence": "high",
-        "lastVerified": "2026-01-12",
+        "lastVerified": "2026-05-26",
         "status": "confirmed"
       },
       {
@@ -489,7 +490,7 @@
           "src-az-sos"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-01-10",
+        "lastVerified": "2026-05-26",
         "status": "confirmed"
       },
       {
@@ -503,7 +504,7 @@
           "src-maricopa-where"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-01-10",
+        "lastVerified": "2026-05-26",
         "status": "confirmed"
       },
       {
@@ -518,7 +519,7 @@
           "src-ballotpedia"
         ],
         "confidence": "high",
-        "lastVerified": "2026-01-12",
+        "lastVerified": "2026-05-26",
         "status": "confirmed"
       },
       {
@@ -533,7 +534,7 @@
           "src-az-statutes"
         ],
         "confidence": "high",
-        "lastVerified": "2026-01-12",
+        "lastVerified": "2026-05-26",
         "status": "confirmed"
       },
       {
@@ -549,7 +550,7 @@
           "src-maricopa-recorder"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "status": "estimated"
       }
     ],
@@ -566,7 +567,7 @@
           "src-maricopa-register"
         ],
         "confidence": "high",
-        "lastVerified": "2026-01-12",
+        "lastVerified": "2026-05-26",
         "detail": "Registration must be received 29 days before the election. Voters can register online if they have an AZ driver license or state ID."
       },
       {
@@ -581,7 +582,7 @@
           "src-az-sos"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-01-08",
+        "lastVerified": "2026-05-26",
         "needsReview": true,
         "detail": "Sample placeholder text. Confirm exact statutory references and current litigation status before public release."
       },
@@ -597,7 +598,7 @@
           "src-az-sos"
         ],
         "confidence": "high",
-        "lastVerified": "2026-01-10"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "rule-vbm",
@@ -611,7 +612,7 @@
           "src-az-clean-tracking"
         ],
         "confidence": "high",
-        "lastVerified": "2026-01-10"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "rule-aevl",
@@ -624,7 +625,7 @@
           "src-az-sos"
         ],
         "confidence": "high",
-        "lastVerified": "2026-01-10"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "rule-early",
@@ -638,7 +639,7 @@
           "src-maricopa-where"
         ],
         "confidence": "high",
-        "lastVerified": "2026-01-10"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "rule-locations",
@@ -651,7 +652,7 @@
           "src-maricopa-where"
         ],
         "confidence": "high",
-        "lastVerified": "2026-01-10"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "rule-boundaries",
@@ -664,7 +665,7 @@
           "src-az-irc-maps"
         ],
         "confidence": "high",
-        "lastVerified": "2025-12-20"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "rule-primary-calendar",
@@ -678,7 +679,7 @@
           "src-az-sos"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "detail": "User resolution recorded May 17, 2026: keep Aug. 4 visible only when clearly labeled superseded; use July 21 for all deadline calculations and public-facing cards."
       },
       {
@@ -694,7 +695,7 @@
           "src-az-clean"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-17"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "rule-return",
@@ -709,7 +710,7 @@
           "src-az-statutes"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-17"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "rule-rejection",
@@ -722,7 +723,7 @@
           "src-az-clean-counting"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-01-10"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "rule-cure",
@@ -737,7 +738,7 @@
           "src-eir-cure"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-05-17",
+        "lastVerified": "2026-05-26",
         "needsReview": true,
         "detail": "HB2022 confirms the 2026 federal-office cure window uses calendar days; retain as watch until Maricopa publishes district/election-specific implementation guidance."
       },
@@ -753,7 +754,7 @@
           "src-az-clean-counting"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-01-08"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "rule-recount",
@@ -766,7 +767,7 @@
           "src-az-statutes"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-01-08"
+        "lastVerified": "2026-05-26"
       }
     ],
     "RESOURCES": [
@@ -778,7 +779,7 @@
         "governingAuthority": "Arizona SOS",
         "sourceType": "official-state",
         "sourceId": "src-az-sos",
-        "lastVerified": "2026-01-12"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "res-locations",
@@ -788,7 +789,7 @@
         "governingAuthority": "Maricopa County Elections",
         "sourceType": "official-county",
         "sourceId": "src-maricopa-where",
-        "lastVerified": "2026-01-10"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "res-status",
@@ -798,7 +799,7 @@
         "governingAuthority": "Arizona SOS",
         "sourceType": "official-state",
         "sourceId": "src-az-sos",
-        "lastVerified": "2026-01-12"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "res-track",
@@ -808,7 +809,7 @@
         "governingAuthority": "AZ Clean Elections",
         "sourceType": "civic-nonprofit",
         "sourceId": "src-az-clean-tracking",
-        "lastVerified": "2026-01-10"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "res-verify",
@@ -818,7 +819,7 @@
         "governingAuthority": "AZ Clean Elections",
         "sourceType": "civic-nonprofit",
         "sourceId": "src-az-clean-tracking",
-        "lastVerified": "2026-01-10"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "res-dashboard",
@@ -828,7 +829,7 @@
         "governingAuthority": "Maricopa County Elections",
         "sourceType": "official-county",
         "sourceId": "src-maricopa-dash",
-        "lastVerified": "2026-01-12"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "res-canvass",
@@ -838,7 +839,7 @@
         "governingAuthority": "AZ Clean Elections",
         "sourceType": "civic-nonprofit",
         "sourceId": "src-az-clean-counting",
-        "lastVerified": "2026-01-10"
+        "lastVerified": "2026-05-26"
       },
       {
         "id": "res-recount",
@@ -848,7 +849,7 @@
         "governingAuthority": "Arizona Legislature",
         "sourceType": "statutory",
         "sourceId": "src-az-statutes",
-        "lastVerified": "2026-01-08"
+        "lastVerified": "2026-05-26"
       }
     ],
     "UPDATES": [
@@ -900,10 +901,10 @@
       },
       {
         "id": "upd-004",
-        "title": "Early voting window moved to June 24\u2013July 17",
+        "title": "Early voting window moved to June 24–July 17",
         "fieldChanged": "Primary early voting window",
-        "oldValue": "July 8\u2013July 31, 2026",
-        "newValue": "June 24\u2013July 17, 2026",
+        "oldValue": "July 8–July 31, 2026",
+        "newValue": "June 24–July 17, 2026",
         "sourceIds": [
           "src-az-hb2022-law",
           "src-az-sos"
@@ -959,133 +960,163 @@
     ],
     "NEWS": [
       {
-        "id": "news-2026-0610-01",
-        "headline": "National parties pick their candidates in competitive CD1 race",
-        "sourceName": "Axios Phoenix",
-        "url": "https://www.axios.com/local/phoenix/2026/06/08/republicans-democrats-candidates-arizona-1st-congressional-district-cd1",
-        "publishedAt": "2026-06-08",
-        "relevanceSummary": "Required VoteBeat Policies coverage: DCCC adds Marlene Gal\u00e1n-Woods to its Red-to-Blue program and NRCC backs Trump-endorsed Jay Feely in the open AZ-01 primary, signaling donor and super-PAC alignment before July 21.",
-        "tag": "primary",
-        "reviewState": "new"
-      },
-      {
-        "id": "news-2026-0610-02",
-        "headline": "Outside counsel will investigate 'theft' claims against Heap's office over voting equipment",
+        "id": "news-011",
+        "headline": "David Schweikert leaves AZ-01 to run for governor, opening a competitive open seat",
         "sourceName": "KJZZ",
-        "url": "https://www.kjzz.org/politics/2026-06-08/outside-counsel-will-investigate-theft-claims-against-heaps-office-over-voting-equipment",
-        "publishedAt": "2026-06-08",
-        "relevanceSummary": "Required VoteBeat Policies coverage: Maricopa Board of Supervisors accuses Recorder Heap's office of improperly seizing election equipment and documents during a local election count; outside counsel now investigating.",
-        "tag": "administration",
+        "url": "https://www.kjzz.org/politics/2026-05-19/new-polling-shows-schweikert-falling-behind-biggs-in-gop-primary-for-arizona-governor",
+        "publishedAt": "2026-05-19",
+        "relevanceSummary": "Rep. David Schweikert vacated AZ-01 to run for governor against Andy Biggs. New polling shows Biggs leading Schweikert in the GOP gubernatorial primary. AZ-01 is now an open seat with competitive primaries on both sides.",
+        "tag": "ballot-access",
         "reviewState": "new"
       },
       {
-        "id": "news-2026-0610-03",
-        "headline": "'This is chaos': Maricopa election-denier recorder accused of seizing election machines, ballots",
-        "sourceName": "Democracy Docket",
-        "url": "https://www.democracydocket.com/news-alerts/maricopa-county-supervisor-board-recorder-justin-heap-election-machines-ballot/",
-        "publishedAt": "2026-06-09",
-        "relevanceSummary": "Required VoteBeat Policies coverage: detailed account of Heap-vs-BOS election-management dispute, with implications for Maricopa County preparedness 41 days before the July 21 AZ-01 primary.",
-        "tag": "administration",
+        "id": "news-012",
+        "headline": "Jay Feely leads crowded GOP primary for Arizona's open 1st Congressional District",
+        "sourceName": "Prediction Edge / KJZZ",
+        "url": "https://www.kjzz.org/podcast/prickly-a-podcast-from-kjzzs-politics-desk/2026-05-06/what-you-need-to-know-ahead-of-the-2026-arizona-primaries",
+        "publishedAt": "2026-05-06",
+        "relevanceSummary": "Former NFL kicker Jay Feely (Trump-endorsed), ex-state Rep. Joseph Chaplik, and tech executive John Trobough are the GOP contenders. Democrats have Marlene Galan-Woods and former state Rep. Amish Shah (2024 nominee) in a rematch. July 21 primary.",
+        "tag": "ballot-access",
         "reviewState": "new"
       },
       {
-        "id": "news-2026-0610-04",
-        "headline": "Former Maricopa County Recorder Helen Purcell backs supervisors in election fight with Heap",
-        "sourceName": "KJZZ",
-        "url": "https://www.kjzz.org/politics/2026-06-05/former-maricopa-county-recorder-helen-purcell-backs-supervisors-in-election-fight-with-heap",
-        "publishedAt": "2026-06-05",
-        "relevanceSummary": "Required VoteBeat Policies coverage: a former Maricopa County recorder publicly sides with the Board of Supervisors against current Recorder Heap, adding institutional weight to the equipment-control dispute.",
-        "tag": "administration",
-        "reviewState": "new"
-      },
-      {
-        "id": "news-2026-0610-05",
-        "headline": "Arizona Supreme Court declines to review fake electors case against Trump allies",
-        "sourceName": "Votebeat Arizona",
-        "url": "https://thevotingnews.com/2026/06/05/",
-        "publishedAt": "2026-06-05",
-        "relevanceSummary": "Required VoteBeat Policies coverage: the AZ Supreme Court will not review lower-court rulings that crippled AG Mayes' fake electors case, leaving prosecution of 18 alleged 2020 false electors in limbo.",
+        "id": "news-013",
+        "headline": "Trump DOJ backs Arizona proof-of-citizenship voting law at U.S. Supreme Court",
+        "sourceName": "Arizona Capitol Times",
+        "url": "https://azcapitoltimes.com/news/2026/05/28/trump-administration-backs-state-gop-proof-of-citizenship-push/",
+        "publishedAt": "2026-05-28",
+        "relevanceSummary": "Trump DOJ asked SCOTUS to allow Arizona to block voters without proof of citizenship and to let counties purge noncitizens from rolls. Lower courts blocked Arizona's 2022 laws (HB 2243, HB 2492). SCOTUS responses due May 26. Could affect AZ-01 general election voter registration.",
         "tag": "litigation",
         "reviewState": "new"
       },
       {
-        "id": "news-2026-0610-06",
-        "headline": "Arizona lawmakers head into June 17 special session on redistricting and QR-code vote counting",
-        "sourceName": "The Voting News",
-        "url": "https://thevotingnews.com/2026/06/05/",
-        "publishedAt": "2026-06-05",
-        "relevanceSummary": "Required VoteBeat Policies coverage: lawmakers face a self-imposed July 1 deadline to redraw maps and replace the QR codes currently used to count votes, with potential downstream effects on AZ-01 ballot design and counting.",
-        "tag": "rule-change",
+        "id": "news-001",
+        "headline": "Drop box dispute and legal threats reignite Maricopa County election fight",
+        "sourceName": "KJZZ",
+        "url": "https://www.kjzz.org/elections/2026-05-20/drop-box-dispute-and-legal-threats-reignite-maricopa-county-election-fight",
+        "publishedAt": "2026-05-20",
+        "relevanceSummary": "Maricopa County Recorder Justin Heap's attorney threatened election workers with felony charges over Board-approved drop box locations five weeks before the July 21 primary. The Board voted 4-1 to approve anyway. Directly affects AZ-01 early-vote drop box access.",
+        "tag": "administration",
         "reviewState": "new"
       },
       {
-        "id": "news-001",
+        "id": "news-002",
+        "headline": "Arizona AG rips Maricopa County election official over handling of non-citizen voting claims",
+        "sourceName": "Democracy Docket",
+        "url": "https://www.democracydocket.com/news-alerts/arizona-ag-rips-maricopa-county-election-official-over-handling-of-non-citizen-voting-claims/",
+        "publishedAt": "2026-05-23",
+        "relevanceSummary": "AG Mayes forced Recorder Heap to turn over names of 207 voters flagged as potential non-citizens after he missed the 35-day referral deadline. Part of the wider voter-roll/proof-of-citizenship dispute directly affecting Maricopa voter registration for AZ-01.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-003",
+        "headline": "Supervisors blast Heap for 'felony' threat before routine drop box vote",
+        "sourceName": "Phoenix New Times",
+        "url": "https://www.phoenixnewtimes.com/news/supervisors-blast-heap-for-felony-threat-before-routine-drop-box-vote-40668189",
+        "publishedAt": "2026-05-21",
+        "relevanceSummary": "Required Policies/election-administration coverage: Maricopa Board of Supervisors unanimously rejected Recorder Heap's felony threat and approved drop box locations. Fight over early-voting control escalates one month before the July 21 primary.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-004",
         "headline": "Judge strikes down rule requiring counties to aid voters who go to wrong polling place",
         "sourceName": "Votebeat Arizona",
         "url": "https://www.votebeat.org/arizona/2026/05/02/pinal-county-adrian-fontes-ballots-precinct-voting-court-ruling/",
         "publishedAt": "2026-05-02",
         "relevanceSummary": "Required VoteBeat Policies coverage: a court ruling affects whether precinct-model counties must help voters cast the correct ballot after going to the wrong polling place.",
         "tag": "litigation",
-        "reviewState": "reviewed"
+        "reviewState": "new"
       },
       {
-        "id": "news-002",
+        "id": "news-005",
         "headline": "Federal judge dismisses DOJ lawsuit seeking Arizona voter data",
         "sourceName": "KNAU / Associated Press",
         "url": "https://www.knau.org/knau-and-arizona-news/2026-04-28/federal-judge-dismisses-doj-lawsuit-against-arizona-seeking-voter-data",
         "publishedAt": "2026-04-28",
-        "relevanceSummary": "Federal court ruling affects whether Arizona must provide detailed statewide voter registration data to the Justice Department.",
-        "tag": "voter-resource",
-        "reviewState": "reviewed"
+        "relevanceSummary": "Federal court ruling: Arizona does not have to provide unredacted statewide voter registration data to the Justice Department.",
+        "tag": "litigation",
+        "reviewState": "new"
       },
       {
-        "id": "news-003",
+        "id": "news-006",
         "headline": "Top Arizona officials urge counties to withhold voter data",
         "sourceName": "Votebeat Arizona",
         "url": "https://www.votebeat.org/arizona/2026/03/11/kris-mayes-adrian-fontes-voter-rolls-fbi-dhs-doj-probe-2020-election/",
         "publishedAt": "2026-03-11",
         "relevanceSummary": "Arizona officials told counties not to provide voter-roll data in response to federal requests without legal review.",
         "tag": "administration",
-        "reviewState": "reviewed"
+        "reviewState": "new"
       },
       {
-        "id": "news-004",
-        "headline": "Maricopa County recorder\u2019s noncitizen-voter claim may be inflated",
+        "id": "news-007",
+        "headline": "Maricopa County recorder's noncitizen-voter claim may be inflated",
         "sourceName": "Votebeat Arizona",
         "url": "https://www.votebeat.org/arizona/2026/02/18/maricopa-county-justin-heap-137-noncitizens-registered-voter-rolls-save-dhs-database/",
         "publishedAt": "2026-02-18",
-        "relevanceSummary": "Required VoteBeat voter-registration/rolls coverage: Maricopa\u2019s recorder said a database check flagged 137 possible noncitizens, while experts and officials warned the data may be unreliable.",
+        "relevanceSummary": "Required VoteBeat voter-registration/rolls coverage: Maricopa recorder flagged 137 (later 207) possible noncitizens; experts and officials warned the DHS database data may be unreliable.",
         "tag": "administration",
-        "reviewState": "reviewed"
+        "reviewState": "new"
+      },
+      {
+        "id": "news-008",
+        "headline": "Arizona primary moves from Aug. 4 to July 21 under new law",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2026/02/04/2026-primary-election-date-move-earlier-legislature-bill-kolodin-hobbs/",
+        "publishedAt": "2026-02-04",
+        "relevanceSummary": "Required VoteBeat election-law/policy coverage: the new law changes the 2026 primary calendar and affects registration, early voting, mail-ballot, and cure-window timing.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-009",
+        "headline": "Justice Department sues Arizona, Connecticut for access to voter lists",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2026/01/06/doj-sues-arizona-connecticut-unredacted-voter-rolls-adrian-fontes/",
+        "publishedAt": "2026-01-06",
+        "relevanceSummary": "Required VoteBeat Election Laws and Voter Registration & Rolls coverage: the federal lawsuit seeks unredacted voter-list data from Arizona and Connecticut.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-010",
+        "headline": "Pinal suspends registrations while Maricopa relaxes citizenship-error policy",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2025/10/22/pinal-maricopa-county-proof-of-citizenship-voter-registration/",
+        "publishedAt": "2025-10-22",
+        "relevanceSummary": "Required VoteBeat Voter Registration & Rolls coverage: county policies diverged for voters affected by Arizona's proof-of-citizenship record-keeping error.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-10T18-55-00-000Z-az01",
-      "startedAt": "2026-06-10T18:54:30.000Z",
-      "completedAt": "2026-06-10T18:55:00.000Z",
+      "id": "run-2026-05-26-az01-refresh",
+      "startedAt": "2026-06-02T21:00:00Z",
+      "completedAt": "2026-06-02T21:45:00Z",
       "triggerType": "manual",
-      "sourcesChecked": 23,
-      "updatesCreated": 0,
-      "conflictsCreated": 0,
+      "sourcesChecked": 21,
+      "updatesCreated": 3,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Checked 23 sources: 14 reachable, 9 browser-fallback queued, 0 errors. Date candidates found: 58. Source verification updated 2026-06-10. Six new news items (week of Jun 3-10) added covering Heap-vs-Maricopa BOS election equipment dispute, AZ Supreme Court declining fake electors review, DCCC/NRCC endorsements in AZ-01 primary, June 17 special session, and Maricopa primary early-voting timeline reminders. All lastVerified dates bumped to 2026-06-10. Primary remains July 21, 2026 (41 days out)."
+      "summary": "May 26 refresh: added three new news items from the week of May 20–26 covering the Maricopa drop-box/felony-threat dispute (KJZZ, Phoenix New Times) and the AG forcing Recorder Heap to surrender noncitizen-voter referrals (Democracy Docket). All lastVerified dates bumped to 2026-05-26. SCOTUS proof-of-citizenship partial stay (May 10) remains on watch. Primary is July 21, 2026."
     },
-    "NEXT_REFRESH_AT": "2026-06-12T18:55:00.000Z",
+    "NEXT_REFRESH_AT": "2026-05-28T21:00:00Z",
     "WEEKLY_REPORT": {
-      "id": "wr-2026-w24",
-      "periodStart": "2026-06-08",
-      "periodEnd": "2026-06-14",
-      "sourcesChecked": 23,
-      "newUpdates": 0,
-      "conflictsCreated": 0,
+      "id": "wr-2026-w21",
+      "periodStart": "2026-05-19",
+      "periodEnd": "2026-05-26",
+      "sourcesChecked": 21,
+      "newUpdates": 3,
+      "conflictsCreated": 1,
       "conflictsResolved": 0,
       "deadlinesChanged": 0,
       "rulesChanged": 0,
-      "newsItems": 6,
-      "needsReview": 2,
+      "newsItems": 10,
+      "needsReview": 3,
       "sourceErrors": 0,
-      "summary": "Week of Jun 8-14, 2026: AZ-01 primary is 41 days out. No rule or deadline changes this week. Six new news items added covering the escalating Heap-vs-Maricopa Board of Supervisors election-equipment dispute (KJZZ, Democracy Docket), DCCC/NRCC endorsements in the open CD1 race (Axios), AZ Supreme Court declining to review the fake electors case (Votebeat), and the Jun 17 special session on redistricting and QR-code vote counting (The Voting News). The unresolved 2026 signature-cure implementation-language conflict remains in the human-review queue.",
-      "generatedAt": "2026-06-10T18:55:00Z"
+      "summary": "Week of May 19–26, 2026: Major Maricopa election-administration story broke — Recorder Heap's attorney threatened election workers with felony charges over Board-approved drop box locations; Board voted 4-1 to proceed. AG Mayes forced Heap to turn over noncitizen-voter referral list (207 names). SCOTUS proof-of-citizenship stay (May 10) remains the key watch item for AZ-01. Primary July 21, 2026 — 56 days out.",
+      "generatedAt": "2026-06-02T21:45:00Z"
     }
   }
 }
