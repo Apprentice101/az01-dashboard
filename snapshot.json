@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-06-16",
-  "updatedAt": "2026-06-16T20:49:00Z",
-  "exportedAt": "2026-06-16T21:26:02.060Z",
+  "updatedAt": "2026-06-16T22:32:00Z",
+  "exportedAt": "2026-06-16T22:33:07.881Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -47,7 +47,7 @@
       ],
       "previousResult": {
         "year": 2024,
-        "seat": "U.S. House — AZ-01",
+        "seat": "U.S. House 'e2'80'94 AZ-01",
         "winner": {
           "name": "Sample Incumbent (R)",
           "pct": 49.6,
@@ -136,7 +136,7 @@
       },
       "src-az-sos": {
         "id": "src-az-sos",
-        "name": "Arizona Secretary of State — Elections",
+        "name": "Arizona Secretary of State 'e2'80'94 Elections",
         "short": "AZ SOS",
         "url": "https://azsos.gov/elections",
         "publisher": "Arizona Secretary of State",
@@ -172,7 +172,7 @@
       },
       "src-az-hb2022-law": {
         "id": "src-az-hb2022-law",
-        "name": "Arizona Laws 2026, Chapter 1 — HB2022",
+        "name": "Arizona Laws 2026, Chapter 1 'e2'80'94 HB2022",
         "short": "HB2022 Law",
         "url": "https://www.azleg.gov/legtext/57leg/2R/laws/0001.pdf",
         "publisher": "Arizona Legislature",
@@ -196,7 +196,7 @@
       },
       "src-az-clean-tracking": {
         "id": "src-az-clean-tracking",
-        "name": "AZ Clean Elections — Ballot Tracking",
+        "name": "AZ Clean Elections 'e2'80'94 Ballot Tracking",
         "short": "AZ Ballot Tracking",
         "url": "https://www.azcleanelections.gov/election-and-ballot-tracking",
         "publisher": "Arizona Citizens Clean Elections Commission",
@@ -208,7 +208,7 @@
       },
       "src-az-clean-counting": {
         "id": "src-az-clean-counting",
-        "name": "AZ Clean Elections — How Votes Are Counted",
+        "name": "AZ Clean Elections 'e2'80'94 How Votes Are Counted",
         "short": "AZ Vote Counting",
         "url": "https://www.azcleanelections.gov/election-security/how-votes-are-counted",
         "publisher": "Arizona Citizens Clean Elections Commission",
@@ -220,7 +220,7 @@
       },
       "src-eir-cure": {
         "id": "src-eir-cure",
-        "name": "Election Innovation Research — Mail Ballot Cure",
+        "name": "Election Innovation Research 'e2'80'94 Mail Ballot Cure",
         "short": "EIR Cure",
         "url": "https://electioninnovation.org/research/mail-ballot-cure/",
         "publisher": "Election Innovation Research",
@@ -232,7 +232,7 @@
       },
       "src-ballotpedia": {
         "id": "src-ballotpedia",
-        "name": "Ballotpedia — Arizona Election Calendar",
+        "name": "Ballotpedia 'e2'80'94 Arizona Election Calendar",
         "short": "Ballotpedia AZ",
         "url": "https://ballotpedia.org/Arizona_election_calendar",
         "publisher": "Ballotpedia",
@@ -244,7 +244,7 @@
       },
       "src-ballotready": {
         "id": "src-ballotready",
-        "name": "BallotReady — Arizona",
+        "name": "BallotReady 'e2'80'94 Arizona",
         "short": "BallotReady AZ",
         "url": "https://www.ballotready.org/us/arizona",
         "publisher": "BallotReady",
@@ -268,7 +268,7 @@
       },
       "src-voteorg": {
         "id": "src-voteorg",
-        "name": "Vote.org — Arizona",
+        "name": "Vote.org 'e2'80'94 Arizona",
         "short": "Vote.org AZ",
         "url": "https://www.vote.org/arizona/",
         "publisher": "Vote.org",
@@ -304,7 +304,7 @@
       },
       "src-recordreporter": {
         "id": "src-recordreporter",
-        "name": "Arizona Record Reporter — Public Notices",
+        "name": "Arizona Record Reporter 'e2'80'94 Public Notices",
         "short": "Record Reporter",
         "url": "https://www.recordreporter.com/home.cfm?ref=publicnotices&disp=2",
         "publisher": "Arizona Record Reporter",
@@ -328,7 +328,7 @@
       },
       "src-orovalley-2026": {
         "id": "src-orovalley-2026",
-        "name": "Oro Valley — 2026 Election Deadlines",
+        "name": "Oro Valley 'e2'80'94 2026 Election Deadlines",
         "short": "Oro Valley 2026",
         "url": "https://www.orovalleyaz.gov/Government/News/New-Arizona-law-moves-up-2026-election-deadlines-in-Oro-Valley",
         "publisher": "Town of Oro Valley",
@@ -914,10 +914,10 @@
       },
       {
         "id": "upd-004",
-        "title": "Early voting window moved to June 24–July 17",
+        "title": "Early voting window moved to June 24'e2'80'93July 17",
         "fieldChanged": "Primary early voting window",
-        "oldValue": "July 8–July 31, 2026",
-        "newValue": "June 24–July 17, 2026",
+        "oldValue": "July 8'e2'80'93July 31, 2026",
+        "newValue": "June 24'e2'80'93July 17, 2026",
         "sourceIds": [
           "src-az-hb2022-law",
           "src-az-sos"
@@ -988,6 +988,16 @@
       }
     ],
     "NEWS": [
+      {
+        "id": "news-015",
+        "headline": "Power struggle between Maricopa County officials continues as primary election draws closer",
+        "sourceName": "KJZZ",
+        "url": "https://www.kjzz.org/politics/2026-06-15/power-struggle-between-maricopa-county-officials-continues-as-primary-election-draws-closer",
+        "publishedAt": "2026-06-15",
+        "relevanceSummary": "KJZZ reports that the Maricopa County Recorder and Board of Supervisors remain in court over election administration and early-voting control as the July 21 primary approaches. Because AZ-01 sits in Maricopa County, the dispute could affect how voters encounter early-ballot operations and election administration messaging in the district.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
       {
         "id": "news-014",
         "headline": "Arizona ballot measure to change voting rules will be on the November 2026 ballot",
@@ -1130,17 +1140,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-16-az01-refresh",
-      "startedAt": "2026-06-16T20:45:00Z",
-      "completedAt": "2026-06-16T20:49:00Z",
+      "id": "run-2026-06-16-az01-news-refresh",
+      "startedAt": "2026-06-16T22:25:00Z",
+      "completedAt": "2026-06-16T22:32:00Z",
       "triggerType": "manual",
-      "sourcesChecked": 21,
-      "updatesCreated": 1,
+      "sourcesChecked": 6,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "June 16 refresh normalized AZ-01 to strict owner QA: every rule now carries needsReview true, confidence unconfirmed, and lastVerified 2026-06-16. Added a June 13 Votebeat watch item on the Arizona ballot measure that could change mail-voter ID rules if approved."
+      "summary": "June 16 news-only refresh added 1 AZ-01 item: a June 15 KJZZ report on the Maricopa County Recorder-Board of Supervisors court fight as the July 21 primary approaches. Rule normalization and primary calendar from the earlier same-day refresh are unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-06-18T21:00:00Z",
+    "NEXT_REFRESH_AT": "2026-06-23T21:00:00Z",
     "WEEKLY_REPORT": {
       "id": "wr-2026-w25",
       "periodStart": "2026-06-10",
@@ -1151,11 +1161,11 @@
       "conflictsResolved": 0,
       "deadlinesChanged": 0,
       "rulesChanged": 14,
-      "newsItems": 11,
+      "newsItems": 15,
       "needsReview": 14,
       "sourceErrors": 0,
-      "summary": "Week of June 10-16, 2026: AZ-01 received a strict-QA normalization pass. All rules now require owner review and carry unconfirmed confidence pending publication review. Added a June 13 Votebeat item about a proposed Arizona ballot measure that would require ID for mail voters if approved in November 2026; current 2026 voting rules remain unchanged.",
-      "generatedAt": "2026-06-16T20:49:00Z"
+      "summary": "Week of June 10-16, 2026: AZ-01 received a strict-QA normalization pass and a follow-up news-only refresh. All rules now require owner review and carry unconfirmed confidence pending publication review. News inventory updated with a June 15 KJZZ report on the ongoing Maricopa County Recorder-Board of Supervisors court fight and a June 13 Votebeat item about a proposed Arizona ballot measure that would require ID for mail voters if approved in November 2026; current 2026 voting rules remain unchanged.",
+      "generatedAt": "2026-06-16T22:32:00Z"
     }
   }
 }
