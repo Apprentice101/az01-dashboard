@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-02",
-  "updatedAt": "2026-06-02T21:45:00Z",
-  "exportedAt": "2026-06-15T19:43:58.600Z",
+  "dataAsOf": "2026-06-16",
+  "updatedAt": "2026-06-16T20:49:00Z",
+  "exportedAt": "2026-06-16T21:26:02.060Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -71,7 +71,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "high"
       },
       "src-maricopa-recorder-news": {
@@ -83,7 +83,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "high"
       },
       "src-maricopa-register": {
@@ -95,7 +95,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "high"
       },
       "src-maricopa-where": {
@@ -107,7 +107,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -119,7 +119,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "high"
       },
       "src-maricopa-dash": {
@@ -131,7 +131,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "high"
       },
       "src-az-sos": {
@@ -143,7 +143,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -155,7 +155,7 @@
         "sourceType": "official-district",
         "hierarchyLevel": 4,
         "dateAccessed": "2025-12-20",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "high"
       },
       "src-az-statutes": {
@@ -167,7 +167,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -191,7 +191,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "high"
       },
       "src-az-clean-tracking": {
@@ -203,7 +203,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "high"
       },
       "src-az-clean-counting": {
@@ -215,7 +215,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -227,7 +227,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-05",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "medium"
       },
       "src-ballotpedia": {
@@ -239,7 +239,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 7,
         "dateAccessed": "2026-01-09",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "medium"
       },
       "src-ballotready": {
@@ -251,7 +251,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-09",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "medium"
       },
       "src-votesafe": {
@@ -263,7 +263,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-04",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "medium"
       },
       "src-voteorg": {
@@ -275,7 +275,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-09",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "medium"
       },
       "src-votebeat-az": {
@@ -287,7 +287,7 @@
         "sourceType": "news",
         "hierarchyLevel": 6,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "medium"
       },
       "src-az-republic": {
@@ -299,7 +299,7 @@
         "sourceType": "news",
         "hierarchyLevel": 6,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "medium"
       },
       "src-recordreporter": {
@@ -311,7 +311,7 @@
         "sourceType": "news",
         "hierarchyLevel": 6,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "medium"
       },
       "src-knau": {
@@ -323,7 +323,7 @@
         "sourceType": "news",
         "hierarchyLevel": 6,
         "dateAccessed": "2026-01-11",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "medium"
       },
       "src-orovalley-2026": {
@@ -335,7 +335,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-06",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "confidence": "low",
         "notes": "Contextual; verify against AZ SOS before relying on it."
       }
@@ -354,7 +354,7 @@
           "src-maricopa-register"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "confirmed"
       },
       {
@@ -370,7 +370,7 @@
           "src-az-sos"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "confirmed"
       },
       {
@@ -386,7 +386,7 @@
           "src-az-clean"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "confirmed"
       },
       {
@@ -400,7 +400,7 @@
           "src-maricopa-where"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "confirmed"
       },
       {
@@ -415,7 +415,7 @@
           "src-az-sos"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "confirmed"
       },
       {
@@ -431,7 +431,7 @@
           "src-az-statutes"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "confirmed"
       },
       {
@@ -447,7 +447,7 @@
           "src-maricopa-recorder"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "estimated"
       },
       {
@@ -462,7 +462,7 @@
           "src-maricopa-register"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "confirmed"
       },
       {
@@ -476,7 +476,7 @@
           "src-maricopa-where"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "confirmed"
       },
       {
@@ -490,7 +490,7 @@
           "src-az-sos"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "confirmed"
       },
       {
@@ -504,7 +504,7 @@
           "src-maricopa-where"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "confirmed"
       },
       {
@@ -519,7 +519,7 @@
           "src-ballotpedia"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "confirmed"
       },
       {
@@ -534,7 +534,7 @@
           "src-az-statutes"
         ],
         "confidence": "high",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "confirmed"
       },
       {
@@ -550,7 +550,7 @@
           "src-maricopa-recorder"
         ],
         "confidence": "medium",
-        "lastVerified": "2026-05-26",
+        "lastVerified": "2026-06-16",
         "status": "estimated"
       }
     ],
@@ -566,8 +566,9 @@
           "src-az-sos",
           "src-maricopa-register"
         ],
-        "confidence": "high",
-        "lastVerified": "2026-05-26",
+        "confidence": "unconfirmed",
+        "needsReview": true,
+        "lastVerified": "2026-06-16",
         "detail": "Registration must be received 29 days before the election. Voters can register online if they have an AZ driver license or state ID."
       },
       {
@@ -581,10 +582,10 @@
           "src-az-statutes",
           "src-az-sos"
         ],
-        "confidence": "medium",
-        "lastVerified": "2026-05-26",
+        "confidence": "unconfirmed",
         "needsReview": true,
-        "detail": "Sample placeholder text. Confirm exact statutory references and current litigation status before public release."
+        "lastVerified": "2026-06-16",
+        "detail": "Confirm exact statutory references and current litigation posture before public release."
       },
       {
         "id": "rule-id",
@@ -597,8 +598,9 @@
           "src-maricopa-id",
           "src-az-sos"
         ],
-        "confidence": "high",
-        "lastVerified": "2026-05-26"
+        "confidence": "unconfirmed",
+        "needsReview": true,
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "rule-vbm",
@@ -611,8 +613,9 @@
           "src-az-sos",
           "src-az-clean-tracking"
         ],
-        "confidence": "high",
-        "lastVerified": "2026-05-26"
+        "confidence": "unconfirmed",
+        "needsReview": true,
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "rule-aevl",
@@ -624,8 +627,9 @@
         "sourceIds": [
           "src-az-sos"
         ],
-        "confidence": "high",
-        "lastVerified": "2026-05-26"
+        "confidence": "unconfirmed",
+        "needsReview": true,
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "rule-early",
@@ -638,8 +642,9 @@
           "src-az-hb2022-law",
           "src-maricopa-where"
         ],
-        "confidence": "high",
-        "lastVerified": "2026-05-26"
+        "confidence": "unconfirmed",
+        "needsReview": true,
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "rule-locations",
@@ -651,8 +656,9 @@
         "sourceIds": [
           "src-maricopa-where"
         ],
-        "confidence": "high",
-        "lastVerified": "2026-05-26"
+        "confidence": "unconfirmed",
+        "needsReview": true,
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "rule-boundaries",
@@ -664,8 +670,9 @@
         "sourceIds": [
           "src-az-irc-maps"
         ],
-        "confidence": "high",
-        "lastVerified": "2026-05-26"
+        "confidence": "unconfirmed",
+        "needsReview": true,
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "rule-primary-calendar",
@@ -678,8 +685,9 @@
           "src-az-hb2022-law",
           "src-az-sos"
         ],
-        "confidence": "high",
-        "lastVerified": "2026-05-26",
+        "confidence": "unconfirmed",
+        "needsReview": true,
+        "lastVerified": "2026-06-16",
         "detail": "User resolution recorded May 17, 2026: keep Aug. 4 visible only when clearly labeled superseded; use July 21 for all deadline calculations and public-facing cards."
       },
       {
@@ -694,8 +702,9 @@
           "src-az-sos",
           "src-az-clean"
         ],
-        "confidence": "high",
-        "lastVerified": "2026-05-26"
+        "confidence": "unconfirmed",
+        "needsReview": true,
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "rule-return",
@@ -709,8 +718,9 @@
           "src-az-sos",
           "src-az-statutes"
         ],
-        "confidence": "high",
-        "lastVerified": "2026-05-26"
+        "confidence": "unconfirmed",
+        "needsReview": true,
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "rule-rejection",
@@ -722,8 +732,9 @@
         "sourceIds": [
           "src-az-clean-counting"
         ],
-        "confidence": "medium",
-        "lastVerified": "2026-05-26"
+        "confidence": "unconfirmed",
+        "needsReview": true,
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "rule-cure",
@@ -737,9 +748,9 @@
           "src-az-statutes",
           "src-eir-cure"
         ],
-        "confidence": "medium",
-        "lastVerified": "2026-05-26",
+        "confidence": "unconfirmed",
         "needsReview": true,
+        "lastVerified": "2026-06-16",
         "detail": "HB2022 confirms the 2026 federal-office cure window uses calendar days; retain as watch until Maricopa publishes district/election-specific implementation guidance."
       },
       {
@@ -753,8 +764,9 @@
           "src-az-statutes",
           "src-az-clean-counting"
         ],
-        "confidence": "medium",
-        "lastVerified": "2026-05-26"
+        "confidence": "unconfirmed",
+        "needsReview": true,
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "rule-recount",
@@ -766,8 +778,9 @@
         "sourceIds": [
           "src-az-statutes"
         ],
-        "confidence": "medium",
-        "lastVerified": "2026-05-26"
+        "confidence": "unconfirmed",
+        "needsReview": true,
+        "lastVerified": "2026-06-16"
       }
     ],
     "RESOURCES": [
@@ -779,7 +792,7 @@
         "governingAuthority": "Arizona SOS",
         "sourceType": "official-state",
         "sourceId": "src-az-sos",
-        "lastVerified": "2026-05-26"
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "res-locations",
@@ -789,7 +802,7 @@
         "governingAuthority": "Maricopa County Elections",
         "sourceType": "official-county",
         "sourceId": "src-maricopa-where",
-        "lastVerified": "2026-05-26"
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "res-status",
@@ -799,7 +812,7 @@
         "governingAuthority": "Arizona SOS",
         "sourceType": "official-state",
         "sourceId": "src-az-sos",
-        "lastVerified": "2026-05-26"
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "res-track",
@@ -809,7 +822,7 @@
         "governingAuthority": "AZ Clean Elections",
         "sourceType": "civic-nonprofit",
         "sourceId": "src-az-clean-tracking",
-        "lastVerified": "2026-05-26"
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "res-verify",
@@ -819,7 +832,7 @@
         "governingAuthority": "AZ Clean Elections",
         "sourceType": "civic-nonprofit",
         "sourceId": "src-az-clean-tracking",
-        "lastVerified": "2026-05-26"
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "res-dashboard",
@@ -829,7 +842,7 @@
         "governingAuthority": "Maricopa County Elections",
         "sourceType": "official-county",
         "sourceId": "src-maricopa-dash",
-        "lastVerified": "2026-05-26"
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "res-canvass",
@@ -839,7 +852,7 @@
         "governingAuthority": "AZ Clean Elections",
         "sourceType": "civic-nonprofit",
         "sourceId": "src-az-clean-counting",
-        "lastVerified": "2026-05-26"
+        "lastVerified": "2026-06-16"
       },
       {
         "id": "res-recount",
@@ -849,7 +862,7 @@
         "governingAuthority": "Arizona Legislature",
         "sourceType": "statutory",
         "sourceId": "src-az-statutes",
-        "lastVerified": "2026-05-26"
+        "lastVerified": "2026-06-16"
       }
     ],
     "UPDATES": [
@@ -928,6 +941,22 @@
         "severity": "low",
         "reviewState": "new",
         "visibility": "public"
+      },
+      {
+        "id": "upd-006",
+        "title": "AZ-01 rules normalized to strict owner QA standard",
+        "fieldChanged": "Rule review metadata",
+        "oldValue": "Mixed confidence values and incomplete needsReview coverage across rules.",
+        "newValue": "Every AZ-01 rule now carries needsReview true, confidence unconfirmed, and lastVerified 2026-06-16 pending owner review.",
+        "sourceIds": [
+          "src-az-sos",
+          "src-maricopa-where",
+          "src-az-hb2022-law"
+        ],
+        "detectedAt": "2026-06-16T20:49:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
       }
     ],
     "CONFLICTS": [
@@ -959,6 +988,16 @@
       }
     ],
     "NEWS": [
+      {
+        "id": "news-014",
+        "headline": "Arizona ballot measure to change voting rules will be on the November 2026 ballot",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2026/06/13/2026-ballot-measure-voting-changes-republican-voter-id-fast-election-results/",
+        "publishedAt": "2026-06-13",
+        "relevanceSummary": "Votebeat reports Arizona lawmakers placed a November 2026 ballot measure before voters that would require ID for mail voters and make other election-rule changes if approved. For AZ-01, treat this as watch-list news only; it does not change current July 21 primary procedures.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
       {
         "id": "news-011",
         "headline": "David Schweikert leaves AZ-01 to run for governor, opening a competitive open seat",
@@ -1091,32 +1130,32 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-05-26-az01-refresh",
-      "startedAt": "2026-06-02T21:00:00Z",
-      "completedAt": "2026-06-02T21:45:00Z",
+      "id": "run-2026-06-16-az01-refresh",
+      "startedAt": "2026-06-16T20:45:00Z",
+      "completedAt": "2026-06-16T20:49:00Z",
       "triggerType": "manual",
       "sourcesChecked": 21,
-      "updatesCreated": 3,
-      "conflictsCreated": 1,
+      "updatesCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "May 26 refresh: added three new news items from the week of May 20–26 covering the Maricopa drop-box/felony-threat dispute (KJZZ, Phoenix New Times) and the AG forcing Recorder Heap to surrender noncitizen-voter referrals (Democracy Docket). All lastVerified dates bumped to 2026-05-26. SCOTUS proof-of-citizenship partial stay (May 10) remains on watch. Primary is July 21, 2026."
+      "summary": "June 16 refresh normalized AZ-01 to strict owner QA: every rule now carries needsReview true, confidence unconfirmed, and lastVerified 2026-06-16. Added a June 13 Votebeat watch item on the Arizona ballot measure that could change mail-voter ID rules if approved."
     },
-    "NEXT_REFRESH_AT": "2026-05-28T21:00:00Z",
+    "NEXT_REFRESH_AT": "2026-06-18T21:00:00Z",
     "WEEKLY_REPORT": {
-      "id": "wr-2026-w21",
-      "periodStart": "2026-05-19",
-      "periodEnd": "2026-05-26",
+      "id": "wr-2026-w25",
+      "periodStart": "2026-06-10",
+      "periodEnd": "2026-06-16",
       "sourcesChecked": 21,
-      "newUpdates": 3,
-      "conflictsCreated": 1,
+      "newUpdates": 1,
+      "conflictsCreated": 0,
       "conflictsResolved": 0,
       "deadlinesChanged": 0,
-      "rulesChanged": 0,
-      "newsItems": 10,
-      "needsReview": 3,
+      "rulesChanged": 14,
+      "newsItems": 11,
+      "needsReview": 14,
       "sourceErrors": 0,
-      "summary": "Week of May 19–26, 2026: Major Maricopa election-administration story broke — Recorder Heap's attorney threatened election workers with felony charges over Board-approved drop box locations; Board voted 4-1 to proceed. AG Mayes forced Heap to turn over noncitizen-voter referral list (207 names). SCOTUS proof-of-citizenship stay (May 10) remains the key watch item for AZ-01. Primary July 21, 2026 — 56 days out.",
-      "generatedAt": "2026-06-02T21:45:00Z"
+      "summary": "Week of June 10-16, 2026: AZ-01 received a strict-QA normalization pass. All rules now require owner review and carry unconfirmed confidence pending publication review. Added a June 13 Votebeat item about a proposed Arizona ballot measure that would require ID for mail voters if approved in November 2026; current 2026 voting rules remain unchanged.",
+      "generatedAt": "2026-06-16T20:49:00Z"
     }
   }
 }
