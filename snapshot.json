@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-16",
-  "updatedAt": "2026-06-16T22:32:00Z",
-  "exportedAt": "2026-06-16T22:33:07.881Z",
+  "dataAsOf": "2026-06-17",
+  "updatedAt": "2026-06-17T22:35:00Z",
+  "exportedAt": "2026-06-17T22:55:25.359Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -957,6 +957,35 @@
         "severity": "medium",
         "reviewState": "new",
         "visibility": "internal_only"
+      },
+      {
+        "id": "upd-007",
+        "title": "2026 deadlines re-verified against AZ Secretary of State; no changes detected",
+        "fieldChanged": "2026 primary and general election deadlines",
+        "oldValue": "Deadlines confirmed as of 2026-06-16 refresh.",
+        "newValue": "As of the June 17, 2026 refresh, AZ SOS and Maricopa County guidance still list July 21, 2026 as the primary election (per HB 2022, signed Feb. 6, 2026), June 22, 2026 as the primary voter registration deadline, June 24 – July 17, 2026 as the early in-person voting window, July 10, 2026 as the mail-ballot application deadline, and November 3, 2026 as Election Day. Signature curing window remains five calendar days after election per HB 2022. No changes detected.",
+        "sourceIds": [
+          "src-az-sos",
+          "src-az-hb2022-law"
+        ],
+        "detectedAt": "2026-06-17T22:30:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-008",
+        "title": "HCR 2001 voter-ID ballot measure formally placed on November 2026 ballot",
+        "fieldChanged": "November 2026 ballot measures (downstream rule-change watch)",
+        "oldValue": "Votebeat (June 13) reported the legislature was advancing a ballot measure that would require government-issued ID for mail voters and tighten other election rules.",
+        "newValue": "On June 15, 2026, the Arizona legislature formally placed HCR 2001 on the November 3, 2026 ballot, bypassing Gov. Hobbs's veto authority for legislatively-referred constitutional amendments. If passed by voters, the measure would require government-issued ID for all voters — including mail voters — and make additional election-rule changes. Does NOT change current July 21, 2026 primary procedures. Watch-only item for AZ-01 voters.",
+        "sourceIds": [
+          "src-az-sos"
+        ],
+        "detectedAt": "2026-06-17T22:32:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "public"
       }
     ],
     "CONFLICTS": [
@@ -1140,32 +1169,32 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-16-az01-news-refresh",
-      "startedAt": "2026-06-16T22:25:00Z",
-      "completedAt": "2026-06-16T22:32:00Z",
+      "id": "run-2026-06-17-az01-refresh",
+      "startedAt": "2026-06-17T22:00:00Z",
+      "completedAt": "2026-06-17T22:35:00Z",
       "triggerType": "manual",
-      "sourcesChecked": 6,
-      "updatesCreated": 0,
+      "sourcesChecked": 8,
+      "updatesCreated": 2,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "June 16 news-only refresh added 1 AZ-01 item: a June 15 KJZZ report on the Maricopa County Recorder-Board of Supervisors court fight as the July 21 primary approaches. Rule normalization and primary calendar from the earlier same-day refresh are unchanged."
+      "summary": "June 17, 2026 bi-weekly refresh for AZ-01. Re-verified AZ Secretary of State guidance and Maricopa County calendar directly: HB 2022 primary date (July 21), registration deadline (June 22), early-voting window (June 24 – July 17), mail-ballot application (July 10), and November 3 general all unchanged. Open-seat field (Schweikert retiring; Galán-Woods DCCC-backed on D side, Feely Trump-endorsed on R side) and Maricopa Recorder-Board litigation captured in yesterday's news-only run remain current. New: documented June 15 legislative referral of HCR 2001 voter-ID measure to the November ballot. No confidence flips; no procedure changes."
     },
-    "NEXT_REFRESH_AT": "2026-06-23T21:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-01T22:00:00Z",
     "WEEKLY_REPORT": {
-      "id": "wr-2026-w25",
-      "periodStart": "2026-06-10",
-      "periodEnd": "2026-06-16",
-      "sourcesChecked": 21,
-      "newUpdates": 1,
+      "id": "wr-az01-2026-w25",
+      "periodStart": "2026-06-03",
+      "periodEnd": "2026-06-17",
+      "sourcesChecked": 8,
+      "newUpdates": 2,
       "conflictsCreated": 0,
       "conflictsResolved": 0,
       "deadlinesChanged": 0,
-      "rulesChanged": 14,
-      "newsItems": 15,
-      "needsReview": 14,
+      "rulesChanged": 0,
+      "newsItems": 0,
+      "needsReview": 2,
       "sourceErrors": 0,
-      "summary": "Week of June 10-16, 2026: AZ-01 received a strict-QA normalization pass and a follow-up news-only refresh. All rules now require owner review and carry unconfirmed confidence pending publication review. News inventory updated with a June 15 KJZZ report on the ongoing Maricopa County Recorder-Board of Supervisors court fight and a June 13 Votebeat item about a proposed Arizona ballot measure that would require ID for mail voters if approved in November 2026; current 2026 voting rules remain unchanged.",
-      "generatedAt": "2026-06-16T22:32:00Z"
+      "summary": "Bi-weekly period June 3–17, 2026: AZ SOS and Maricopa County deadlines re-verified — unchanged from the June 16 normalization pass. HCR 2001 voter-ID measure formally placed on the November 2026 ballot June 15 (already on AZ-01 news inventory via news-014 Votebeat June 13). No primary calendar or procedure changes detected; no confidence flips.",
+      "generatedAt": "2026-06-17T22:35:00Z"
     }
   }
 }
