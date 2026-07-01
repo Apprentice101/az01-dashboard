@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-01",
   "updatedAt": "2026-07-01T05:15:00Z",
-  "exportedAt": "2026-07-01T05:38:15.718Z",
+  "exportedAt": "2026-07-01T17:26:58.493Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -986,6 +986,23 @@
         "severity": "low",
         "reviewState": "new",
         "visibility": "public"
+      },
+      {
+        "id": "upd-009",
+        "title": "Voter ID rule expanded to show all three ID pathways and provisional ballot cure",
+        "fieldChanged": "Voter ID at the polls (rule-id)",
+        "oldValue": "Prior text stated a short summary of the ID requirement that implied a single-photo-ID rule and did not enumerate the two-non-photo or mixed-address pathways or the conditional provisional ballot cure deadline.",
+        "newValue": "Rule text now enumerates all three ID pathways permitted by Arizona law: (1) one valid photo ID issued by the U.S. federal, state, or tribal government showing name and matching precinct address; (2) two forms of non-photo ID both bearing the voter's name and matching address (e.g., utility bill within 90 days, bank statement, vehicle registration, tribal enrollment card, property tax statement, voter registration card); or (3) one photo ID with a non-matching address paired with one non-photo ID showing the matching address. Voters who cannot produce acceptable ID (or who appear at the wrong precinct) may cast a conditional provisional ballot, which counts only if the voter presents acceptable ID to the county recorder by 5:00 p.m. on the fifth business day after a general election (third business day after other elections). The underlying Arizona law is unchanged — this is a fidelity improvement to the dashboard description so voters can see all the ways they may qualify to vote.",
+        "sourceIds": [
+          "src-maricopa-id",
+          "src-az-sos",
+          "src-az-statutes"
+        ],
+        "detectedAt": "2026-07-01T05:15:00Z",
+        "severity": "low",
+        "reviewState": "reviewed",
+        "visibility": "public",
+        "changeKind": "clarification"
       }
     ],
     "CONFLICTS": [
