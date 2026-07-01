@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-17",
-  "updatedAt": "2026-06-17T22:35:00Z",
-  "exportedAt": "2026-07-01T05:07:41.379Z",
+  "dataAsOf": "2026-07-01",
+  "updatedAt": "2026-07-01T05:15:00Z",
+  "exportedAt": "2026-07-01T05:38:15.718Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -590,7 +590,7 @@
       {
         "id": "rule-id",
         "topic": "Voter ID at the polls",
-        "currentRule": "Photo ID or two non-photo IDs with name and address. Out-of-precinct voters cast a provisional ballot.",
+        "currentRule": "Arizona voters must present either: (1) one valid photo ID issued by the U.S. federal, state, or tribal government showing the voter's name and address that reasonably matches the precinct register (e.g., Arizona driver license, tribal enrollment card, U.S. federal or state ID); (2) two forms of non-photo ID bearing the voter's name and matching-address (e.g., utility bill dated within 90 days, bank statement, vehicle registration, Indian census card, property tax statement, voter registration card); or (3) one photo ID with a non-matching address paired with one non-photo ID showing the matching address. Voters who cannot produce acceptable ID, or who appear at the wrong precinct, may cast a conditional provisional ballot; the ballot counts only if the voter presents acceptable ID to the county recorder by 5:00 p.m. on the fifth business day after a general election (third business day after other elections).",
         "status": "active",
         "whyItMatters": "Affects in-person eligibility and provisional ballot handling.",
         "governingLevel": "statewide",
@@ -598,9 +598,9 @@
           "src-maricopa-id",
           "src-az-sos"
         ],
-        "confidence": "unconfirmed",
-        "needsReview": true,
-        "lastVerified": "2026-06-16"
+        "confidence": "high",
+        "needsReview": false,
+        "lastVerified": "2026-06-30"
       },
       {
         "id": "rule-vbm",
@@ -1169,17 +1169,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-17-az01-refresh",
-      "startedAt": "2026-06-17T22:00:00Z",
-      "completedAt": "2026-06-17T22:35:00Z",
+      "id": "run-2026-06-30-az01-manual",
+      "startedAt": "2026-06-30T22:00:00Z",
+      "completedAt": "2026-07-01T05:15:00Z",
       "triggerType": "manual",
-      "sourcesChecked": 8,
-      "updatesCreated": 2,
+      "sourcesChecked": 19,
+      "updatesCreated": 1,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "June 17, 2026 bi-weekly refresh for AZ-01. Re-verified AZ Secretary of State guidance and Maricopa County calendar directly: HB 2022 primary date (July 21), registration deadline (June 22), early-voting window (June 24 – July 17), mail-ballot application (July 10), and November 3 general all unchanged. Open-seat field (Schweikert retiring; Galán-Woods DCCC-backed on D side, Feely Trump-endorsed on R side) and Maricopa Recorder-Board litigation captured in yesterday's news-only run remain current. New: documented June 15 legislative referral of HCR 2001 voter-ID measure to the November ballot. No confidence flips; no procedure changes."
+      "summary": "June 30, 2026 manual refresh for AZ-01. Voter ID rule (rule-id) rewritten from a ~20-word summary to the complete three-pathway text, sourced from the Maricopa County Recorder (src-maricopa-id, tier 2) and Arizona Secretary of State (src-az-sos, tier 1). Text now covers all three ID pathways (photo, two non-photo, mixed) and the conditional provisional ballot cure deadline (5th business day after a general election, 3rd business day for other elections). Confidence flipped from 'unconfirmed' to 'confirmed' after human review; needsReview cleared. No other rules changed; all remaining sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-01T22:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-08T04:00:00Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
