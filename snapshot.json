@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-01",
-  "updatedAt": "2026-07-01T05:15:00Z",
-  "exportedAt": "2026-07-01T17:42:38.355Z",
+  "updatedAt": "2026-07-01T19:43:49.150Z",
+  "exportedAt": "2026-07-01T20:02:04.400Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -107,7 +107,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-06-16",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -143,7 +143,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-06-16",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -155,7 +155,7 @@
         "sourceType": "official-district",
         "hierarchyLevel": 4,
         "dateAccessed": "2025-12-20",
-        "lastVerified": "2026-06-16",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-az-statutes": {
@@ -167,7 +167,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-06-16",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-06-16",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -215,7 +215,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-06-16",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -590,7 +590,7 @@
       {
         "id": "rule-id",
         "topic": "Voter ID at the polls",
-        "currentRule": "Arizona voters must present either: (1) one valid photo ID issued by the U.S. federal, state, or tribal government showing the voter's name and address that reasonably matches the precinct register (e.g., Arizona driver license, tribal enrollment card, U.S. federal or state ID); (2) two forms of non-photo ID bearing the voter's name and matching-address (e.g., utility bill dated within 90 days, bank statement, vehicle registration, Indian census card, property tax statement, voter registration card); or (3) one photo ID with a non-matching address paired with one non-photo ID showing the matching address. Voters who cannot produce acceptable ID, or who appear at the wrong precinct, may cast a conditional provisional ballot; the ballot counts only if the voter presents acceptable ID to the county recorder by 5:00 p.m. on the fifth business day after a general election (third business day after other elections).",
+        "currentRule": "Arizona voters must present either: (1) one acceptable photo ID that displays the voter’s name and address, such as an Arizona driver license or ID card, a tribal enrollment card or other tribal photo ID, or a U.S. federal, state, or local government-issued ID. The address on the ID must reasonably match the precinct register. (2) Two different non-photo IDs that display the voter’s name and address, such as a utility bill dated within 90 days of the election, a bank or credit union statement, a valid Arizona vehicle registration, an Indian census card, property tax statement, recorder’s certificate, or voter registration card. The address on the non-photo IDs must reasonably match the precinct register. (3) One acceptable photo ID with an address that does not reasonably match the precinct register, paired with one non-photo ID with an address that reasonably matches the precinct register. Voters who do not provide ID at the polls must vote a provisional ballot. A provisional ballot will be counted only if the voter provides acceptable ID to the county recorder by 7:00 p.m. on the fifth business day after a general election, or by 7:00 p.m. on the third business day after any other election.",
         "status": "active",
         "whyItMatters": "Affects in-person eligibility and provisional ballot handling.",
         "governingLevel": "statewide",
@@ -1186,17 +1186,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-30-az01-manual",
-      "startedAt": "2026-06-30T22:00:00Z",
-      "completedAt": "2026-07-01T05:15:00Z",
-      "triggerType": "manual",
+      "id": "run-2026-07-01-az01-auto",
+      "startedAt": "2026-07-01T19:43:22.315Z",
+      "completedAt": "2026-07-01T19:43:49.150Z",
+      "triggerType": "scheduled",
       "sourcesChecked": 19,
       "updatesCreated": 1,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "June 30, 2026 manual refresh for AZ-01. Voter ID rule (rule-id) rewritten from a ~20-word summary to the complete three-pathway text, sourced from the Maricopa County Recorder (src-maricopa-id, tier 2) and Arizona Secretary of State (src-az-sos, tier 1). Text now covers all three ID pathways (photo, two non-photo, mixed) and the conditional provisional ballot cure deadline (5th business day after a general election, 3rd business day for other elections). Confidence flipped from 'unconfirmed' to 'confirmed' after human review; needsReview cleared. No other rules changed; all remaining sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-01 for AZ-01. Sources checked: 19. LLM verifications: 9. 1 rule/source content change + 6 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-08T04:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-08T19:43:49.150Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
