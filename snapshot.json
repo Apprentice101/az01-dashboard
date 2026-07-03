@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-01",
-  "updatedAt": "2026-07-01T19:43:49.150Z",
-  "exportedAt": "2026-07-03T00:02:12.021Z",
+  "dataAsOf": "2026-07-03",
+  "updatedAt": "2026-07-03T00:14:50.536Z",
+  "exportedAt": "2026-07-03T00:35:52.050Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -107,7 +107,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -143,7 +143,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -155,7 +155,7 @@
         "sourceType": "official-district",
         "hierarchyLevel": 4,
         "dateAccessed": "2025-12-20",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-az-statutes": {
@@ -167,7 +167,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -215,7 +215,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -1186,17 +1186,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-01-az01-auto",
-      "startedAt": "2026-07-01T19:43:22.315Z",
-      "completedAt": "2026-07-01T19:43:49.150Z",
+      "id": "run-2026-07-03-az01-auto",
+      "startedAt": "2026-07-03T00:14:07.793Z",
+      "completedAt": "2026-07-03T00:14:50.536Z",
       "triggerType": "scheduled",
       "sourcesChecked": 19,
-      "updatesCreated": 1,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-01 for AZ-01. Sources checked: 19. LLM verifications: 9. 1 rule/source content change + 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-03 for AZ-01. Sources checked: 19. LLM verifications: 11. 6 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-08T19:43:49.150Z",
+    "NEXT_REFRESH_AT": "2026-07-10T00:14:50.536Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
