@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T00:14:50.536Z",
-  "exportedAt": "2026-07-03T00:35:52.050Z",
+  "updatedAt": "2026-07-03T01:23:48.284Z",
+  "exportedAt": "2026-07-03T01:41:21.790Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -95,7 +95,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-06-16",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-maricopa-where": {
@@ -1187,16 +1187,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-03-az01-auto",
-      "startedAt": "2026-07-03T00:14:07.793Z",
-      "completedAt": "2026-07-03T00:14:50.536Z",
+      "startedAt": "2026-07-03T01:23:12.434Z",
+      "completedAt": "2026-07-03T01:23:48.284Z",
       "triggerType": "scheduled",
       "sourcesChecked": 19,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for AZ-01. Sources checked: 19. LLM verifications: 11. 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-03 for AZ-01. Sources checked: 19. LLM verifications: 11. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T00:14:50.536Z",
+    "NEXT_REFRESH_AT": "2026-07-10T01:23:48.284Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
