@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T06:22:38.568Z",
-  "exportedAt": "2026-07-08T06:27:16.313Z",
+  "updatedAt": "2026-07-08T19:35:49.542Z",
+  "exportedAt": "2026-07-08T19:42:02.449Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -1187,16 +1187,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-08-az01-auto",
-      "startedAt": "2026-07-08T06:22:32.948Z",
-      "completedAt": "2026-07-08T06:22:38.568Z",
+      "startedAt": "2026-07-08T19:35:46.052Z",
+      "completedAt": "2026-07-08T19:35:49.542Z",
       "triggerType": "scheduled",
       "sourcesChecked": 19,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for AZ-01. Sources checked: 19. LLM verifications: 12. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-08 for AZ-01. Sources checked: 19. LLM verifications: 12. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T06:22:38.568Z",
+    "NEXT_REFRESH_AT": "2026-07-15T19:35:49.542Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
