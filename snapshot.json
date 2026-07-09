@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:35:49.542Z",
-  "exportedAt": "2026-07-08T20:33:57.798Z",
+  "exportedAt": "2026-07-09T17:02:49.439Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -792,7 +792,7 @@
         "governingAuthority": "Arizona SOS",
         "sourceType": "official-state",
         "sourceId": "src-az-sos",
-        "lastVerified": "2026-06-16"
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-locations",
@@ -802,17 +802,27 @@
         "governingAuthority": "Maricopa County Elections",
         "sourceType": "official-county",
         "sourceId": "src-maricopa-where",
-        "lastVerified": "2026-06-16"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-status",
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
+        "description": "In Maricopa County, ballot drop-off is available at every vote center. Use the same locator as polling locations to find the nearest drop site, or return your ballot by mail.",
+        "url": "https://elections.maricopa.gov/voting/where-to-vote.html",
+        "governingAuthority": "Maricopa County Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-maricopa-where",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-check-reg",
         "label": "Check registration status",
         "description": "Confirm registration, polling place, and party affiliation.",
         "url": "https://my.arizona.vote/WhereToVote.aspx",
         "governingAuthority": "Arizona SOS",
         "sourceType": "official-state",
         "sourceId": "src-az-sos",
-        "lastVerified": "2026-06-16"
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-track",
@@ -822,37 +832,17 @@
         "governingAuthority": "AZ Clean Elections",
         "sourceType": "civic-nonprofit",
         "sourceId": "src-az-clean-tracking",
-        "lastVerified": "2026-06-16"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-verify",
-        "label": "Verify ballot was counted",
-        "description": "After the election, confirm whether your mail ballot was accepted and counted.",
-        "url": "https://www.azcleanelections.gov/election-and-ballot-tracking",
-        "governingAuthority": "AZ Clean Elections",
-        "sourceType": "civic-nonprofit",
-        "sourceId": "src-az-clean-tracking",
-        "lastVerified": "2026-06-16"
-      },
-      {
-        "id": "res-dashboard",
-        "label": "Maricopa voter dashboard",
-        "description": "Personalized voter dashboard with ballot, district, and registration info.",
-        "url": "https://elections.maricopa.gov/voting/voter-dashboard-login",
-        "governingAuthority": "Maricopa County Elections",
-        "sourceType": "official-county",
-        "sourceId": "src-maricopa-dash",
-        "lastVerified": "2026-06-16"
-      },
-      {
-        "id": "res-canvass",
-        "label": "Canvass information",
-        "description": "How and when Arizona counties certify election results.",
-        "url": "https://www.azcleanelections.gov/election-security/how-votes-are-counted",
-        "governingAuthority": "AZ Clean Elections",
-        "sourceType": "civic-nonprofit",
-        "sourceId": "src-az-clean-counting",
-        "lastVerified": "2026-06-16"
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Unofficial election-night returns from the Arizona Secretary of State.",
+        "url": "https://azsos.gov/elections/election-information/unofficial-enr",
+        "governingAuthority": "Arizona Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-az-sos",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-recount",
