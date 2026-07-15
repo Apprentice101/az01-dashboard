@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:35:49.542Z",
-  "exportedAt": "2026-07-09T17:02:49.439Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:09:52.562Z",
+  "exportedAt": "2026-07-15T06:38:00.529Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -107,7 +107,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -143,7 +143,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -167,7 +167,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -215,7 +215,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -1173,20 +1173,60 @@
         "relevanceSummary": "Required VoteBeat Voter Registration & Rolls coverage: county policies diverged for voters affected by Arizona's proof-of-citizenship record-keeping error.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0cxeoul",
+        "headline": "Amish Shah - 2026 Election Polls & Odds | Prediction Edge",
+        "sourceName": "Prediction Edge",
+        "url": "https://www.predictionedge.com/elections/profile/amish-shah/?eventId=6f4b028e80304152adb4108c7f3fa013&marketId=1bdac990d2834ff5917602f43a65ce6f",
+        "publishedAt": "2026-07-10",
+        "relevanceSummary": "This AZ-01-focused election profile notes that the district’s primary is scheduled for July 21, with early voting beginning June 24, providing key calendar and voting-timeline information relevant for AZ-01 voters planning when to cast ballots.[4]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0201bsw",
+        "headline": "Arizona Supreme Court Sides With Maricopa Recorder Heap Over Board of Supervisors",
+        "sourceName": "The Daily Dots",
+        "url": "https://thedailydots.substack.com/p/arizona-supreme-court-sides-with",
+        "publishedAt": "2026-07-09",
+        "relevanceSummary": "Reporting on the same Arizona Supreme Court ruling, this article explains that the Court reinstated injunctions returning election-administration authority to the Maricopa County Recorder, which could affect procedures for ballot handling, early voting, and election management for AZ-01 residents living in Maricopa County.[3][6]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0536djy",
+        "headline": "Attorney says Arizona Supreme Court decision will add to election chaos",
+        "sourceName": "AZFamily",
+        "url": "https://www.azfamily.com/2026/07/09/attorney-says-arizona-supreme-court-decision-will-add-election-chaos/",
+        "publishedAt": "2026-07-09",
+        "relevanceSummary": "The Arizona Supreme Court ordered Maricopa County to adopt Recorder Justin Heap’s election plan, shifting election-administration authority away from the Board of Supervisors and potentially changing how voting, ballot processing, and polling operations are run for Maricopa voters, including those in AZ-01.[6][3]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-02mjli6",
+        "headline": "Arizona Among Six States To Receive DOJ Election Monitors Ahead Of Primary",
+        "sourceName": "California Globe",
+        "url": "https://californiaglobe.com/fr/arizona-among-six-states-to-receive-doj-election-monitors-ahead-of-primary/",
+        "publishedAt": "2026-07-08",
+        "relevanceSummary": "The U.S. Department of Justice will deploy federal election monitors in multiple Arizona jurisdictions, including Maricopa, Apache, and Pima counties, which informs AZ-01 voters about additional oversight of election administration and polling place conduct in parts of their district.[7]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-az01-auto",
-      "startedAt": "2026-07-08T19:35:46.052Z",
-      "completedAt": "2026-07-08T19:35:49.542Z",
+      "id": "run-2026-07-15-az01-auto",
+      "startedAt": "2026-07-15T06:09:14.642Z",
+      "completedAt": "2026-07-15T06:09:52.562Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 19,
-      "updatesCreated": 0,
+      "sourcesChecked": 16,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for AZ-01. Sources checked: 19. LLM verifications: 12. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-15 for AZ-01. Sources checked: 16. LLM verifications: 8. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:35:49.542Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:09:52.562Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
