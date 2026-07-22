@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:09:52.562Z",
-  "exportedAt": "2026-07-15T06:38:00.529Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:24:07.839Z",
+  "exportedAt": "2026-07-22T06:49:19.893Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -107,7 +107,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -143,7 +143,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -167,7 +167,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -215,7 +215,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -1213,20 +1213,90 @@
         "relevanceSummary": "The U.S. Department of Justice will deploy federal election monitors in multiple Arizona jurisdictions, including Maricopa, Apache, and Pima counties, which informs AZ-01 voters about additional oversight of election administration and polling place conduct in parts of their district.[7]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0nkoi4y",
+        "headline": "Arizona primary: DOJ monitors polls as voting system changes",
+        "sourceName": "YouTube News Segment",
+        "url": "https://www.youtube.com/watch?v=wtK6PVDwz4c",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "This segment explains that DOJ monitors are present in Maricopa, Apache, and Pima counties while voters use a new early-ballot ID verification process at voting centers, highlighting both federal oversight and the practical implementation of Arizona’s new voter ID procedure that AZ-01 voters will encounter.[7][3]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-07zix72",
+        "headline": "DOJ deploys federal election monitors across Arizona on primary day",
+        "sourceName": "FOX 10 Phoenix",
+        "url": "https://www.fox10phoenix.com/news/doj-deploys-federal-election-monitors-across-arizona-primary-day.amp",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "FOX 10 reports that the U.S. Department of Justice deployed federal election monitors to polling sites in Maricopa, Apache, and Pima counties during Arizona’s primary to ensure compliance with federal voting rights laws, a safeguard that affects election administration and voter protections in AZ-01 areas within these counties.[6]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0exaztl",
+        "headline": "Arizona's primary elections: Which US races to watch and why they matter",
+        "sourceName": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "This piece includes statewide procedural information for Arizona’s primary, noting that polls open at 6 a.m. and generally close at 7 p.m., and that anyone in line by closing time may vote, clarifying basic Election Day rules relevant to AZ-01 voters.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-03rp5ro",
+        "headline": "Primary election to decide nominees in key races",
+        "sourceName": "Axios Phoenix",
+        "url": "https://www.axios.com/local/phoenix/2026/07/21/arizona-2026-primary-election-day",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "Axios outlines practical voting procedures for Arizona’s primary, including that polls are open from 6 a.m. to 7 p.m., voters in Maricopa County (which includes part of AZ-01) can vote at any vote center, and that early ballots should now be dropped off at polling places or official drop boxes rather than mailed this close to Election Day.[4]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0ejex58",
+        "headline": "Congressional candidates debate housing, immigration",
+        "sourceName": "960 The Patriot",
+        "url": "https://960thepatriot.com/news/regional/a7fba05d-de44-4c63-aa3c-994c76b9e0b5",
+        "publishedAt": "2026-07-20",
+        "relevanceSummary": "While focused on candidate issues, this article reiterates that Arizona primary polls are open from 6 a.m. to 7 p.m. MST on July 21 and directs voters to the Arizona Secretary of State’s elections website for more information, offering basic but useful voting procedure details to AZ-01 voters.[5]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0yofqpl",
+        "headline": "AP Decision Notes: What to expect in Arizona’s state primary",
+        "sourceName": "Associated Press (via Audacy)",
+        "url": "https://www.audacy.com/knss/news/politics/arizona-primary-governor-house-congress-az01-az05-b6e976145bd3c6048f0fbd6415359645",
+        "publishedAt": "2026-07-19",
+        "relevanceSummary": "AP’s decision notes for Arizona’s primary detail statewide voting logistics such as poll closing times (7 p.m. local time in most of Arizona), the schedule for release of unofficial results, and turnout patterns in early voting, providing AZ-01 voters with context on when and how their ballots will be counted and reported.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-02nd8xz",
+        "headline": "Arizona voters have a new ID option at the polls",
+        "sourceName": "Rose Law Group Reporter",
+        "url": "https://roselawgroupreporter.com/2026/07/arizona-voters-have-a-new-id-option-at-the-polls/",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "This article explains a new statewide voter ID procedure for early ballots: voters can bring their completed early ballot in the green envelope to any voting center, present ID, have the envelope stamped \"identification verified,\" and place it in a designated box, a process all Arizona counties must implement and that directly applies to AZ-01 voters.[3]",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-az01-auto",
-      "startedAt": "2026-07-15T06:09:14.642Z",
-      "completedAt": "2026-07-15T06:09:52.562Z",
+      "id": "run-2026-07-22-az01-auto",
+      "startedAt": "2026-07-22T06:23:28.861Z",
+      "completedAt": "2026-07-22T06:24:07.839Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
-      "updatesCreated": 4,
+      "sourcesChecked": 15,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for AZ-01. Sources checked: 16. LLM verifications: 8. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for AZ-01. Sources checked: 15. LLM verifications: 8. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:09:52.562Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:24:07.839Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
