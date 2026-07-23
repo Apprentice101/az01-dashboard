@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-22",
   "updatedAt": "2026-07-22T06:24:07.839Z",
-  "exportedAt": "2026-07-22T21:14:14.252Z",
+  "exportedAt": "2026-07-23T17:17:53.467Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -73,6 +73,19 @@
         "dateAccessed": "2026-01-12",
         "lastVerified": "2026-06-16",
         "confidence": "high"
+      },
+      "src-democracy-docket-heap-settlement": {
+        "id": "src-democracy-docket-heap-settlement",
+        "name": "Democracy Docket — Maricopa County settlement gives Recorder Heap authority over early voting and drop boxes",
+        "short": "Democracy Docket — Heap Settlement",
+        "url": "https://www.democracydocket.com/news-alerts/maricopa-county-hands-election-denier-control-over-early-voting-and-drop-boxes/",
+        "publisher": "Democracy Docket",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-07-23",
+        "lastVerified": "2026-07-23",
+        "confidence": "high",
+        "notes": "July 15, 2026 settlement between the Maricopa County Board of Supervisors and Recorder Justin Heap resolving the authority dispute over election administration. Governs the November 3, 2026 general election and later contests. The July 21 primary ran under a separate interim plan adopted by the Arizona Supreme Court."
       },
       "src-maricopa-recorder-news": {
         "id": "src-maricopa-recorder-news",
@@ -781,6 +794,23 @@
         "confidence": "unconfirmed",
         "needsReview": true,
         "lastVerified": "2026-06-16"
+      },
+      {
+        "id": "rule-az-maricopa-recorder-authority-2026",
+        "topic": "Split election authority between Maricopa Recorder and Board of Supervisors (Nov 2026 general)",
+        "currentRule": "For the November 3, 2026 general election in Maricopa County, election administration is split between the County Recorder (Justin Heap) and the Board of Supervisors under a July 15, 2026 settlement. The Recorder's office runs early voting — selecting early-voting locations, setup, equipment and staff, voter registration, mailing early ballots, scanning returned envelopes, signature verification, and helping voters cure signature problems — and selects drop-box locations. The Board of Supervisors retains Election Day operations, bipartisan early-election boards that process early ballots, ballot tabulation, and the official canvass of results. The Board also determines and funds the maximum number of early-voting sites and the number of drop boxes; ballots deposited in drop boxes are jointly collected and transported by both offices. For the 2026 general, early voting must occur at locations that will also be used on Election Day.",
+        "status": "active",
+        "whyItMatters": "AZ-01 sits entirely in Maricopa County. This settlement determines which office AZ-01 voters interact with for early voting locations, drop-box placement, signature-cure outreach, and voter-registration processing for the November 3 general — all now under the Recorder — versus Election Day polling operations and vote counting, which remain with the Board of Supervisors. The settlement does not itself guarantee how many early-voting sites or drop boxes will be available, only who chooses them.",
+        "governingLevel": "countywide",
+        "sourceIds": [
+          "src-democracy-docket-heap-settlement",
+          "src-maricopa-recorder",
+          "src-maricopa-recorder-news"
+        ],
+        "confidence": "high",
+        "needsReview": false,
+        "lastVerified": "2026-07-23",
+        "detail": "Settlement dated July 15, 2026, resolving more than a year of litigation between the Board of Supervisors and Recorder Heap. Effective for the November 3, 2026 general election and later contests. The July 21, 2026 primary ran under a separate interim plan adopted by the Arizona Supreme Court, not this settlement. Voters seeking early-voting site or drop-box location information for the November general should look to the Recorder's office; voters seeking Election Day polling locations should look to the Board of Supervisors / Maricopa County Elections."
       }
     ],
     "RESOURCES": [
@@ -993,6 +1023,39 @@
         "reviewState": "reviewed",
         "visibility": "public",
         "changeKind": "clarification"
+      },
+      {
+        "id": "upd-010",
+        "title": "July 21 primary results: Shah (D) and Feely (R) advance to November general",
+        "fieldChanged": "News feed (primary results); general-election candidate framing",
+        "oldValue": "Primary campaign coverage; general-election matchup not yet set",
+        "newValue": "Amish Shah won the four-way Democratic primary on July 21, defeating DCCC-backed Marlene Galán-Woods, Jonathan Treble, and Rick McCartney with about 40% of the vote (AP call Wednesday July 22). Jay Feely (Trump-endorsed) won the Republican primary with about 49% of the vote, defeating Joseph Chaplik and John Trobough (AP call primary night). The AZ-01 general election on November 3 is now formally Shah vs. Feely — a rematch context for Shah, who was the district's 2024 Democratic nominee and lost to then-incumbent Rep. David Schweikert by roughly four points. Schweikert vacated the seat to run for governor and lost his own primary to Rep. Andy Biggs.",
+        "sourceIds": [
+          "src-az-sos",
+          "src-maricopa-recorder"
+        ],
+        "detectedAt": "2026-07-23T17:00:00Z",
+        "severity": "medium",
+        "reviewState": "reviewed",
+        "visibility": "public",
+        "changeKind": "schedule"
+      },
+      {
+        "id": "upd-011",
+        "title": "Maricopa Board of Supervisors and Recorder Heap reach settlement splitting election authority for November general",
+        "fieldChanged": "News feed; new rule rule-az-maricopa-recorder-authority-2026",
+        "oldValue": "Ongoing court dispute between Maricopa Recorder and Board of Supervisors; roles for the November general unresolved",
+        "newValue": "A July 15, 2026 settlement gives Maricopa County Recorder Justin Heap authority over early voting for the November 3 general — including early-voting site selection, setup, equipment and staff, voter registration, mailing early ballots, envelope scanning, signature verification, signature-cure outreach, and drop-box location selection. The Board of Supervisors retains Election Day operations, bipartisan early-election boards, ballot tabulation, the official canvass, and funding decisions (maximum number of early-voting sites, number of drop boxes, 10 new early-voting staff positions, and up to $15 million for a separate voter-registration system controlled by the Recorder). Ballots deposited in drop boxes are jointly collected and transported. The settlement did not govern the July 21 primary, which ran under an Arizona Supreme Court interim plan. Added rule-az-maricopa-recorder-authority-2026 (confidence: high) so the split persists in the Rules section beyond the news freshness window.",
+        "sourceIds": [
+          "src-democracy-docket-heap-settlement",
+          "src-maricopa-recorder",
+          "src-maricopa-recorder-news"
+        ],
+        "detectedAt": "2026-07-23T17:00:00Z",
+        "severity": "high",
+        "reviewState": "reviewed",
+        "visibility": "public",
+        "changeKind": "law_or_policy"
       }
     ],
     "CONFLICTS": [
@@ -1024,6 +1087,26 @@
       }
     ],
     "NEWS": [
+      {
+        "id": "news-017",
+        "headline": "Amish Shah wins Arizona House primary; will face GOP's Jay Feely in November for open AZ-01 seat",
+        "sourceName": "Politico",
+        "url": "https://www.politico.com/news/2026/07/22/shah-wins-arizona-house-primary-01007471",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "The AP called AZ-01's Democratic primary for former state Rep. Amish Shah on Wednesday July 22. Shah won the four-way primary with about 40% of the vote, defeating DCCC-backed Marlene Galán-Woods, Jonathan Treble, and Rick McCartney. Jay Feely — the Trump-endorsed former NFL kicker — won the Republican primary on election night with about 49%, defeating Joseph Chaplik and John Trobough. AZ-01 was left open when incumbent David Schweikert vacated it to run for governor (he lost his GOP gubernatorial primary to Rep. Andy Biggs). The Nov. 3 general is now formally Shah vs. Feely.",
+        "tag": "results",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-016",
+        "headline": "Maricopa County settlement gives Recorder Justin Heap authority over early voting and drop boxes for November general",
+        "sourceName": "Democracy Docket",
+        "url": "https://www.democracydocket.com/news-alerts/maricopa-county-hands-election-denier-control-over-early-voting-and-drop-boxes/",
+        "publishedAt": "2026-07-15",
+        "relevanceSummary": "A July 15 settlement between the Maricopa County Board of Supervisors and Recorder Justin Heap resolves more than a year of litigation over who runs Maricopa elections. Heap's office gains control of early voting for the November 3 general — early-voting site selection, setup, equipment and staff, voter registration, mailing early ballots, envelope scanning, signature verification, signature-cure outreach, and drop-box location selection. The Board of Supervisors retains Election Day operations, bipartisan early-election boards, ballot tabulation, and the official canvass, and funds the maximum number of early-voting sites, drop boxes, 10 new early-voting staff positions, and up to $15 million for a separate voter-registration system controlled by the Recorder. Ballots deposited in drop boxes are jointly collected and transported. The settlement did not govern the July 21 primary, which ran under a separate interim plan adopted by the Arizona Supreme Court. Because AZ-01 sits entirely in Maricopa County, this settlement determines which office AZ-01 voters interact with for early-voting information, drop-box placement, and signature-cure outreach for the November general.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
       {
         "id": "news-015",
         "headline": "Power struggle between Maricopa County officials continues as primary election draws closer",
