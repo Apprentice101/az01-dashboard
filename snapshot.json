@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:24:07.839Z",
-  "exportedAt": "2026-07-23T17:17:53.467Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:26:29.195Z",
+  "exportedAt": "2026-07-29T06:52:32.362Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -83,7 +83,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-07-23",
-        "lastVerified": "2026-07-23",
+        "lastVerified": "2026-07-29",
         "confidence": "high",
         "notes": "July 15, 2026 settlement between the Maricopa County Board of Supervisors and Recorder Justin Heap resolving the authority dispute over election administration. Governs the November 3, 2026 general election and later contests. The July 21 primary ran under a separate interim plan adopted by the Arizona Supreme Court."
       },
@@ -120,7 +120,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -156,7 +156,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -180,7 +180,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -192,7 +192,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -228,7 +228,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -1366,20 +1366,90 @@
         "relevanceSummary": "This article explains a new statewide voter ID procedure for early ballots: voters can bring their completed early ballot in the green envelope to any voting center, present ID, have the envelope stamped \"identification verified,\" and place it in a designated box, a process all Arizona counties must implement and that directly applies to AZ-01 voters.[3]",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0n1h2ob",
+        "headline": "Amish Shah wins Democratic primary for key Arizona House district, defeating candidate backed by national party groups",
+        "sourceName": "CBS News",
+        "url": "https://www.cbsnews.com/news/arizona-1st-district-democratic-primary-amish-shah/",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "CBS News reports that Amish Shah won the Democratic primary and will face GOP nominee Jay Feely in the November general election for AZ-01, informing district voters which candidates have qualified for the general ballot and shaping their preparation for the upcoming election.[5]",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0u2hbsz",
+        "headline": "Legislative roundup: Where the closest primaries stand",
+        "sourceName": "Arizona Capitol Times",
+        "url": "https://azcapitoltimes.com/news/2026/07/21/legislative-roundup-where-the-closest-primaries-stand/",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "Arizona Capitol Times summarizes close primary contests and notes Jay Feely’s lead in the Republican primary, helping AZ-01 voters track the status of competitive races and understand which candidates are on track to appear on the November ballot in their district.[6]",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-00d3q5b",
+        "headline": "Live: Arizona primary election updates",
+        "sourceName": "Cronkite News (Arizona PBS)",
+        "url": "https://cronkitenews.azpbs.org/2026/07/21/arizona-primary-election-live-updates/",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "Cronkite News outlines Maricopa County’s Election Day procedures for July 21, including 245 voting centers operating from 6 a.m. to 7 p.m., registration figures, and how unofficial results are posted and canvassed, offering AZ-01 voters county-level details on polling locations, hours, and result reporting that directly affect many district residents.[9]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-087isjn",
+        "headline": "Live Arizona primary election results for Congress",
+        "sourceName": "The Arizona Republic (azcentral.com)",
+        "url": "https://www.azcentral.com/story/news/politics/elections/2026/07/21/arizona-congressional-district-primary-election-results/90873415007/",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "Azcentral explains how and when congressional primary results are reported statewide, noting that unofficial results begin around 8 p.m. and become official only after all ballots, including mail ballots requiring signature verification, are tallied and certified, clarifying for AZ-01 voters the timeline and process for their district’s results.[3]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0ksx7tw",
+        "headline": "What to expect in Arizona's state primary on Tuesday",
+        "sourceName": "ABC15 Arizona",
+        "url": "https://www.abc15.com/news/political/elections/what-to-expect-in-arizonas-state-primary-on-tuesday",
+        "publishedAt": "2026-07-20",
+        "relevanceSummary": "ABC15 details statewide election procedures for the July 21 primary, including polling hours, how automatic recounts work at a 0.5% margin, and rules for party participation, giving AZ-01 voters practical information on when and how they can vote and what happens if races are extremely close.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0fjrt6h",
+        "headline": "Arizona’s 1st Congressional District race is one of the most competitive in the country",
+        "sourceName": "ABC15 Arizona",
+        "url": "https://www.abc15.com/news/region-northeast-valley/scottsdale/arizonas-1st-congressional-district-race-is-one-of-the-most-competitive-in-the-country",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "This article highlights the competitiveness of the AZ-01 race and reminds voters of the July 21 primary date, reinforcing the importance of district voters understanding primary timelines and participation rules as they prepare for both the primary and November general election.[4]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0ha88r5",
+        "headline": "Governor’s orders aim to ease voter registration and help counties with polling places and drop boxes",
+        "sourceName": "Arizona Capitol Times",
+        "url": "https://azcapitoltimes.com/news/issues/gina-swoboda/",
+        "publishedAt": "2026-07-10",
+        "relevanceSummary": "Arizona Capitol Times describes gubernatorial orders that require state agencies to link to the Secretary of State’s voter registration portal and provide options for counties seeking polling locations and drop box sites, changing how AZ-01 voters can access registration tools and influencing local decisions on where they can vote or drop off ballots.[7]",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-az01-auto",
-      "startedAt": "2026-07-22T06:23:28.861Z",
-      "completedAt": "2026-07-22T06:24:07.839Z",
+      "id": "run-2026-07-29-az01-auto",
+      "startedAt": "2026-07-29T06:25:25.681Z",
+      "completedAt": "2026-07-29T06:26:29.195Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
+      "sourcesChecked": 18,
       "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for AZ-01. Sources checked: 15. LLM verifications: 8. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for AZ-01. Sources checked: 18. LLM verifications: 12. 6 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:24:07.839Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:26:29.195Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
