@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:26:29.195Z",
-  "exportedAt": "2026-07-29T06:52:32.362Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:22:17.030Z",
+  "exportedAt": "2026-08-05T06:46:17.507Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -83,7 +83,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-07-23",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high",
         "notes": "July 15, 2026 settlement between the Maricopa County Board of Supervisors and Recorder Justin Heap resolving the authority dispute over election administration. Governs the November 3, 2026 general election and later contests. The July 21 primary ran under a separate interim plan adopted by the Arizona Supreme Court."
       },
@@ -120,7 +120,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -156,7 +156,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -168,7 +168,7 @@
         "sourceType": "official-district",
         "hierarchyLevel": 4,
         "dateAccessed": "2025-12-20",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-az-statutes": {
@@ -180,7 +180,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -192,7 +192,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -1436,20 +1436,40 @@
         "relevanceSummary": "Arizona Capitol Times describes gubernatorial orders that require state agencies to link to the Secretary of State’s voter registration portal and provide options for counties seeking polling locations and drop box sites, changing how AZ-01 voters can access registration tools and influencing local decisions on where they can vote or drop off ballots.[7]",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0rhacdp",
+        "headline": "Arizona Court of Appeals temporarily blocks ruling shifting control of Maricopa County elections, citing risk of voter confusion before July 21 primary",
+        "sourceName": "The Voting News (Arizona roundup, citing Arizona Republic/Capitol Times)",
+        "url": "https://thevotingnews.com/state/arizona/",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "The Arizona Court of Appeals stayed enforcement of a lower-court order in the dispute between the Maricopa County Board of Supervisors and Recorder Justin Heap over control of county elections to avoid disrupting upcoming elections, directly affecting how election administration, databases, and procedures are managed in Maricopa County, where many AZ-01 voters reside.[9]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0q7pbe7",
+        "headline": "Early ballots for Arizona’s July 21 primary sent to voters as counties prepare for new election calendar",
+        "sourceName": "FOX 10 Phoenix",
+        "url": "https://www.fox10phoenix.com/tag/politics/az-politics",
+        "publishedAt": "2026-07-19",
+        "relevanceSummary": "Early voting has begun for Arizona’s July 21 primary, with counties mailing early ballots and reminding voters about deadlines and return options, information that AZ-01 voters need to successfully use mail-in ballots, drop boxes, and in-person early voting under the adjusted calendar.[4]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-az01-auto",
-      "startedAt": "2026-07-29T06:25:25.681Z",
-      "completedAt": "2026-07-29T06:26:29.195Z",
+      "id": "run-2026-08-05-az01-auto",
+      "startedAt": "2026-08-05T06:21:11.120Z",
+      "completedAt": "2026-08-05T06:22:17.030Z",
       "triggerType": "scheduled",
       "sourcesChecked": 18,
-      "updatesCreated": 7,
+      "updatesCreated": 2,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for AZ-01. Sources checked: 18. LLM verifications: 12. 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for AZ-01. Sources checked: 18. LLM verifications: 13. 6 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:26:29.195Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:22:17.030Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
