@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-08-05",
   "updatedAt": "2026-08-05T06:22:17.030Z",
-  "exportedAt": "2026-08-05T06:46:17.507Z",
+  "exportedAt": "2026-08-05T18:20:29.257Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -736,6 +736,23 @@
         "lastVerified": "2026-06-16"
       },
       {
+        "id": "rule-az-id-verify-drop-off",
+        "topic": "Optional ID-verify lane for dropping off mail ballots",
+        "currentRule": "Under 2024 Arizona legislation, county election officials must offer an optional 'ID-verify' lane when a voter drops off a mail ballot at a polling place. Instead of signing the envelope and having elections staff match the signature against the one on file later (the standard, labor-intensive process), a voter may choose to wait in line at the drop-off site and present a driver's license, passport, or similar photo ID. Staff then verify identity by ID at drop-off, bypassing signature verification entirely for that ballot. The lane is completely optional — signature-based drop-off remains available with no ID and no wait. AZ-01 lies entirely in Maricopa County, where in the July 21, 2026 primary about 23,000 voters (~30% of Election Day drop-offs) used the ID-verify lane; Maricopa runs a single combined line for in-person voters and ID-verify drop-offs, and tabulates ID-verified ballots on site. For the November 3, 2026 general, uptake is unpredictable because higher turnout may mean noticeably longer lines than in the primary.",
+        "status": "active",
+        "whyItMatters": "Directly affects when AZ-01 results are called: after the July 2026 primary, Maricopa County Recorder Justin Heap announced signature verification was complete about 13 hours after polls closed, a substantial acceleration attributed in part to ID-verify. If a similar share of AZ-01 voters uses the option in November, results-reporting will be earlier and more complete on Election Night. Individual voters do not have to change anything, but voters who want to help speed the count — or simply prefer ID verification to signature matching — can bring photo ID and use the lane.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-votebeat-az",
+          "src-az-sos",
+          "src-az-statutes"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-08-05",
+        "needsReview": false,
+        "detail": "Statutory origin: 2024 Arizona election-timeline bipartisan legislation; State Rep. Alex Kolodin identified as lead architect. Article cites no specific bill number — flag for later bill-number confirmation. Maricopa uses one combined Election Day line and on-site tabulators; ID-verify voters wait alongside in-person voters. The option is available at drop-off locations only — signing at home and mailing the ballot is unaffected. Sample size: July 21, 2026 primary was low-turnout, so November lines may be materially longer."
+      },
+      {
         "id": "rule-rejection",
         "topic": "Ballot rejection",
         "currentRule": "Common rejection causes: late receipt, missing signature, signature mismatch, voter not registered at address.",
@@ -886,6 +903,20 @@
       }
     ],
     "UPDATES": [
+      {
+        "id": "upd-az01-id-verify",
+        "title": "Optional ID-verify lane at mail-ballot drop-off added to RULES",
+        "fieldChanged": "RULES",
+        "oldValue": "No dashboard entry described the optional ID-verify drop-off lane.",
+        "newValue": "Added rule-az-id-verify-drop-off documenting the optional lane that lets voters dropping off a mail ballot at a polling place present a driver's license, passport, or similar photo ID to bypass signature verification. Origin: 2024 Arizona bipartisan election-timeline legislation. First large-scale use in the July 21, 2026 primary: about 23,000 Maricopa County voters (~30% of Election Day drop-offs) used the option; Maricopa County Recorder Justin Heap announced signature verification complete ~13 hours after polls closed. AZ-01 sits entirely in Maricopa County, so any AZ-01 voter dropping off a mail ballot on Election Day can use the option.",
+        "sourceIds": [
+          "src-votebeat-az"
+        ],
+        "detectedAt": "2026-08-05T18:10:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "public"
+      },
       {
         "id": "upd-001",
         "title": "Arizona 2026 primary date moved earlier",
@@ -1087,6 +1118,16 @@
       }
     ],
     "NEWS": [
+      {
+        "id": "news-az01-id-verify-2026-07-30",
+        "headline": "New ballot drop-off option proves popular in primary, potentially leading to faster election results",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2026/07/30/maricopa-pima-counties-id-verify-popular-voters-faster-election-results-2026/",
+        "publishedAt": "2026-07-30",
+        "relevanceSummary": "In the July 21, 2026 primary, about 23,000 Maricopa County voters — roughly 30% of those who dropped off a mail ballot on Election Day — used the state's new optional 'ID-verify' lane at drop-off, presenting a driver's license, passport, or similar photo ID instead of relying on later signature verification. Maricopa County Recorder Justin Heap announced signature verification was complete about 13 hours after polls closed, calling it 'an unprecedented milestone.' Because AZ-01 is entirely within Maricopa County, every AZ-01 voter dropping off a mail ballot on Election Day can use the option; if uptake in the November 3, 2026 general is similar, AZ-01 results should be called earlier than in past cycles. The option is optional — signature-based drop-off remains available with no ID and no wait. Reporting also flags a caveat: the primary was low-turnout, so November lines at drop-off locations may be materially longer than voters saw in July.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
       {
         "id": "news-017",
         "headline": "Amish Shah wins Arizona House primary; will face GOP's Jay Feely in November for open AZ-01 seat",
