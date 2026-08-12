@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:22:17.030Z",
-  "exportedAt": "2026-08-05T18:20:29.257Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:25:48.964Z",
+  "exportedAt": "2026-08-12T05:45:44.404Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -120,7 +120,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -156,7 +156,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -168,7 +168,7 @@
         "sourceType": "official-district",
         "hierarchyLevel": 4,
         "dateAccessed": "2025-12-20",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-az-statutes": {
@@ -180,7 +180,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -192,7 +192,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -228,7 +228,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -1497,20 +1497,70 @@
         "relevanceSummary": "Early voting has begun for Arizona’s July 21 primary, with counties mailing early ballots and reminding voters about deadlines and return options, information that AZ-01 voters need to successfully use mail-in ballots, drop boxes, and in-person early voting under the adjusted calendar.[4]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-09seq8v",
+        "headline": "Prop. 144 challenge to be decided by Arizona Supreme Court",
+        "sourceName": "Tucson.com",
+        "url": "https://tucson.com/news/nation-world/government-politics/elections/article_3b37a4f8-62d4-4711-8e81-da2d5e17aee7.html",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "A challenge to Proposition 144 going to the Arizona Supreme Court is relevant statewide because Arizona court rulings can affect election procedures and voter rules for AZ-01 voters as well. The article indicates the issue is still being litigated, so the practical rules may change depending on the court’s decision.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0gk6zzv",
+        "headline": "Ninth Circuit Sides With Arizona on Voter Registration Law",
+        "sourceName": "People's Law Review",
+        "url": "https://peopleslawreview.com/2026/08/08/ninth-circuit-sides-with-arizona-on-voter-registration-law-but-the-judges-cant-agree-on-why/",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "This report says the Ninth Circuit vacated the preliminary injunction blocking Arizona provisions tied to voter registration and ballot materials, which could affect how Arizona voters are registered and how election materials are handled. That statewide ruling is relevant to AZ-01 voters even though it is not district-specific.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0v7o04t",
+        "headline": "Court rejects fears about 2022 voter registration law, allows it to be enforced",
+        "sourceName": "Arizona Capitol Times",
+        "url": "https://azcapitoltimes.com/news/2026/08/08/court-rejects-fears-about-2022-voter-registration-law-allows-it-to-be-enforced/",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "A federal appeals court allowed Arizona to enforce parts of a 2022 election law affecting voter registration and ballot-handling rules, which directly matters to AZ-01 voters because statewide registration and voting-procedure rules apply in the district. The article says the injunction blocking the provisions was lifted for now while the case continues.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0oqbicp",
+        "headline": "Arizona SAVE Act Backers Sue, Say Secretary of State’s Ballot Language Is Misleading",
+        "sourceName": "The Daily Signal",
+        "url": "https://www.dailysignal.com/2026/08/06/save-act-ballot-language-misleading/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "This piece says Arizona backers of the SAVE Act sued over the Secretary of State’s ballot language, which is relevant to AZ-01 because statewide ballot wording and election administration can affect how voters understand and act on ballot measures. It is less directly about day-of voting rules, so relevance is moderate.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0ili0ne",
+        "headline": "Arizona secretary of state certifies primary results",
+        "sourceName": "KJZZ",
+        "url": "https://www.kjzz.org/elections/2026-08-06/arizona-secretary-of-state-certifies-primary-results",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "The Secretary of State’s certification of the primary is a statewide election-administration step that affects the transition to the general election for all Arizona voters, including AZ-01. The article also notes Apache County switched to a voter-center model, which is relevant to how some voters in the state may cast ballots.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-az01-auto",
-      "startedAt": "2026-08-05T06:21:11.120Z",
-      "completedAt": "2026-08-05T06:22:17.030Z",
+      "id": "run-2026-08-12-az01-auto",
+      "startedAt": "2026-08-12T05:25:06.670Z",
+      "completedAt": "2026-08-12T05:25:48.964Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 18,
-      "updatesCreated": 2,
+      "sourcesChecked": 19,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for AZ-01. Sources checked: 18. LLM verifications: 13. 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for AZ-01. Sources checked: 19. LLM verifications: 11. 6 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:22:17.030Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:25:48.964Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
