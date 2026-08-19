@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:25:48.964Z",
-  "exportedAt": "2026-08-12T05:45:44.404Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:31:08.425Z",
+  "exportedAt": "2026-08-19T05:05:57.244Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -83,7 +83,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-07-23",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-19",
         "confidence": "high",
         "notes": "July 15, 2026 settlement between the Maricopa County Board of Supervisors and Recorder Justin Heap resolving the authority dispute over election administration. Governs the November 3, 2026 general election and later contests. The July 21 primary ran under a separate interim plan adopted by the Arizona Supreme Court."
       },
@@ -120,7 +120,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -156,7 +156,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -180,7 +180,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -192,7 +192,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -228,7 +228,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -1547,20 +1547,90 @@
         "relevanceSummary": "The Secretary of State’s certification of the primary is a statewide election-administration step that affects the transition to the general election for all Arizona voters, including AZ-01. The article also notes Apache County switched to a voter-center model, which is relevant to how some voters in the state may cast ballots.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-08snclx",
+        "headline": "A deadline this week should help decide which measures go on the Arizona ballot",
+        "sourceName": "KJZZ",
+        "url": "https://www.kjzz.org/the-show/2026-08-17/a-deadline-this-week-should-help-decide-which-measures-go-in-the-arizona-ballot",
+        "publishedAt": "2026-08-17",
+        "relevanceSummary": "Discusses a statewide ballot-printing deadline this week that determines which initiatives and measures qualify for inclusion on Arizona’s general election ballot, affecting what AZ-01 voters will see on their November ballots and underscoring the timeline election administrators must follow for ballot preparation.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-00btik3",
+        "headline": "KJZZ’s Sun Up for Aug. 14, 2026 (segment on citizenship and voter registration law)",
+        "sourceName": "KJZZ",
+        "url": "https://www.kjzz.org/podcast/kjzzs-sun-up/2026-08-14/kjzzs-sun-up-for-aug-14-2026",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "Highlights discussion of Arizona’s voter registration law clarifying that only citizens may register and vote in Arizona elections and critiques how state officials have communicated that requirement, informing AZ-01 voters about legal eligibility rules and reinforcing citizenship as a prerequisite for registration.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-097vmxd",
+        "headline": "Protect Education Act ballot eligibility still uncertain after ruling",
+        "sourceName": "Arizona Capitol Times",
+        "url": "https://azcapitoltimes.com/news/2026/08/14/protect-education-act-ballot-eligibility-still-uncertain-after-ruling/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "Reports on ongoing litigation and court rulings over whether the Protect Education Act will qualify for Arizona’s general election ballot, noting an August 20 statewide ballot-printing deadline that influences what measures appear for all voters, including AZ-01, and highlights the legal process for initiative ballot access.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0mzc7d6",
+        "headline": "Plan ahead for the Nov. 3 General Election",
+        "sourceName": "Pima County Elections",
+        "url": "https://www.pima.gov/394/Elections?contentId=93ea6de7-dca7-49e1-b01b-5d59d392e5ef",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "Provides county election administration guidance for the November 3 general election, including planning information and timelines that reflect how Arizona counties prepare for voting, offering procedures and dates that, while specific to Pima County, illustrate logistics and expectations similar to those AZ-01 voters will encounter in their own counties.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-09oqx8x",
+        "headline": "Arizona 2026 election dates: voter registration deadline, early voting, and Election Day",
+        "sourceName": "Copper Courier",
+        "url": "https://coppercourier.com/news/elections/5-key-dates-to-know-in-arizonas-2026-midterm-elections/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "Details key statewide 2026 election deadlines for Arizona, including the firm voter registration cutoff, early voting window, and Election Day hours, as well as specific rules that mail ballots must be received (not just postmarked) by 7 p.m. and that voters can instead use county drop boxes or voting locations, plus in‑person voter ID requirements, all of which govern AZ-01 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-05z7gqn",
+        "headline": "First time voting? Here’s how to cast a ballot in Arizona",
+        "sourceName": "Copper Courier",
+        "url": "https://coppercourier.com/news/elections/first-time-voting-arizona-ballot/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "Provides a step-by-step statewide guide to Arizona ballot casting options—mail voting vs. in-person—as well as how to sign up for the Active Early Voting List, mail-ballot return deadlines, drop box usage, and the requirement to present accepted identification to vote in person, giving AZ-01 voters practical instructions for the November general.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0y9tvvy",
+        "headline": "How to vote early—by mail and in-person—in Arizona",
+        "sourceName": "Copper Courier",
+        "url": "https://coppercourier.com/news/elections/how-to-vote-early-arizona-2026/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "Explains statewide Arizona early voting procedures for 2026, including how to join the Active Early Voting List or request a one-time mail ballot, deadlines for registering and requesting early ballots, and the rules for returning mail ballots or using drop boxes and voting centers by 7 p.m. on Election Day, all of which apply directly to AZ-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-az01-auto",
-      "startedAt": "2026-08-12T05:25:06.670Z",
-      "completedAt": "2026-08-12T05:25:48.964Z",
+      "id": "run-2026-08-19-az01-auto",
+      "startedAt": "2026-08-19T04:29:44.152Z",
+      "completedAt": "2026-08-19T04:31:08.425Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 19,
-      "updatesCreated": 5,
+      "sourcesChecked": 20,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for AZ-01. Sources checked: 19. LLM verifications: 11. 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for AZ-01. Sources checked: 20. LLM verifications: 12. 6 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:25:48.964Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:31:08.425Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
