@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:31:08.425Z",
-  "exportedAt": "2026-08-19T05:05:57.244Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:34:22.161Z",
+  "exportedAt": "2026-08-26T05:13:49.525Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -120,7 +120,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -156,7 +156,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -168,7 +168,7 @@
         "sourceType": "official-district",
         "hierarchyLevel": 4,
         "dateAccessed": "2025-12-20",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-az-statutes": {
@@ -180,7 +180,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -192,7 +192,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -228,7 +228,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -1617,20 +1617,100 @@
         "relevanceSummary": "Explains statewide Arizona early voting procedures for 2026, including how to join the Active Early Voting List or request a one-time mail ballot, deadlines for registering and requesting early ballots, and the rules for returning mail ballots or using drop boxes and voting centers by 7 p.m. on Election Day, all of which apply directly to AZ-01 voters.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0fwbjib",
+        "headline": "What Arizona voters should know about Supreme Court's mail-in voting decision",
+        "sourceName": "Arizona’s Family (azfamily.com)",
+        "url": "https://www.azfamily.com/2026/08/25/what-arizona-voters-should-know-about-supreme-courts-mail-in-voting-decision/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This explainer clarifies that the Supreme Court decision only allows federal officials to draft possible mail-in voting restrictions and does not authorize withholding ballots from registered voters, and Arizona leaders are urging voters, including those in AZ-01, to continue using mail ballots and to track them online under existing state procedures.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0cxzf9i",
+        "headline": "Supreme Court ruling on mail-in ballot order impacts little, Arizona officials say",
+        "sourceName": "Arizona Capitol Times",
+        "url": "https://azcapitoltimes.com/news/2026/08/24/supreme-court-ruling-on-mail-in-ballot-order-impacts-little-arizona-officials-say/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "Arizona officials emphasize that the Supreme Court’s action on Trump’s mail-in ballot order does not alter Arizona’s early voting schedule or mail-ballot processes, noting that early ballots will still be mailed on Oct. 7 and that mail-in voting remains available statewide for AZ-01 voters under current procedures.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0ilz4ah",
+        "headline": "Fontes: SCOTUS mail-in voting decision doesn’t change general election",
+        "sourceName": "KNAU / Arizona Public Radio",
+        "url": "https://www.knau.org/knau-and-arizona-news/2026-08-25/fontes-scotus-mail-in-voting-decision-doesnt-change-general-election",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "Arizona Secretary of State Adrian Fontes states that despite the Supreme Court’s decision, nothing has changed about Arizona’s general election procedures and voters statewide, including in AZ-01, can still vote by mail with the same options, registration rules, and deadlines as before.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0y3znru",
+        "headline": "Elections in Arizona continue as normal despite Supreme Court ruling",
+        "sourceName": "Arizona Republic (azcentral.com)",
+        "url": "https://www.azcentral.com/story/news/politics/elections/2026/08/24/az-elections-to-continue-as-normal-despite-supreme-court-ruling-mail-in-voting/91450655007/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This article explains that Arizona election officials, including the attorney general, say the recent U.S. Supreme Court ruling related to President Trump’s mail-in voting order does not change Arizona’s existing mail-in and early voting procedures, so AZ-01 voters can continue to vote by mail and expect ballots and deadlines to remain as previously announced.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-06zuaj6",
+        "headline": "Supreme Court ruling won't affect Arizona mail-in voting, Fontes says",
+        "sourceName": "Axios Phoenix",
+        "url": "https://www.axios.com/local/phoenix/2026/08/24/supreme-court-trump-executive-order-mail-ballots-arizona-fontes",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "This piece reports that Secretary of State Adrian Fontes says a federal injunction and existing state law mean the Trump mail-ballot order cannot be enforced in Arizona, so roughly 80% of voters who use early or mail voting, including those in AZ-01, will see no change in mail-ballot or drop-box procedures for the general election.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0evflei",
+        "headline": "Recorder finds 30 registered voters were not US citizens",
+        "sourceName": "Sedona Red Rock News",
+        "url": "https://www.redrocknews.com/2026/08/22/recorder-finds-30-registered-voters-were-not-us-citizens/",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "This article describes a Yavapai County voter-roll audit using the federal SAVE database to verify citizenship and immigration status for voter registration and list maintenance, signaling increased scrutiny of registration eligibility that could influence similar procedures in other Arizona counties that include parts of AZ-01.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0b9sgfa",
+        "headline": "Monthly Archives: August 2026 – Ninth Circuit upholds Arizona voting laws ahead of general election",
+        "sourceName": "The Voting News",
+        "url": "https://thevotingnews.com/2026/08/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "The archive notes a Ninth Circuit decision reinstating provisions of a 2022 Arizona law imposing stricter voter registration requirements, which will take effect for the midterm general election and may affect how AZ-01 voters register and maintain eligibility, particularly around documentation and verification requirements.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0klxgs8",
+        "headline": "Heads up, voters: Important dates to remember for Arizona midterm election",
+        "sourceName": "Arizona’s Family (azfamily.com)",
+        "url": "https://www.azfamily.com/2026/08/21/heads-up-voters-important-dates-to-remember-arizona-midterm-election/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This statewide voter resource lists key election deadlines applicable to AZ-01 voters, including the voter registration deadline (Oct. 5), the date ballots are mailed and early voting begins (Oct. 7), the last recommended day to mail back a ballot (Oct. 27), and the final day for in-person early voting (Oct. 30) before Election Day on Nov. 3.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-az01-auto",
-      "startedAt": "2026-08-19T04:29:44.152Z",
-      "completedAt": "2026-08-19T04:31:08.425Z",
+      "id": "run-2026-08-26-az01-auto",
+      "startedAt": "2026-08-26T04:32:31.716Z",
+      "completedAt": "2026-08-26T04:34:22.161Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 20,
-      "updatesCreated": 7,
-      "conflictsCreated": 0,
+      "sourcesChecked": 21,
+      "updatesCreated": 8,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for AZ-01. Sources checked: 20. LLM verifications: 12. 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for AZ-01. Sources checked: 21. LLM verifications: 13. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:31:08.425Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:34:22.161Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
