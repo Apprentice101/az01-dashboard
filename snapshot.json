@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:34:22.161Z",
-  "exportedAt": "2026-08-26T05:13:49.525Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:18:39.583Z",
+  "exportedAt": "2026-09-02T09:07:37.352Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -83,7 +83,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-07-23",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-09-02",
         "confidence": "high",
         "notes": "July 15, 2026 settlement between the Maricopa County Board of Supervisors and Recorder Justin Heap resolving the authority dispute over election administration. Governs the November 3, 2026 general election and later contests. The July 21 primary ran under a separate interim plan adopted by the Arizona Supreme Court."
       },
@@ -120,7 +120,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -156,7 +156,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -180,7 +180,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -192,7 +192,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -228,7 +228,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -1697,20 +1697,100 @@
         "relevanceSummary": "This statewide voter resource lists key election deadlines applicable to AZ-01 voters, including the voter registration deadline (Oct. 5), the date ballots are mailed and early voting begins (Oct. 7), the last recommended day to mail back a ballot (Oct. 27), and the final day for in-person early voting (Oct. 30) before Election Day on Nov. 3.",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0on0z2b",
+        "headline": "What's on November's General Election Ballot in Arizona?",
+        "sourceName": "O'odham Action News (Salt River Pima-Maricopa Indian Community)",
+        "url": "https://oan.srpmic-nsn.gov/whats-on-novembers-general-election-ballot-in-arizona/",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "In addition to describing statewide ballot content, this piece outlines Arizona’s core voting procedures, including the requirement to register 29 days before the election, options to vote early by mail or in person, deadlines for returning mail ballots, and the use of drop boxes and voting centers, all of which apply to AZ‑01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0cdb7dc",
+        "headline": "Exhibit 1 (Declaration of Tammy Patrick on USPS ballot mail procedures)",
+        "sourceName": "Campaign Legal Center",
+        "url": "https://campaignlegal.org/sites/default/files/2026-08/Declaration%20of%20Tammy%20Patrick.pdf",
+        "publishedAt": "2026-08-29",
+        "relevanceSummary": "This expert declaration details new USPS ballot‑mail design and verification requirements, including mandatory Election Mail logos, unique barcodes, and entry of outbound ballots at specific postal facilities, and notes that Arizona county recorders are responsible for early voting and vote‑by‑mail processing—information that affects how AZ‑01 voters’ mail ballots are handled.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-02sqrke",
+        "headline": "Arizona Voter ID & Registration Deadline | Alto",
+        "sourceName": "Alto",
+        "url": "https://alto.gab.com/politics/voter-id/arizona",
+        "publishedAt": "2026-08-29",
+        "relevanceSummary": "This statewide explainer details Arizona’s strict voter-ID requirements, including that voters must show ID (photo not required) at the polls and that those without ID receive provisional ballots that only count if they follow up with election officials after Election Day; it also highlights the Oct. 5, 2026 voter-registration deadline and the absence of same‑day registration, all of which directly govern AZ‑01 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0lajp6d",
+        "headline": "August 2026 Ballot Access News Print Edition",
+        "sourceName": "Ballot Access News",
+        "url": "https://ballot-access.org/2026/08/27/august-2026-ballot-access-news-print-edition/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This monthly ballot‑access roundup includes updates on Arizona’s treatment of minor political parties and candidate qualification rules, indicating which parties and candidates can gain access to the November ballot; these statewide rules influence the choices available to AZ‑01 voters.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0r0msdf",
+        "headline": "Six statewide candidate filing deadlines in the next two weeks",
+        "sourceName": "Ballotpedia News",
+        "url": "https://news.ballotpedia.org/2026/08/28/six-statewide-candidate-filing-deadlines-in-the-next-two-weeks-2/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This Ballotpedia update notes Arizona’s Sept. 4, 2026 filing deadline for statewide general write‑in and judicial retention candidates, explaining that state‑level ballot‑access laws determine which candidates can appear on the general election ballot; these rules shape the candidate lineup AZ‑01 voters will see in November.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0kjsfv2",
+        "headline": "Election officials say mail-in ballot rules could compromise voting access",
+        "sourceName": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/elections/2026/08/28/election-offficials-warn-of-chaos-over-new-usps-mail-ballot-rule/91477498007/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This national report explains new USPS rules requiring states to submit detailed voter lists and unique barcodes for all outbound and return mail ballots, which election officials warn could disrupt ballot mailing and processing; Arizona’s mail‑voting system, used by AZ‑01 voters, would be directly affected if these procedures are implemented.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0yjrzht",
+        "headline": "How to register to vote in Arizona in 2026",
+        "sourceName": "Copper Courier",
+        "url": "https://coppercourier.com/news/elections/how-to-register-to-vote-arizona/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This article provides practical statewide voter‑registration instructions for 2026, explaining eligibility rules, the Oct. 5 registration deadline for the Nov. 3 general election, and how Arizonans—including AZ‑01 residents—can register online with a state ID or by mail or in person using proof of citizenship documents.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-07i9w8p",
+        "headline": "US Postal Service says new mail ballot rules tied to Trump order are in effect",
+        "sourceName": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/aug/27/us-postal-service-mail-ballot-rules-trump-order",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This article reports that USPS will immediately enforce new rules for ballot envelopes and acceptance procedures for the November midterm elections, meaning Arizona election officials—and by extension AZ‑01 voters who rely heavily on mail‑in voting—may see changes in how their ballots are sent, tracked, and returned.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-az01-auto",
-      "startedAt": "2026-08-26T04:32:31.716Z",
-      "completedAt": "2026-08-26T04:34:22.161Z",
+      "id": "run-2026-09-02-az01-auto",
+      "startedAt": "2026-09-02T08:16:47.107Z",
+      "completedAt": "2026-09-02T08:18:39.583Z",
       "triggerType": "scheduled",
       "sourcesChecked": 21,
       "updatesCreated": 8,
-      "conflictsCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for AZ-01. Sources checked: 21. LLM verifications: 13. 6 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-09-02 for AZ-01. Sources checked: 21. LLM verifications: 12. 6 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:34:22.161Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:18:39.583Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
