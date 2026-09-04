@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-09-02",
   "updatedAt": "2026-09-02T08:18:39.583Z",
-  "exportedAt": "2026-09-02T09:07:37.352Z",
+  "exportedAt": "2026-09-04T00:44:00.083Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -904,6 +904,21 @@
     ],
     "UPDATES": [
       {
+        "id": "upd-az01-have-you-moved",
+        "title": "FLAG: ~142,000 Maricopa County (AZ-01) voters received 'HAVE YOU MOVED?' letters — most do not need to act",
+        "fieldChanged": "Voter registration — address-confirmation notices",
+        "oldValue": "No dashboard entry described the 'HAVE YOU MOVED?' Confirmation Notices that hit Maricopa County mailboxes between July 31 and Aug. 15, 2026.",
+        "newValue": "Under HB 2243 (2022), the Arizona Secretary of State's office monthly cross-references the state voter registration database against the state driver's license database and forwards address-discrepancy lists to county recorders, who send 'Confirmation Notice — MVD — In State Mover' letters (headed 'HAVE YOU MOVED?'). At least 149,776 Arizona voters got letters statewide; nearly all were sent by the Maricopa County Recorder's Office — ~142,000 between July 31 and Aug. 1, plus another ~7,500 on Aug. 14 and 15. Because AZ-01 sits entirely within Maricopa County, virtually every AZ-01 recipient of one of these letters is in this batch. The letters do NOT cancel registration or affect voting eligibility on their own; many are triggered by trivial database differences (e.g., 'Unit 1' vs '# 1', 'lane' vs 'LN', 'N' vs 'North'). If the address on the notice is correct, no response is required. If it is wrong, contact the Maricopa County Recorder's Office to update. All AZ-01 voters should verify their registration at My.Arizona.Vote by the Oct. 5, 2026 general-election registration deadline. If subsequent election mail is returned undeliverable, officials may begin the voter-removal process after sending an additional confirmation notice.",
+        "sourceIds": [
+          "src-votebeat-az"
+        ],
+        "detectedAt": "2026-09-03T21:00:00Z",
+        "severity": "high",
+        "reviewState": "reviewed",
+        "visibility": "public",
+        "changeKind": "clarification"
+      },
+      {
         "id": "upd-az01-id-verify",
         "title": "Optional ID-verify lane at mail-ballot drop-off added to RULES",
         "fieldChanged": "RULES",
@@ -1118,6 +1133,16 @@
       }
     ],
     "NEWS": [
+      {
+        "id": "news-018",
+        "headline": "'HAVE YOU MOVED?' 150,000 Arizona voters — nearly all in Maricopa County — receive confusing address-confirmation letters",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2026/09/03/have-you-moved-letter-secretary-of-state-maricopa-navajo-mohave-graham-greenlee/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "Votebeat Arizona and the Arizona Mirror co-report that at least 149,776 Arizona voters received official 'HAVE YOU MOVED?' Confirmation Notices under HB 2243 (2022), which requires the Secretary of State to compare voter-registration and driver's-license databases monthly and forward discrepancies to county recorders. Nearly all notices — ~142,000 between July 31 and Aug. 1, and ~7,500 more on Aug. 14 and 15 — came from the Maricopa County Recorder's Office, so this hits AZ-01 harder than any other district in the state (AZ-01 is entirely inside Maricopa County). The letters do NOT cancel registration and often stem from trivial database differences (e.g., 'Unit 1' vs '# 1', 'lane' vs 'LN'). Voters whose address is correct do not need to respond; voters whose address is wrong should contact the Maricopa County Recorder to update. All AZ-01 voters should verify their status at My.Arizona.Vote by the Oct. 5 registration deadline. If subsequent election mail is returned undeliverable, officials may begin the voter-removal process after sending another confirmation attempt.",
+        "tag": "voter-info",
+        "reviewState": "reviewed"
+      },
       {
         "id": "news-az01-id-verify-2026-07-30",
         "headline": "New ballot drop-off option proves popular in primary, potentially leading to faster election results",
