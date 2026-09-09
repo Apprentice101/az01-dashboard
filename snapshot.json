@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:18:39.583Z",
-  "exportedAt": "2026-09-04T00:44:00.083Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T08:32:39.375Z",
+  "exportedAt": "2026-09-09T09:18:02.197Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -83,7 +83,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-07-23",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high",
         "notes": "July 15, 2026 settlement between the Maricopa County Board of Supervisors and Recorder Justin Heap resolving the authority dispute over election administration. Governs the November 3, 2026 general election and later contests. The July 21 primary ran under a separate interim plan adopted by the Arizona Supreme Court."
       },
@@ -120,7 +120,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -156,7 +156,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -168,7 +168,7 @@
         "sourceType": "official-district",
         "hierarchyLevel": 4,
         "dateAccessed": "2025-12-20",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-az-statutes": {
@@ -180,7 +180,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -192,7 +192,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -228,7 +228,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -1802,20 +1802,90 @@
         "relevanceSummary": "This article reports that USPS will immediately enforce new rules for ballot envelopes and acceptance procedures for the November midterm elections, meaning Arizona election officials—and by extension AZ‑01 voters who rely heavily on mail‑in voting—may see changes in how their ballots are sent, tracked, and returned.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-07035jr",
+        "headline": "Trump's war on mail-in ballots has voters baffled. That may be the point",
+        "sourceName": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html",
+        "publishedAt": "2026-09-06",
+        "relevanceSummary": "The article reports on an Arizona briefing involving the secretary of state, attorney general, and county recorders about a proposed USPS mail-ballot rule, noting an emergency filing by the administration to reinstate parts of the rule that a court had blocked, which could affect how mail ballots are processed and delivered for Arizona voters, including those in AZ-01.[11]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0xl6qq6",
+        "headline": "Arizona voter-law fight reaches SCOTUS as election groups warn ‘absurd’ consequence could ensue",
+        "sourceName": "Mingooland",
+        "url": "https://mingooland.com/2026/09/arizona-voter-law-fight-reaches-scotus-as-election-groups-warn-absurd-consequence-could-ensue/",
+        "publishedAt": "2026-09-05",
+        "relevanceSummary": "The case reaching the U.S. Supreme Court will determine whether two Arizona laws—one removing registrations of noncitizen voters within 90 days of an election and another requiring proof of U.S. citizenship to register—violate the National Voter Registration Act, potentially changing statewide voter registration and proof-of-citizenship requirements for AZ-01 voters.[10]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0j73f0d",
+        "headline": "Judge extends block on postal mail-in voting rule; Pima County recorder says November plans unchanged",
+        "sourceName": "Tucson Daily Brief",
+        "url": "https://tucsondailybrief.com/posts/2026-09-05.html",
+        "publishedAt": "2026-09-05",
+        "relevanceSummary": "A federal judge extended a preliminary injunction blocking a new U.S. Postal Service mail-ballot rule, and Pima County’s recorder says she does not anticipate disruption to mail ballots for the November general but expects extra administrative work, indicating that Arizona mail-in voters in AZ-01 should see no immediate change in procedures but may encounter increased communication and guidance.[5]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0bseijl",
+        "headline": "60 Days, 60 Facts; Arizona Dot Vote election facts campaign launches",
+        "sourceName": "Gila Valley Central",
+        "url": "https://gilavalleycentral.net/60-days-60-facts-arizona-dot-vote-election-facts-campaign-launches/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "The Arizona Secretary of State’s Office has launched a statewide Arizona.Vote “60 Days, 60 Facts” campaign to share daily nonpartisan information on voting procedures, key deadlines, where and how to vote, voter registration, early voting, ballot information, and identification requirements for the 2026 General Election, all directly applicable to AZ-01 voters.[2]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-08bgp99",
+        "headline": "Pima County Recorder Gabriella Cázares-Kelly talks mail-in voting and the fight to preserve voter rights in Arizona",
+        "sourceName": "AZPM",
+        "url": "https://news.azpm.org/p/azpmnews/2026/9/4/231106-pima-county-recorder-gabriella-cazares-kelly-talks-mail-in-voting-and-the-fight-to-preserve-voter-rights-in-arizona",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "Pima County’s recorder explains how her office is preparing mail ballots for overseas and uniformed voters, outlines early voting start dates, and describes Election Day vote-center hours and ballot handling procedures, giving AZ-01 voters concrete information on mail-in voting timelines and what happens to their ballots after polls close.[1]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-05f7rqc",
+        "headline": "Pinal County Voters and the USPS Ruling",
+        "sourceName": "Pinal County Government",
+        "url": "https://www.pinal.gov/CivicAlerts.aspx?AID=2552",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "Pinal County explains that despite the federal court ruling on USPS mail-ballot rules it will continue mailing early ballots, and urges voters statewide to update registration at My.Arizona.Vote, mail ballots by October 23 due to Arizona’s delivered-by deadline, or use secure ballot drop boxes and early voting locations instead of relying solely on mail, guidance relevant to AZ-01 voters.[12]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0mkvhmz",
+        "headline": "County Corner: September Greetings and Election Information",
+        "sourceName": "The Standard Newspaper",
+        "url": "https://thestandardnewspaper.online/county-corner-september-greetings-and-election-information/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "Mohave County provides detailed information on Arizona’s October 5 voter registration deadline, the October 7 start of in-person early voting and mailing of early ballots, the October 23 last day to request an early ballot, and how its Voter Registration Division mails, processes, and verifies signatures on early ballots, offering AZ-01 voters a clear model of county-level procedures.[9]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-az01-auto",
-      "startedAt": "2026-09-02T08:16:47.107Z",
-      "completedAt": "2026-09-02T08:18:39.583Z",
+      "id": "run-2026-09-09-az01-auto",
+      "startedAt": "2026-09-09T08:30:56.720Z",
+      "completedAt": "2026-09-09T08:32:39.375Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 21,
-      "updatesCreated": 8,
+      "sourcesChecked": 20,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for AZ-01. Sources checked: 21. LLM verifications: 12. 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for AZ-01. Sources checked: 20. LLM verifications: 13. 7 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:18:39.583Z",
+    "NEXT_REFRESH_AT": "2026-09-16T08:32:39.375Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
