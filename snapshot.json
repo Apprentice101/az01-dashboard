@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:00:22.985Z",
-  "exportedAt": "2026-09-16T09:49:31.512Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:00:05.338Z",
+  "exportedAt": "2026-09-23T09:35:44.355Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -83,7 +83,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-07-23",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high",
         "notes": "July 15, 2026 settlement between the Maricopa County Board of Supervisors and Recorder Justin Heap resolving the authority dispute over election administration. Governs the November 3, 2026 general election and later contests. The July 21 primary ran under a separate interim plan adopted by the Arizona Supreme Court."
       },
@@ -120,7 +120,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -156,7 +156,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -180,7 +180,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -192,7 +192,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -1952,20 +1952,60 @@
         "relevanceSummary": "The county newsletter highlights that Maricopa County Elections offers numerous ballot drop box locations and directs residents to official resources for finding nearby sites and reliable election results, giving AZ-01 voters practical guidance on where and how to return early ballots securely.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0ji5lcf",
+        "headline": "Southern Az election officials say ballot proposition guides being sent to voters by end of September",
+        "sourceName": "Tucson Sentinel",
+        "url": "https://www.tucsonsentinel.com/local/report/092226_prop_booklets/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "Arizona election officials are sending voters guides for statewide propositions, including Proposition 144’s proposed requirement for government-issued identification for voting in person or by mail. The article notes that the measure’s mail-voting ID process is unclear and is especially relevant because more than 70% of Arizona voters vote by mail.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0xtz26r",
+        "headline": "Register by Oct. 5 to Vote in the Nov. 3 General Election",
+        "sourceName": "SanTanValley.com",
+        "url": "https://santanvalley.com/news/politics/politics/register-by-oct-5-november-3-general-election",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The article explains Arizona voter-registration options and identifies October 5 as the deadline to register for the November 3 general election. It also provides ballot-request, return, early-voting, and drop-box details for Pinal County, which is relevant to AZ-01 voters residing there and illustrates county-level procedures applicable to Arizona voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-03uka3a",
+        "headline": "KTAR town hall panelists weigh on Prop 144",
+        "sourceName": "KTAR News",
+        "url": "https://ktar.com/arizona-politics-news/election/prop-144-voting-id-pro-con",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "The discussion covers Proposition 144, which would amend Arizona’s Constitution to require government-issued identification for casting a ballot in person or by mail. It also addresses the proposed option for voters to have ballots tabulated at voting locations on Election Day, making the measure directly relevant to AZ-01 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-042tllu",
+        "headline": "Voter ID, DEI and more: What to know about the 8 statewide ballot proposals",
+        "sourceName": "Arizona’s Family",
+        "url": "https://www.azfamily.com/2026/09/16/voter-id-dei-more-what-know-about-8-statewide-ballot-proposals/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "Arizona voters, including those in AZ-01, will consider Proposition 144, which would require government-issued identification for voting in person or by mail and would take effect for elections beginning January 1, 2028 if approved. The proposal would also allow voters to have ballots tabulated at their voting location on Election Day.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-az01-auto",
-      "startedAt": "2026-09-16T08:58:33.705Z",
-      "completedAt": "2026-09-16T09:00:22.985Z",
+      "id": "run-2026-09-23-az01-auto",
+      "startedAt": "2026-09-23T08:58:20.248Z",
+      "completedAt": "2026-09-23T09:00:05.338Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 19,
-      "updatesCreated": 8,
+      "sourcesChecked": 21,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for AZ-01. Sources checked: 19. LLM verifications: 13. 7 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for AZ-01. Sources checked: 21. LLM verifications: 13. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:00:22.985Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:00:05.338Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
