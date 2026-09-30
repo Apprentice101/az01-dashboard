@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:00:05.338Z",
-  "exportedAt": "2026-09-23T09:35:44.355Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:09:24.915Z",
+  "exportedAt": "2026-09-30T10:35:41.185Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -83,7 +83,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-07-23",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high",
         "notes": "July 15, 2026 settlement between the Maricopa County Board of Supervisors and Recorder Justin Heap resolving the authority dispute over election administration. Governs the November 3, 2026 general election and later contests. The July 21 primary ran under a separate interim plan adopted by the Arizona Supreme Court."
       },
@@ -120,7 +120,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -156,7 +156,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -180,7 +180,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -192,7 +192,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -228,7 +228,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -1992,20 +1992,90 @@
         "relevanceSummary": "Arizona voters, including those in AZ-01, will consider Proposition 144, which would require government-issued identification for voting in person or by mail and would take effect for elections beginning January 1, 2028 if approved. The proposal would also allow voters to have ballots tabulated at their voting location on Election Day.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0bhh4yj",
+        "headline": "The 2026 Oro Valley election guide is here",
+        "sourceName": "Town of Oro Valley",
+        "url": "https://www.orovalleyaz.gov/Government/News/The-2026-Oro-Valley-election-guide-is-here",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The guide gives Pima County voters the Oct. 7 start date for early voting and mailed ballots and the Oct. 23 deadline to request a mailed ballot. It directs voters to Pima County for registration, mailed-ballot, vote-center, and early-voting services, making it relevant to AZ-01 voters in the district's Pima County areas.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0gqedb4",
+        "headline": "Get Ready for the 2026 General Election",
+        "sourceName": "Town of Carefree",
+        "url": "https://www.carefree.org/article/3157494",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "This Maricopa County local-government notice provides location-specific ballot logistics for Carefree voters, including a temporary drop box at Town Hall beginning Oct. 7, an in-person voting location opening Oct. 23, and deadlines for registration, replacement ballots, and mailing ballots. It is relevant to AZ-01 voters residing in the Carefree area.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0bzs777",
+        "headline": "Prop. 144 Aims To Speed Up Arizona Election Results With On-Site Tabulation, Voter ID",
+        "sourceName": "AZ Free News",
+        "url": "https://azfreenews.com/2026/09/prop-144-aims-to-speed-up-arizona-election-results-with-on-site-tabulation-voter-id/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "Arizona voters, including those in AZ-01, will decide in November whether Proposition 144 changes ballot-tabulation and identification requirements. The article says the measure would require government-issued identification for every voter, including mail voters, and describes the existing 2026 procedure for early-ballot drop-offs at vote centers.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-03lprye",
+        "headline": "VOTER GUIDE: What to know about Arizona's 2026 election",
+        "sourceName": "ABC15 Arizona",
+        "url": "https://www.abc15.com/news/political/elections/voter-guide-what-to-know-about-arizonas-2026-election",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "This statewide voter guide applies directly to AZ-01 voters. It lists the Oct. 5 registration deadline, Oct. 7 start of early voting and ballot mailing, Oct. 27 recommended mail-back deadline, Nov. 3 Election Day hours, county vote-center access, drop-off options, and the new process allowing voters who drop off an early ballot at a voting location to show valid ID and use an early-ballot tabulator.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0cg6ou4",
+        "headline": "Maricopa County Issues Key Reminders Ahead Of November Election",
+        "sourceName": "AZ Free News",
+        "url": "https://azfreenews.com/2026/09/maricopa-county-issues-key-reminders-ahead-of-november-election/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "Maricopa County guidance is directly relevant to AZ-01 voters in the county. It covers the Oct. 5 registration deadline, Oct. 7 early voting, in-person ID requirements and acceptable alternatives, 254 vote centers, drop-box locations, mail-ballot signature requirements, the Oct. 23 replacement-ballot deadline, and the 7 p.m. Election Day receipt deadline.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0rxm29y",
+        "headline": "When does early voting begin in Arizona? Here's what to know",
+        "sourceName": "The Arizona Republic",
+        "url": "https://www.azcentral.com/videos/news/politics/elections/2026/09/24/early-voting-arizona-election-2026/91910091007/",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "This statewide election-procedure explainer tells Arizona voters that 2026 ballots go out and early voting begins Oct. 7. The timing applies to voters in AZ-01 who vote by mail or in person.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-09xink9",
+        "headline": "Arizona Secretary of State race reignites fight over election rules",
+        "sourceName": "Arizona's Family",
+        "url": "https://www.azfamily.com/2026/09/23/arizona-secretary-state-race-reignites-fight-over-election-rules/",
+        "publishedAt": "2026-09-23",
+        "relevanceSummary": "The statewide article discusses an Arizona ballot measure that would require voter ID, including for mail-in voting, and explains the Secretary of State's role in voter registration, voting-device certification, candidate certification, and election-result certification. These statewide responsibilities and proposed rules apply to AZ-01 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-az01-auto",
-      "startedAt": "2026-09-23T08:58:20.248Z",
-      "completedAt": "2026-09-23T09:00:05.338Z",
+      "id": "run-2026-09-30-az01-auto",
+      "startedAt": "2026-09-30T10:08:10.953Z",
+      "completedAt": "2026-09-30T10:09:24.915Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 21,
-      "updatesCreated": 4,
+      "sourcesChecked": 20,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for AZ-01. Sources checked: 21. LLM verifications: 13. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for AZ-01. Sources checked: 20. LLM verifications: 12. 6 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:00:05.338Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:09:24.915Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
