@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:09:24.915Z",
-  "exportedAt": "2026-09-30T10:35:41.185Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T10:45:13.601Z",
+  "exportedAt": "2026-10-07T11:10:56.790Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -83,7 +83,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-07-23",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high",
         "notes": "July 15, 2026 settlement between the Maricopa County Board of Supervisors and Recorder Justin Heap resolving the authority dispute over election administration. Governs the November 3, 2026 general election and later contests. The July 21 primary ran under a separate interim plan adopted by the Arizona Supreme Court."
       },
@@ -120,7 +120,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -156,7 +156,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -180,7 +180,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -192,7 +192,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -2062,20 +2062,100 @@
         "relevanceSummary": "The statewide article discusses an Arizona ballot measure that would require voter ID, including for mail-in voting, and explains the Secretary of State's role in voter registration, voting-device certification, candidate certification, and election-result certification. These statewide responsibilities and proposed rules apply to AZ-01 voters.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0vam9ph",
+        "headline": "Review ordered after 3000+ Maricopa County mail-in ballots mailed early",
+        "sourceName": "Arizona's Family",
+        "url": "https://www.azfamily.com/2026/10/06/board-reacts-after-3000-maricopa-county-mail-in-ballots-mailed-early/",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "Maricopa County, which contains much of AZ-01, ordered a review after more than 3,000 mail-in ballots were sent before the scheduled Oct. 7 start. The ballots remain valid and voters may complete and return them normally, according to election officials.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-053377d",
+        "headline": "Pima County ballots to be mailed for Nov. 3 general election",
+        "sourceName": "Arizona Daily Star",
+        "url": "https://tucson.com/news/local/article_4b5eb0a4-6716-4da7-b044-f8125dda22c9.html",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "Pima County’s administration notice says active early voters will receive ballots beginning Oct. 7 and other voters may request one through Oct. 23. It identifies seven ballot drop boxes available around the clock from Oct. 7 through 7 p.m. on Election Day, providing a model for county-level ballot-return logistics relevant statewide.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0br67aa",
+        "headline": "Everything you need to know about how to vote in Arizona's 2026 election",
+        "sourceName": "Tucson Sentinel",
+        "url": "https://www.tucsonsentinel.com/local/report/100626_vb_az_election/",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The statewide guide explains that mail ballots and in-person voting begin Oct. 7, the mail-ballot request deadline is Oct. 23, counties provide drop boxes, and polling-place rules vary by county. These procedures apply to voters in AZ-01.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0a6czhp",
+        "headline": "More than 3,000 Maricopa County voters got this year’s ballot early",
+        "sourceName": "Phoenix New Times",
+        "url": "https://www.phoenixnewtimes.com/news/more-than-3000-voters-in-maricopa-county-got-this-years-ballot-early-40705053",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "This Maricopa County administration story reports that voters who received ballots early may complete and return them by mail or drop box. It also says ballots received before early voting begins will be securely stored until processing starts.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0epuu99",
+        "headline": "Trump slams Maricopa County recorder over mail-in ballots mailed early",
+        "sourceName": "Tucson.com",
+        "url": "https://tucson.com/news/state-regional/government-politics/elections/article_10d35e3b-b65f-4e65-b186-a4445d4372aa.html",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The Maricopa County report says Runbeck Election Services mailed 3,126 vote-by-mail packets on Oct. 1 even though Arizona’s scheduled mail-ballot distribution began Oct. 7. Election officials said the affected ballots were sent to the correct voters and remained valid.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0e9anez",
+        "headline": "What to know about voting in Arizona's midterm election 2026",
+        "sourceName": "The Arizona Republic",
+        "url": "https://www.azcentral.com/story/news/politics/elections/2026/10/05/arizona-midterm-election-how-to-register-where-to-vote/92056186007/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The statewide voter guide reports that full-ballot voters must provide documented proof of citizenship when registering and valid identification at polling places. It also gives the Oct. 7 start of early voting and mail-ballot distribution, the Oct. 23 request deadline, the Oct. 27 mailing recommendation, and Maricopa County location tools for polling places and drop boxes.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0rv25nc",
+        "headline": "The 2026 election is coming up. Here’s how to vote in Arizona.",
+        "sourceName": "Votebeat Arizona",
+        "url": "https://www.votebeat.org/arizona/2026/10/02/2026-election-how-to-vote-id-mail-ballot-register-congress-governor/",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "This statewide election guide says early voting and mail-ballot distribution begin Oct. 7, mail-ballot requests are due Oct. 23, and ballots must be received by 7 p.m. on Nov. 3. It also lists acceptable in-person identification, including an Arizona driver’s license, state ID, tribal enrollment card, other government ID, or two documents showing the voter’s name and address.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0lm74my",
+        "headline": "Arizona 2026 voter checklist: Important deadlines, ID rules and voting options",
+        "sourceName": "FOX 10 Phoenix",
+        "url": "https://www.fox10phoenix.com/election/arizona-2026-voter-checklist-important-deadlines-id-rules-voting-options-election-facts",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "This statewide voter guide applies directly to AZ-01 voters. It says mail-ballot requests are due Oct. 23, mailed ballots should be sent by Oct. 27, and ballots may instead be returned to a designated drop box or polling place by 7 p.m. on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-az01-auto",
-      "startedAt": "2026-09-30T10:08:10.953Z",
-      "completedAt": "2026-09-30T10:09:24.915Z",
+      "id": "run-2026-10-07-az01-auto",
+      "startedAt": "2026-10-07T10:44:11.277Z",
+      "completedAt": "2026-10-07T10:45:13.601Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 20,
-      "updatesCreated": 7,
+      "sourcesChecked": 19,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for AZ-01. Sources checked: 20. LLM verifications: 12. 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for AZ-01. Sources checked: 19. LLM verifications: 13. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:09:24.915Z",
+    "NEXT_REFRESH_AT": "2026-10-14T10:45:13.601Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
