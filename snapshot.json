@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T10:45:13.601Z",
-  "exportedAt": "2026-10-07T11:10:56.790Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:11:04.644Z",
+  "exportedAt": "2026-10-14T09:30:36.806Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -83,7 +83,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-07-23",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high",
         "notes": "July 15, 2026 settlement between the Maricopa County Board of Supervisors and Recorder Justin Heap resolving the authority dispute over election administration. Governs the November 3, 2026 general election and later contests. The July 21 primary ran under a separate interim plan adopted by the Arizona Supreme Court."
       },
@@ -120,7 +120,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -156,7 +156,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -180,7 +180,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -192,7 +192,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -228,7 +228,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -2142,20 +2142,90 @@
         "relevanceSummary": "This statewide voter guide applies directly to AZ-01 voters. It says mail-ballot requests are due Oct. 23, mailed ballots should be sent by Oct. 27, and ballots may instead be returned to a designated drop box or polling place by 7 p.m. on Election Day.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0ahrk5u",
+        "headline": "Where to vote in Arizona: 2026 general election guide to voting locations and drop boxes",
+        "sourceName": "FOX 10 Phoenix",
+        "url": "https://www.fox10phoenix.com/election/where-vote-arizona-2026-general-election-guide-voting-locations-drop-boxes",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The statewide guide explains county-specific voting locations, drop boxes, mail-ballot deadlines, and ballot-curing schedules. These procedures apply directly to AZ-01 voters through Maricopa County and any other Arizona county where they vote.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-079k11l",
+        "headline": "Voter guide: Education questions on 2026 Pima County ballots",
+        "sourceName": "AZ Luminaria",
+        "url": "https://azluminaria.org/2026/10/12/voter-guide-education-questions-on-2026-pima-county-ballots/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The voter guide provides current Arizona election deadlines, including Oct. 23 for requesting a mail ballot, Oct. 27 as the recommended mailing date, and Nov. 3 as Election Day. The procedural information is statewide even though the ballot questions concern Pima County.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-05yy6in",
+        "headline": "Early voting in Arizona: What you need to know",
+        "sourceName": "ABC15 Arizona",
+        "url": "https://www.abc15.com/news/local-news/early-voting-has-started-in-arizona-heres-what-you-need-to-know",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "Maricopa County opened vote centers and will add more locations before Election Day, with maps and wait times available online. The article also explains the Oct. 23 mail-ballot request deadline, Oct. 27 mailing recommendation, drop-off options, and the new process for showing ID when returning a mail ballot.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-06kitif",
+        "headline": "More than 477K ballots mailed by Pima County to launch early voting in Nov. election",
+        "sourceName": "Tucson Sentinel",
+        "url": "https://www.tucsonsentinel.com/local/report/100726_ballots_sent/",
+        "publishedAt": "2026-10-07",
+        "relevanceSummary": "Pima County mailed more than 477,000 early ballots and provided early-voting and drop-off locations. Although Pima County is outside AZ-01, the coverage documents statewide ballot-administration practices and deadlines relevant to Arizona voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0i4i6vu",
+        "headline": "When will Arizona mail-in ballots be sent out?",
+        "sourceName": "The Arizona Republic",
+        "url": "https://www.azcentral.com/story/news/politics/elections/2026/10/07/arizona-mail-in-ballots/92083502007/",
+        "publishedAt": "2026-10-07",
+        "relevanceSummary": "Mail ballots for the Nov. 3 election begin going out Oct. 7. The article explains that voters must sign the green return envelope, lists official drop-off options, and states that ballots must reach election officials by 7 p.m. on Election Day.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-02ysizs",
+        "headline": "When is early voting in Arizona?",
+        "sourceName": "The Arizona Republic",
+        "url": "https://www.azcentral.com/story/news/politics/elections/2026/10/07/early-voting-arizona/92083698007/",
+        "publishedAt": "2026-10-07",
+        "relevanceSummary": "Arizona voters can vote early in person or by mail from Oct. 7 through the applicable deadlines. The article identifies the Oct. 23 request deadline, Oct. 27 recommended return date, county location lookup, and the new ID-based expedited handling option for returned mail ballots.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0bipaxa",
+        "headline": "How to vote in Arizona midterm elections 2026",
+        "sourceName": "The Arizona Republic",
+        "url": "https://www.azcentral.com/story/news/politics/elections/2026/10/07/arizona-midterm-elections-2026/92083860007/",
+        "publishedAt": "2026-10-07",
+        "relevanceSummary": "Arizona voters can vote by mail, early in person, or at polling locations on Nov. 3. The article lists the Oct. 23 deadline to request a mail ballot, Oct. 27 recommended mailing date, early-voting period, and county polling-location resources relevant to AZ-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-az01-auto",
-      "startedAt": "2026-10-07T10:44:11.277Z",
-      "completedAt": "2026-10-07T10:45:13.601Z",
+      "id": "run-2026-10-14-az01-auto",
+      "startedAt": "2026-10-14T09:10:19.028Z",
+      "completedAt": "2026-10-14T09:11:04.644Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 19,
-      "updatesCreated": 8,
+      "sourcesChecked": 21,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for AZ-01. Sources checked: 19. LLM verifications: 13. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for AZ-01. Sources checked: 21. LLM verifications: 12. 6 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T10:45:13.601Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:11:04.644Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
