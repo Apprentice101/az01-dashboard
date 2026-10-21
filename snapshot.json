@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:11:04.644Z",
-  "exportedAt": "2026-10-14T09:30:36.806Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:01:53.984Z",
+  "exportedAt": "2026-10-21T09:20:29.690Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -83,7 +83,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-07-23",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high",
         "notes": "July 15, 2026 settlement between the Maricopa County Board of Supervisors and Recorder Justin Heap resolving the authority dispute over election administration. Governs the November 3, 2026 general election and later contests. The July 21 primary ran under a separate interim plan adopted by the Arizona Supreme Court."
       },
@@ -120,7 +120,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-maricopa-id": {
@@ -156,7 +156,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -168,7 +168,7 @@
         "sourceType": "official-district",
         "hierarchyLevel": 4,
         "dateAccessed": "2025-12-20",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-az-statutes": {
@@ -180,7 +180,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -192,7 +192,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -228,7 +228,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-01-10",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-eir-cure": {
@@ -2212,20 +2212,100 @@
         "relevanceSummary": "Arizona voters can vote by mail, early in person, or at polling locations on Nov. 3. The article lists the Oct. 23 deadline to request a mail ballot, Oct. 27 recommended mailing date, early-voting period, and county polling-location resources relevant to AZ-01 voters.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0r7jnge",
+        "headline": "Maricopa County tabulating thousands of early ballots two weeks before Election Day",
+        "sourceName": "FOX 10 Phoenix",
+        "url": "https://www.fox10phoenix.com/news/maricopa-county-tabulating-thousands-early-ballots-two-weeks-before-election-day",
+        "publishedAt": "2026-10-21",
+        "relevanceSummary": "Maricopa County is processing early ballots by scanning and verifying affidavit signatures before tabulation. The article says October 23 is the last day to request a mail ballot and recommends returning one by October 27.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0ixgkwc",
+        "headline": "Maricopa County election phone line had wrong election date",
+        "sourceName": "The Arizona Republic",
+        "url": "https://www.azcentral.com/story/news/politics/elections/2026/10/20/maricopa-county-phone-line-gave-out-wrong-election-date/92355223007/",
+        "publishedAt": "2026-10-21",
+        "relevanceSummary": "A Maricopa County voter-information phone line incorrectly gave callers the election date. The article reminds voters that early voting runs through October 30, mail ballots should be returned by October 27, and ballots may be submitted at drop boxes or in person on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0ib4gdg",
+        "headline": "Arizona Propositions 2026: All 8 Explained",
+        "sourceName": "Fresh Calendars",
+        "url": "https://freshcalendars.com/news/arizona-propositions-2026-ballot-explained/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The explainer summarizes Arizona’s statewide voting deadlines, ballot-receipt rules, signature requirements, and in-person identification options. These procedures apply directly to AZ-01 voters, although the outlet is not a primary election authority.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0gu3961",
+        "headline": "Mohave County Recorder Reminds Voters of General Election Information - Oct. 20th",
+        "sourceName": "Mohave County Recorder",
+        "url": "https://www.mohave.gov/news-notices/posts/mohave-county-recorder-reminds-voters-of-general-election-information-oct-20th/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Mohave County provides statewide-relevant guidance on early voting, mail-ballot requests, drop boxes, and Election Day receipt deadlines. It also explains an optional 2026 process allowing voters returning early ballots in person to present identification for verification.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0ojmdrv",
+        "headline": "Voting Resources",
+        "sourceName": "U.S. Representative Yassamin Ansari",
+        "url": "https://ansari.house.gov/voting-resources",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The district office provides Arizona voters with registration, polling-place, ballot-status, mail-ballot, and ballot-tracking resources. It notes that the October 5 registration deadline has passed and gives Maricopa County early-voting and ballot-request information.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-0o21eqt",
+        "headline": "Colorado City Voting Available October 16–17",
+        "sourceName": "Mohave County Recorder",
+        "url": "https://www.mohave.gov/news-notices/posts/mohave-county-recorder-provides-early-voting-update-colorado-city-voting-available-october-16-17/",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The county announced additional early-voting hours and location information and reminded voters to bring acceptable identification. It also describes ballot-return procedures, official drop boxes, and optional ID verification for voters returning their own early ballots in person.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-08fvs35",
+        "headline": "Arizona’s Largest County Warns of Mail-In Ballot Delays",
+        "sourceName": "The Epoch Times",
+        "url": "https://www.theepochtimes.com/us/arizonas-largest-county-warns-of-mail-in-ballot-delays-6104412",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "Maricopa County warned that operational changes at the Postal Service could delay delivery of requested mail ballots. Voters who have not received a ballot are encouraged to contact the Recorder’s Office for a replacement or vote in person.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-az01-08neopz",
+        "headline": "Brophy McGee/Lesko Statement Addressing Election Misinformation",
+        "sourceName": "Maricopa County",
+        "url": "https://content.govdelivery.com/accounts/AZMARIC/bulletins/42f2681",
+        "publishedAt": "2026-10-14",
+        "relevanceSummary": "Maricopa County officials issued a statement addressing election misinformation during the early-voting period. The county-level communication is relevant to AZ-01 voters seeking official election-administration information.",
+        "tag": "security",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-az01-auto",
-      "startedAt": "2026-10-14T09:10:19.028Z",
-      "completedAt": "2026-10-14T09:11:04.644Z",
+      "id": "run-2026-10-21-az01-auto",
+      "startedAt": "2026-10-21T09:00:50.754Z",
+      "completedAt": "2026-10-21T09:01:53.984Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 21,
-      "updatesCreated": 7,
+      "sourcesChecked": 20,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for AZ-01. Sources checked: 21. LLM verifications: 12. 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for AZ-01. Sources checked: 20. LLM verifications: 13. 7 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:11:04.644Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:01:53.984Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
