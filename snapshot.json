@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-28",
-  "updatedAt": "2026-10-28T10:13:14.878Z",
-  "exportedAt": "2026-10-28T10:22:11.894Z",
+  "dataAsOf": "2026-11-04",
+  "updatedAt": "2026-11-04T11:46:01.526Z",
+  "exportedAt": "2026-11-04T11:48:32.594Z",
   "districtCode": "AZ-01",
   "data": {
     "DISTRICT": {
@@ -156,7 +156,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-01-12",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-04",
         "confidence": "high"
       },
       "src-az-irc-maps": {
@@ -180,7 +180,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-01-08",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-04",
         "confidence": "high"
       },
       "src-az-hb2022-law": {
@@ -192,7 +192,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-05-17",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-04",
         "confidence": "high"
       },
       "src-az-clean": {
@@ -2375,17 +2375,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-28-az01-auto",
-      "startedAt": "2026-10-28T10:12:17.578Z",
-      "completedAt": "2026-10-28T10:13:14.878Z",
+      "id": "run-2026-11-04-az01-auto",
+      "startedAt": "2026-11-04T11:45:56.391Z",
+      "completedAt": "2026-11-04T11:46:01.526Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 20,
-      "updatesCreated": 8,
+      "sourcesChecked": 24,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-28 for AZ-01. Sources checked: 20. LLM verifications: 12. 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-04 for AZ-01. Sources checked: 24. LLM verifications: 16. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-04T10:13:14.878Z",
+    "NEXT_REFRESH_AT": "2026-11-11T11:46:01.526Z",
     "WEEKLY_REPORT": {
       "id": "wr-az01-2026-w25",
       "periodStart": "2026-06-03",
